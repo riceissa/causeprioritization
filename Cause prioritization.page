@@ -1,0 +1,106 @@
+Some basic questions like "can causes be compared?", " how do we compare causes?"
+
+# What is cause prioritization?
+
+Cause prioritization aims to look at broad causes (e.g. migration, global warming, global health) in order to compare them, instead of examining individual charities. As GiveWell [says](http://www.givewell.org/labs):
+
+> Historically, GiveWell has sought evidence-backed, thoroughly vetted, underfunded charities for individual donors to support. We've looked for unusually straightforward, evidence-backed value propositions such as "$X delivers Y bednets, which saves Z lives."
+>
+> More recently, we have been broadening our work via the Open Philanthropy Project (formerly GiveWell Labs), which we work on in partnership with Good Ventures. This project looks for the best ways to accomplish good with philanthropy - no matter what form and what sector. Through this project, we are open - among other things - to funding political advocacy, scientific research, startup organizations with no track record, projects with no precedent, and projects with extremely long time horizons.
+
+Also, as 80,000 Hours [notes](https://80000hours.org/2014/01/which-cause-is-most-effective-300/):
+
+> There are several reasons \[why cause prioritization is different from GiveWell's traditional work\].
+> First, GiveWell primarily aims to find the
+> best funding opportunities, so it has a different perspective to us. The
+> best funding opportunities are very relevant to people pursuing
+> [earning-to-give](https://80000hours.org/earning-to-give), but we expect
+> them to be different from the best opportunities to deploy your human
+> capital. Malaria nets are a good funding opportunity precisely because
+> they require relatively little additional skilled human capital. All
+> mainly required is more nets to be made and shipped, which by this stage
+> can easily be accomplished with additional money. We’re much less sure
+> that working on the malaria nets intervention is the best thing to do
+> with your human capital.
+> 
+> We’re aiming to find the best causes for you to generally work within
+> for at least the next couple of years. Our focus is broader than finding
+> non-profits with funding gaps. For instance, there are many promising
+> activities within research and government, and we don’t think it’s
+> obvious that you shouldn’t work on them rather than find a non-profit to
+> support. We’re also focusing on a smaller scale than GiveWell, which
+> aims to find charities with room for at least US\$1m more funding,
+> whereas some of the causes on this list would struggle to absorb that
+> many resources at comparable rates of return.
+> 
+> Second, we think that GiveWell is more effective than their top
+> recommended charities (reasons in their [own
+> words](http://blog.givewell.org/2013/10/02/givewells-funding-needs/)),
+> but they don’t recommend themselves for preserving impartiality.
+> GiveWell is an example of prioritisation research and promoting
+> effective altruism, and we think the effectiveness of GiveWell, among
+> other organisations, is evidence that these causes are in general more
+> promising than global health (at least on the scale of investing less
+> than US\$1m).
+> 
+> Third, we think we differ somewhat from GiveWell in our framework and
+> key judgement calls. In particular, we think GiveWell might underweight
+> the importance of long-run flow-through effects, animal welfare and
+> value of information, while placing higher weight on common sense, and
+> being more sceptical about the ease of finding unusually good
+> interventions.
+
+
+In practice, cause prioritization looks at the importance, tractability, and neglectedness of causes.
+
+# Some basic resources
+
+I think 80,000 Hours has some of the most accessible information on cause prioritization.
+The relevant posts are:
+
+- [A framework for strategically selecting a cause](https://80000hours.org/2013/12/a-framework-for-strategically-selecting-a-cause/)
+
+- [Which cause is most effective?](https://80000hours.org/2014/01/which-cause-is-most-effective-300/)
+
+- [Why pick a cause?](https://80000hours.org/2013/12/why-pick-a-cause/)
+
+In "[Passive vs. rational vs. quantified](http://blog.givewell.org/2013/08/08/passive-vs-rational-vs-quantified/)", Holden Karnofsky gives some insight into how GiveWell assesses charities by comparing the process to that of buying a printer.
+In particular, the post argues against a "quantified" approach, favoring a "rational" approach:
+
+> The weakness of this approach, in my view, is that it takes an enormous amount of effort to do well, and even when done well generally involves so much guesswork and uncertainty that it’s questionable whether the results should influence one’s prior beliefs. Valid, high-certainty information that should shift one’s view (for example, “this printer takes up a lot of space”) can be lost in the noise of all the guesswork used to convert the information into a unified framework (for example, converting the space taken up into dollars gained).
+>
+> When using a single unified equation, one mistake – or omitted parameter – can result in a completely wrong conclusion, even if much of the other analysis that was done is sound. The “rational” approach uses implicit model combination and adjustment, and is more likely to give a good answer even when not all of the inputs are reliable. It can also be more efficient in the sense of view-shifting information gained per person-hour spent.
+
+A similar idea can be found in "[Estimates vs. head to head comparisons](http://rationalaltruist.com/2013/04/28/estimates-vs-head-to-head-comparisons/)".
+In particular:
+
+> This often means that it is better to try and make comparisons of the form “Is X better than Y?” than to try and independently estimate the value of X and Y. When making a comparison between X and Y, we can minimize uncertainty by making the analyses as similar to each other as possible.
+
+Other things to check out:
+
+- <https://href.li/?https://docs.google.com/document/d/1DTl4TYaTPMAtwQTju9PZmxKhZTCh6nmi-Vh8cnSgYak/edit>
+
+# Cause prioritization itself as a cause
+
+Quoting 80,000 Hours:
+
+> Prioritisation research is activity aimed at working out which causes, interventions, organisations, policies, etc. do the most to make the world a better place. Organisations and projects within this cause include some policy think-tanks and some parts of economics. Within prioritisation research, we think the most high-priority area is long-run-focused cause-prioritisation. That is, research aimed at working out which causes do the most to make the world a better place in the long-run if we add more resources to them. Note that this research need not consist of detailed economic modelling. Cause-prioritisation can also involve down-to-earth projects like investigating room for more funding or aggregating expert opinion. Organisations within this sub-cause include the Copenhagen Consensus, GiveWell, the Future of Humanity Institute and the Centre for Effective Altruism (our parent charity).
+
+##
+
+Some questions to answer:
+
+- Can lowly individuals with little experience accomplish anything in this domain?
+- Is doing research in the open preferable?
+- Is it worth it even if we fail to make progress?
+
+# People and groups doing cause prioritization research
+
+- As noted above, 80,000 Hours seems to have very accessible research available.
+
+    - [Katja Grace](https://80000hours.org/2014/09/cause-prioritization-summary/)
+
+- Copenhagen Consensus Center
+
+- GiveWell labs
+
