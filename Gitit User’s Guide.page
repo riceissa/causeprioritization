@@ -499,30 +499,36 @@ Set up your DNS so that `http://wiki.mysite.com` maps to
 your server's IP address. Make sure that the `mod_proxy`, `mod_proxy_http` and `mod_rewrite` modules are
 loaded, and set up a virtual host with the following configuration:
 
-    <VirtualHost *>
-        ServerName wiki.mysite.com
-        DocumentRoot /var/www/
-        RewriteEngine On
-        ProxyPreserveHost On
-        ProxyRequests Off
-    
-        <Proxy *>
-           Order deny,allow
-           Allow from all
-        </Proxy>
-    
-        ProxyPassReverse /    http://127.0.0.1:5001
-        RewriteRule ^(.*) http://127.0.0.1:5001$1 [P]
-    
-        ErrorLog /var/log/apache2/error.log
-        LogLevel warn
-    
-        CustomLog /var/log/apache2/access.log combined
-        ServerSignature On
-    
-    </VirtualHost>
+(**EDIT**: For the first line, doing `<VirtualHost *:80>` worked better than just `<VirtualHost *>`.
+Also for `ServerName`, if the gitit wiki is going to be on a dedicated domain like <http://causeprioritization.org>, then using the domain name (i.e. `causeprioritization.org`) works.
 
-Reload your apache configuration and you should be all set.
+Also, make sure to put this VirtualHost at the very end of `/etc/apache2/sites-available/SITENAME`, so that it doesn't eat up connections to the main site.)
+
+```
+<VirtualHost *:80>
+    ServerName wiki.mysite.com
+    DocumentRoot /var/www/
+    RewriteEngine On
+    ProxyPreserveHost On
+    ProxyRequests Off
+
+    <Proxy *>
+        Order deny,allow
+        Allow from all
+    </Proxy>
+
+    ProxyPassReverse /    http://127.0.0.1:5001
+    RewriteRule ^(.*) http://127.0.0.1:5001$1 [P]
+
+    ErrorLog /var/log/apache2/error.log
+    LogLevel warn
+
+    CustomLog /var/log/apache2/access.log combined
+    ServerSignature On
+</VirtualHost>
+```
+
+Reload your apache configuration (with `sudo /etc/init.d/apache2 restart` or `sudo service apache2 restart`) and you should be all set.
 
 Using nginx to achieve the same
 -------------------------------
@@ -606,6 +612,16 @@ Using gitit as a library
 By importing the module `Network.Gitit`, you can include a gitit wiki
 (or several of them) in another happstack application. There are some
 simple examples in the haddock documentation for `Network.Gitit`.
+
+# Custom notes
+
+Some possibly surprising things about hosting gitit with Apache:
+
+- Actually enabling port 5001 (or whichever port one is using) on Apache is *not* necessary.
+(Because of the mod_proxy and also because Happstack is the one that sets up port 5001?)
+
+- Changing the IP address in `my.conf` is *not* necessary.
+In other words, one can just use the default `address: 0.0.0.0` with `port: 5001`.
 
 Reporting bugs
 ==============
