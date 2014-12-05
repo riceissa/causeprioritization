@@ -46,6 +46,8 @@ If an external (i.e. not on `causeprioritization.org`) HTML page is referenced, 
 [text](http://example.com) ([Internet Archive](link_to_archive), [WebCite](link_to_archive))
 ```
 
+For other formats (e.g. PDF), I try to keep several copies to ensure future accessibility.
+
 # A note on licensing
 
 In order to make the work done here as extensible as possible, we ask that **all contributions be made under the [Creative Commons Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) license**.
