@@ -30,6 +30,13 @@ Eventually, we hope this wiki will have information for some or all of these cau
 **Note**: All principal causes (i.e. like those listed above) will have the category "[a-cause](http://causeprioritization.org/_category/a-cause)".
 (This is so that in the future, if the number of principal causes increases, these can all be found in one place, even if the list above is not updated.)
 
+# If you want to contribute
+
+[Contact me](http://issarice.com/contact) and I can give you an account on the wiki.
+Alternatively, you can fork the [wikidata directory](https://github.com/riceissa/causeprioritization) on GitHub, and send me a pull request.
+
+If you're not sure where you can contribute, try searching for "FIXME" in the search bar.
+
 # A note on licensing
 
 In order to make the work done here as extensible as possible, we ask that **all contributions be made under the [Creative Commons Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) license**.
