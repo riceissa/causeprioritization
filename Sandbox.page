@@ -5,4 +5,4 @@ format: markdown
 This is the sandbox page, where you can test out formatting.
 
 term
-: definition
+:    definition
