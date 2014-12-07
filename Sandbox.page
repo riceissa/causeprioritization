@@ -6,3 +6,9 @@ This is the sandbox page, where you can test out formatting.
 
 term
 :    definition
+
+
+col1 col2 col3
+---- ---- ----
+ 1     2    3
+ a     b    c
