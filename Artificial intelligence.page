@@ -3,6 +3,18 @@ format: markdown
 categories: artificial-intelligence a-cause existential-risks
 ...
 
+# Summary
+
+Importance
+:    \<importance rating\>
+
+Tractability
+:    \<tractability rating\>
+
+Neglectedness
+:    \<neglectedness rating\>
+
+
 <!-- keywords: ai siai miri singularity eliezer yudkowsky agi
                asi fai friendly ai
 -->
