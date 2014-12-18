@@ -14,3 +14,13 @@ col1 col2 col3
  a     b    c
 
 test
+
+```python
+def f(x):
+    def g(y):
+        return x + y
+```
+
+```latex
+\emph{testing}
+```
