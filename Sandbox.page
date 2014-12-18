@@ -22,5 +22,5 @@ def f(x):
 ```
 
 ```latex
-\emph{testing}
+\emph{testing} & $\sin x$ % comment
 ```
