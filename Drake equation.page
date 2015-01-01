@@ -1,0 +1,28 @@
+---
+format: markdown
+categories: cause-prioritization
+...
+
+The **Drake equation** was first [used to estimate the number of extraterrestrial civilizations in our galaxy](https://en.wikipedia.org/wiki/Drake_equation).
+The idea is to calculate the number of possible planets (which is itself calculated) and to keep taking fractions of that number according to various parameters.
+Vipul Naik of *Open Borders: The Case* says:
+
+
+> The [Drake equation](http://en.wikipedia.org/wiki/Drake_equation) is a
+> probabilistic argument used to estimate the number of active,
+> communicative extraterrestrial civilizations in the Milky Way galaxy.
+> The idea is to express the number of such civilizations as a product of
+> quantities in a manner that’s true by definition, but also such that one
+> can talk somewhat more intelligently about estimating the individual
+> factors than one can talk about directly estimating the number of
+> active, communicative extraterrestrial civilizations. XKCD has poked fun
+> at the Drake equation in at least [two](http://xkcd.com/384/)
+> [comics](http://xkcd.com/718/). Viewed as an exercise aimed at obtaining
+> precise actionable estimates, the Drake equation is probably futile. But
+> viewed as a way to start thinking about the problem, it is arguably
+> useful. The main reason it’s bad for estimation is that the
+> multiplicative nature of the model means that the huge uncertainty in
+> measurement for each of the factors is also multiplicative, leading to a
+> gigantic uncertainty in the overall estimation.
+
+The general "cause prioritization Drake equation" would be to estimate the gains from a cause (roughly the "importance") and to keep taking fractions of those gains according to uncertainties.
