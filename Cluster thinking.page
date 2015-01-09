@@ -6,3 +6,9 @@ categories: cause-prioritization
 **Cluster thinking** is a kind of thinking where one separates various perspectives, weighs each, then comes to a final conclusion.
 It contrasts with [Sequence thinking]().
 It was first outlined by Holden Karnofsky in his GiveWell blog post "[Sequence Thinking vs. Cluster Thinking](http://blog.givewell.org/2014/06/10/sequence-thinking-vs-cluster-thinking/)".
+
+Here, "perspectives" or "models" means different ways of thinking about the problem:
+
+> [Besides an expected value calculation, w]e also have a variety of other perspectives for evaluating the action: does this action deviate greatly from "normality?" Does it deviate from what expert opinion would suggest? Does this action pattern-match (even superficially) to other successful actions or to other failed actions?[^models]
+
+[^models]: <http://www.givewell.org/modeling-extreme-model-uncertainty>
