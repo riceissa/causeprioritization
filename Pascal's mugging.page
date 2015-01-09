@@ -5,4 +5,4 @@ categories: modeling
 
 Pascal's mugging is ...
 
-test: $3\uparrow3$
+test: $3\uparrow\uparrow\uparrow 3$
