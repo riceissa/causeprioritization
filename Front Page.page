@@ -46,8 +46,10 @@ If an external (i.e. not on `causeprioritization.org`) HTML page is referenced, 
 [text](http://example.com)<!--(link_to_archive1)(link_to_archive2)-->
 ```
 
+(This makes it simple to switch out the links in case they become broken.)
+
 For other formats (e.g. PDF), I try to keep several copies to ensure future accessibility.
-For publicly available documents, I will try to do something like `[text](link_to_original) ([archive](link_to_my_copy))`.
+For publicly available documents, I will try to do something like `[text](link_to_original)<!--(link_to_my_copy)-->`.
 For paywalled articles I unfortunately cannot do this.
 
 # A note on licensing
