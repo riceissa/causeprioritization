@@ -3,3 +3,106 @@ format: markdown
 categories: cause-prioritization
 ...
 
+(Importing a draft post by [Vipul Naik](http://vipulnaik.com), with his permission; this can be edited freely.)
+
+A few months ago, while researching scenario analysis, I came across an
+acronym called PESTEL.
+PESTEL stands for political, economic, social,
+technological, environmental, and legal. Broadly,these are the different
+dimensions we need to consider when evaluating different scenarios
+(another source I read talked of the STEEP framework, that omitted
+"legal" from the list, presumably because of its overlap with the
+political dimension).
+
+Causes typically considered in EA contexts fare quite differently with
+respect to the dimensions where they involve the most change, and to
+effectively prioritize between causes, we need to have a general
+understanding of just how tractable each dimension of change is.
+
+**The easy case: the causes where the limiting factor is money**
+
+The causes that are simplest to understand are those where a proven
+approach simply needs to be scaled up, and the main constraint is money.
+We have a relatively clear idea of how additional money would translate
+to results on the ground. No significant changes are necessary on any of
+the PESTEL dimensions (though even these simple
+interventions may have ripple effects on these other dimensions over the
+longer term). GiveWell's current and former top-rated charities, such as
+GiveDirectly, Against Malaria Foundation, Schistosomiasis Control
+Initiative, fit this description, at least as they are typically
+described: there is a proven (or semi-proven) intervention with a
+roughly determined bang for the buck, so if more money flows to the
+intervention, more stuff will be accomplished.
+
+In this post, I will ignore the "easy cases". Of course, to obtain a
+satisfactory answer to the cause prioritization question on the whole,
+we would need to compare the easy cases with the harder cases. But I
+want to begin by simply evaluating the harder cases. A lot has been
+written (particularly by GiveWell) on the evaluation of easy cases, so
+it makes sense to focus on the harder cases.
+
+**The Importance, Neglectedness, Tractability (INT) framework**
+
+In comments on the EA open thread, people have talked about three
+criteria for cause evaluation:
+
+-   Importance
+-   Neglectedness
+-   Tractability
+
+While importance, neglectedness, and tractability vary by cause, this
+post talks more about how the INT framework interacts in general with
+the PESTEL framework. Can we say anything in
+general about whether causes that require mostly political change are
+more likely to be important or neglected than causes that require mostly
+technological change? Can we say about about whether causes that focus
+on economic change are more tractable than those that focus on legal
+change? A general INT X PESTEL analysis can
+offer good Bayesian priors for our investigations of particular causes.
+
+**The political and legal dimensions**
+
+I'm clubbing the political and legal together, even though there are
+important differences: many legal changes can be accomplished through
+non-political channels (case law and judicial precedent can occur
+independently of "politics" as it's usually conceived), and many
+"political" changes may not operate through any formal changes to the
+legal framework. Nonetheless, the main reason we care about political
+change is that politics is the mechanism through which laws are decided.
+
+Some examples of big policy changes that have been considered
+high-potential from the EA perspective, grouped by category:
+
+-   Libertarian/globalization: Migration policy (the extreme being open
+    borders), trade policy (the extreme being free trade)
+-   Libertarian/basic economic freedom: Getting governments around the
+    world to the level of economic freedom seen in relatively
+    economically free countries, such as the US and Canada.
+-   Libertarian/libertine: Allowing markets in products that might be
+    high-value to trade, such as human organs and tissues. Also,
+    allowing trade that may not be intrinsically high-value, but where
+    the crackdown is (believed to be) very socially and economically
+    destructive. Examples here might be drug legalization and allowing
+    prostitution.
+-   Intellectual property: Various directions of IP reform have been
+    considered, generally in the direction of making copyright, patent,
+    and trademark law less stringent. The main social value
+    justification is with respect to patent law in drug discovery,
+    though patents might also have an impact on innovation in the
+    software world.
+
+There are "spending"-type policy changes, that mainly involve
+influencing how governments allocate money:
+
+-   Foreign aid: The idea is to lobby governments of better-off
+    countries to spend more on foreign aid, specifically on the most
+    high-value components of foreign aid.
+-   Technological investment: Lobbying governments to spend more (or
+    less) on particular forms of technology.
+-   Intranational stuff: Most of this isn't promising from the EA
+    perspective directly, but it could be based on flow-through effects.
+    For instance, perhaps socialized universal health care and/or a
+    radical free market in health care could deliver huge social value,
+    both directly and through the increased wealth and technological
+    progress it enables. Perhaps a more robust social safety net could
+    also have strong flow-through effects.
