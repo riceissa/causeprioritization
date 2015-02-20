@@ -95,7 +95,7 @@ Alternatively, you can fork the [wikidata directory](https://github.com/riceissa
 
 If you're not sure where you can contribute, try searching for "[FIXME](http://causeprioritization.org/_search?patterns=FIXME&search=Search)" in the search bar.
 
-This site is intended to be [Long Content](http://www.gwern.net/About#long-site); cloning the git repository is a small way to help.
+This site is intended to be [Long Content](http://www.gwern.net/About#long-site); cloning the git repository (i.e. making the data redundant) is a small way to help.
 If you find any broken links, you can try to find the new location or find an archived version on the [Internet Archive](), [Archive.Today](http://archive.today/), or [WebCite](http://webcitation.org/archive) (for more remote caching services, see [gwern's list](http://www.gwern.net/Archiving%20URLs#remote-caching)).
 If an external (i.e. not on `causeprioritization.org`) HTML page is referenced, please add in parentheses (within an HTML comment) links to archives like this:
 
