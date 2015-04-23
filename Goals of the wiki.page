@@ -19,10 +19,37 @@ Some thoughts:
     If a cause is controversial, it's important first to actually establish that it's something worth working on (because putting effort into something that's likely to cause harm is wasteful), so the format for those pages might take on a "pros and cons" sort of thing.
     If a cause is already considered good (and no one really thinks it's bad) then this "pros and cons" doesn't make sense; we just want to know how big of a deal the cause is.
     - Also considering various parameters like: whether a cause is likely to affect the long term trajectory of humanity (as Nick Beckstead argues we might want to), and also how important the cause becomes given different assumptions.
-    One of the big things to think about is that given different assumptions, the importance of certain causes can fluctuate wildly.
+    One of the big things to think about is that given different assumptions, the importance of certain causes can fluctuate wildly.[^animal]
     And the assumptions sometimes seem to be a matter of "personal taste" or "intuitive assumptions"---which is precisely the sort of thing cause prioritization is trying to eliminate by conducting rigorous analyses of causes.
     Now the thing is, sometimes it's very hard to figure out which assumptions are right, so we might only be able to say something after aggregating many different moral philosophies (so curve fitting over moral philosophies, as Nick Beckstead discusses in his PhD thesis; and probably Will MacAskill also does this). 
     One approach to CP, then, is to consider the importance of each cause given these different assumptions, and to rank them in each situation (sort of like how the IPCC considers different scenarios?).
+
+[^animal]:
+For instance, the importance of reducing animal suffering depends heavily on what people's positions are on the "moral weight" of animals.
+As Scott Alexander has said in "[A Series Of Unprincipled Exceptions](http://slatestarcodex.com/2015/03/04/a-series-of-unprincipled-exceptions/)":
+
+> Most people intuitively believe that animals have non-zero moral value;
+> it’s worse to torture a dog than to not do that. Most people also
+> believe their moral value is some function of the animal’s complexity
+> and intelligence which leaves them less morally important than humans
+> but not *infinitely* less morally important than humans. Most people
+> then conclude that probably the welfare of animals is moderately
+> important in the same way the welfare of various other demographic
+> groups like elderly people or Norwegians is moderately important – one
+> more thing to plug into the moral calculus.
+> 
+> In reality it’s pretty hard to come up with way of valuing animals that
+> makes this work. If it takes a thousand chickens to have the moral
+> weight of one human, the importance of chicken suffering alone is
+> probably within an order of magnitude of all human suffering. You would
+> need to set your weights *remarkably* precisely for the values of global
+> animal suffering and global human suffering to even be in the same
+> ballpark. Barring that amazing coincidence, either you shouldn’t care
+> about animals at all or they should totally swamp every other concern.
+> Most of what would seem like otherwise reasonable premises suggest the
+> “totally swamp every other concern” branch.
+
+
 
 - What to optimize for?
   Examples:
