@@ -3,133 +3,270 @@ format: markdown
 categories: education, education-reform-and-disruption
 ...
 
-(Note: I'm using this as a place to store notes for a school project[^spencer]; the hope is to later modify this project to make a series of pages for this wiki.)
+(Note: I'm using this as a place to store notes for a school
+project[^spencer]; the hope is to later modify this project to make a
+series of pages for this wiki.)
 
-[^spencer]: In particular, thanks to Spencer P. for working on this project with me.
+[^spencer]: In particular, thanks to Spencer P. for working on this
+project with me.
 
-**Unschooling** (also sometimes called "unstructured learning", "progressive education", "self-directed learning", and so on) is a type of learning that is unstructured and allows students to learn what they are interested in instead of going through a conventional school.
-[Wikipedia defines it](https://en.wikipedia.org/wiki/Unschooling) as follows:
+**Unschooling** (also sometimes called "unstructured learning",
+"progressive education", "self-directed learning", and so on) is a type
+of learning that is unstructured and allows students to learn what they
+are interested in instead of going through a conventional school.
+[Wikipedia defines it](https://en.wikipedia.org/wiki/Unschooling) as
+follows:
 
-> Unschooling is an educational method and philosophy that advocates learner-chosen activities as a primary means for learning. Unschooling students learn through their natural life experiences including play, household responsibilities, personal interests and curiosity, internships and work experience, travel, books, elective classes, family, mentors, and social interaction. Unschooling encourages exploration of activities initiated by the children themselves, believing that the more personal learning is, the more meaningful, well-understood and therefore useful it is to the child. While courses may occasionally be taken, unschooling questions the usefulness of standard curricula, conventional grading methods, and other features of traditional schooling in the education of each unique child.
+> Unschooling is an educational method and philosophy that advocates
+> learner-chosen activities as a primary means for learning. Unschooling
+> students learn through their natural life experiences including play,
+> household responsibilities, personal interests and curiosity,
+> internships and work experience, travel, books, elective classes,
+> family, mentors, and social interaction. Unschooling encourages
+> exploration of activities initiated by the children themselves,
+> believing that the more personal learning is, the more meaningful,
+> well-understood and therefore useful it is to the child. While courses
+> may occasionally be taken, unschooling questions the usefulness of
+> standard curricula, conventional grading methods, and other features
+> of traditional schooling in the education of each unique child.
 
-In addition, "unschoolers are afforded the valuable freedom to go and do real things with other people, learning how to negotiate various social situations in the process."[^stubbart]
+In addition, "unschoolers are afforded the valuable freedom to go and do
+real things with other people, learning how to negotiate various social
+situations in the process."[^stubbart]
 
 [^stubbart]:
 Pamela J. Stubbart.
 "Unschooling Shouldn't Be Child-Centered".
 2012-03-20.
-<http://www.huffingtonpost.com/pamela-j-stubbart/unschooling-shouldnt-be-c_b_1367259.html>
+<http://www.huffingtonpost.com/pamela-j-stubbart/unschooling-shouldnt-be-c_b_1367259.html>.
 
-In the context of cause prioritization, it is important to look at the benefits and drawbacks of unschooling compared to traditional schooling (importance), for which students unschooling might be a net positive, how easy it is to implement compared to traditional schooling (tractability), who is working on unschooling (neglectedness), and so on.
+In the context of cause prioritization, it is important to look at the
+benefits and drawbacks of unschooling compared to traditional schooling
+(importance), for which students unschooling might be a net positive,
+how easy it is to implement compared to traditional schooling
+(tractability), who is working on unschooling (neglectedness), and so
+on.
 
-Unschooling fits under the bigger cause of [Education reform and disruption]().
+Unschooling fits under the bigger cause of [Education reform and
+disruption]().
 
 
 ## Literature review
 
-Below we present a review of the unschooling literature (which will help to determine how important unschooling is as a cause).
+Below we present a review of the unschooling literature (which will help
+to determine how important unschooling is as a cause).
 
-It is important to note that one issue with investigating unschooling is the lack of research on the subject.
-Martin-Chang et al.[^martinchang] (2011, pg 201), talking about research on homeschooling (which itself has more research done on it than on unschooling) concludes:
+It is important to note that one issue with investigating unschooling is
+the lack of research on the subject.  Martin-Chang et al.[^martinchang]
+(2011, pg 201), talking about research on homeschooling (which itself
+has more research done on it than on unschooling) concludes:
 
-> [T]he increasing popularity of homeschooling is at odds with the dearth of scientific research being conducted in this area. As argued by Isenberg (2007), “Despite its size, scarce data on homeschooling have impaired our understanding of even the most basic questions” (p. 387). Practical restraints such as the heterogeneity of the population and difficulties in obtaining adequate sample sizes make homeschooling a challenging field of study.
+> [T]he increasing popularity of homeschooling is at odds with the
+> dearth of scientific research being conducted in this area. As argued
+> by Isenberg (2007), “Despite its size, scarce data on homeschooling
+> have impaired our understanding of even the most basic questions” (p.
+> 387). Practical restraints such as the heterogeneity of the population
+> and difficulties in obtaining adequate sample sizes make homeschooling
+> a challenging field of study.
 
-Indeed, in contrast to the 25 structured homeschooled children and 37 public school children that Martin-Chang et al. studied, only 12 unstructured homeschooled children (= unschoolers) were participants, which was few enough in number that they were unable to include the results of the analysis of unstructured homeschooled children in their main findings (instead relegating that to the very end of their results section) (pg 198).
+Indeed, in contrast to the 25 structured homeschooled children and 37
+public school children that Martin-Chang et al. studied, only 12
+unstructured homeschooled children (= unschoolers) were participants,
+which was few enough in number that they were unable to include the
+results of the analysis of unstructured homeschooled children in their
+main findings (instead relegating that to the very end of their results
+section) (pg 198).
 
-Even with these difficulties though, it is still possible to conclude some things about unschooling. For instance, Ray (2010) conducted a "nationwide cross-sectional, descriptive study" to determine the educational attainment as well as many demographic features (e.g. age, family income, computer use) of homeschoolers, which notably included data on unstructured learners (defined by him in the survey as a learning style "centered upon the child's interests or the eclectic nature of the teaching parent").
-It is important first to note that the sample of homeschoolers examined by Ray (2010) has a similar limitation to most other studies on homeschoolers, namely that the participants were self-selected (as opposed to a random sample), meaning the participants could potentially be, say, some of the highest-achieving homeschoolers.[^selection]
-In addition to this Martin-Chang et al. (2011) writes (pg 196) of Ray (2010):
+Even with these difficulties though, it is still possible to conclude
+some things about unschooling. For instance, Ray (2010) conducted a
+"nationwide cross-sectional, descriptive study" to determine the
+educational attainment as well as many demographic features (e.g. age,
+family income, computer use) of homeschoolers, which notably included
+data on unstructured learners (defined by him in the survey as a
+learning style "centered upon the child's interests or the eclectic
+nature of the teaching parent").  It is important first to note that the
+sample of homeschoolers examined by Ray (2010) has a similar limitation
+to most other studies on homeschoolers, namely that the participants
+were self-selected (as opposed to a random sample), meaning the
+participants could potentially be, say, some of the highest-achieving
+homeschoolers.[^selection] In addition to this Martin-Chang et al.
+(2011) writes (pg 196) of Ray (2010):
 
-> [T]he population comprised only those homeschoolers who used the services of academic testing companies. In addition, many of these parents earned higher incomes than the general population.
+> [T]he population comprised only those homeschoolers who used the
+> services of academic testing companies. In addition, many of these
+> parents earned higher incomes than the general population.
 
-Thus it is important to keep this in mind when looking at the results of Ray (2010).
-The study examined both the overall structure in the approach to learning (i.e. structured versus unstructured), as well as the amount of time spent per day on structured activities.
-In both cases, a statistically significant relationship was found between structure and test scores, favoring more structure.
-However, both the degree and amount of structure each only accounted for about 0.5% of the variance in the scores.
+Thus it is important to keep this in mind when looking at the results of
+Ray (2010).  The study examined both the overall structure in the
+approach to learning (i.e. structured versus unstructured), as well as
+the amount of time spent per day on structured activities.  In both
+cases, a statistically significant relationship was found between
+structure and test scores, favoring more structure.  However, both the
+degree and amount of structure each only accounted for about 0.5% of the
+variance in the scores.
 
-Ray (2010) did find that (consistent with other research on homeschoolers), the homeschooling population (including unschooling) had "exceptionally high" test scores compared to those in public schools.
-Since the degree and amount of structure did not explain much of the variance in scores among homeschoolers, this does mean that (at least with this possibly highly biased sample) even unstructured learners scored above public school students (on average).
+Ray (2010) did find that (consistent with other research on
+homeschoolers), the homeschooling population (including unschooling) had
+"exceptionally high" test scores compared to those in public schools.
+Since the degree and amount of structure did not explain much of the
+variance in scores among homeschoolers, this does mean that (at least
+with this possibly highly biased sample) even unstructured learners
+scored above public school students (on average).
 
-Martin-Chang (2011) also studied students in public schools, as well as homeschoolers with both a structured and unstructured environment, specifically to determine educational achievement.
-Their sample is slightly less useful in that the participants' age range was from 5 to 10 years old, which could mean that any differences in scores could amplify or even out given more years (or even do something more unusual).
-The study found that "structured homeschooling were superior to the children enrolled in public school across all seven subtests" (pg 199), and that in terms of overall achievement, structured homeschoolers had higher scores even accounting for family income and the mother's educational attainment (pg 199).
-The study found, however, that unstructured homeschoolers overall had lower scores than both the structured homeschoolers and the public school students.
-Compared to the structured homeschoolers, the unstructured group differed in scores from 1.32 to 4.20 grade levels, depending on the test.
-Compared to the public school group, the unstructured group had scores that were lower but within about one grade level.
-In terms of the "difference scores in grade levels", i.e. the students' actual score minus the predicted score, the unstructured group scored within one grade level in each of the subtests, indicating that they are performing at within one grade level of what is expected of them.
+Martin-Chang (2011) also studied students in public schools, as well as
+homeschoolers with both a structured and unstructured environment,
+specifically to determine educational achievement.  Their sample is
+slightly less useful in that the participants' age range was from 5 to
+10 years old, which could mean that any differences in scores could
+amplify or even out given more years (or even do something more
+unusual).  The study found that "structured homeschooling were superior
+to the children enrolled in public school across all seven subtests" (pg
+199), and that in terms of overall achievement, structured homeschoolers
+had higher scores even accounting for family income and the mother's
+educational attainment (pg 199).  The study found, however, that
+unstructured homeschoolers overall had lower scores than both the
+structured homeschoolers and the public school students.  Compared to
+the structured homeschoolers, the unstructured group differed in scores
+from 1.32 to 4.20 grade levels, depending on the test.  Compared to the
+public school group, the unstructured group had scores that were lower
+but within about one grade level.  In terms of the "difference scores in
+grade levels", i.e. the students' actual score minus the predicted
+score, the unstructured group scored within one grade level in each of
+the subtests, indicating that they are performing at within one grade
+level of what is expected of them.
 
-It is important to note, however, that some of these tests may uniquely disadvantage unstructured learners.
-For instance, one of the tests, "Word Attack" is "a measure of pure decoding.
-It contains 30 nonwords that children are asked to read aloud according to conventional spelling–sound conversion rules." (pg 198)
-For students who have not gone through any sort of formal reading curriculum, trying to pronounce nonwords may be an especially difficult task.
-The Word Attack test, after all, was patterned after an exercise practiced in structured phonetics education.
-In addition, with the very small sample size of 12, as well as the young age of the participants, it is difficult to conclude anything.
+It is important to note, however, that some of these tests may uniquely
+disadvantage unstructured learners.  For instance, one of the tests,
+"Word Attack" is "a measure of pure decoding.  It contains 30 nonwords
+that children are asked to read aloud according to conventional
+spelling–sound conversion rules." (pg 198) For students who have not
+gone through any sort of formal reading curriculum, trying to pronounce
+nonwords may be an especially difficult task.  The Word Attack test,
+after all, was patterned after an exercise practiced in structured
+phonetics education.  In addition, with the very small sample size of
+12, as well as the young age of the participants, it is difficult to
+conclude anything.
 
-A qualitative survey of 232 self-identified unschoolers by Gray (2013) notes many advantages of unschooling.
-For instance, over half the respondents indicated that children were “learning more efficiently and eagerly, and learning more life-relevant material, than they would if they were in school”, as well as citing greater curiosity and intrinsic interest (pg 16).
-In addition, over half the respondents also noted that their “children were happier, less stressed, more self-confident, more agreeable” (pg 16).
-It is important to note, however, that the respondents were self-selected and that the survey questions were open-ended (pg 18--19).
+A qualitative survey of 232 self-identified unschoolers by Gray (2013)
+notes many advantages of unschooling.  For instance, over half the
+respondents indicated that children were “learning more efficiently and
+eagerly, and learning more life-relevant material, than they would if
+they were in school”, as well as citing greater curiosity and intrinsic
+interest (pg 16).  In addition, over half the respondents also noted
+that their “children were happier, less stressed, more self-confident,
+more agreeable” (pg 16).  It is important to note, however, that the
+respondents were self-selected and that the survey questions were
+open-ended (pg 18--19).
 
 ### Research not specifically about unschooling
 
-Dynan et al. (2008) examined the acquisition of self-directed learning skills in structured and unstructured learning environments.
-The study quotes Knowles (1975) and defines "self-directed learning" (SDL) as "a process in which individuals take the initiative, with or without the help of others, in diagnosing their learning needs, formulating learning goals, identifying human and material resources, choosing and implementing appropriate learning strategies, and evaluating learning outcomes" (pg 96).
-The study was conducted through an upper level business school course, where one section was taught with more structure while the other gave students more freedom; about 250 students participated in total.
-The participants (who were students in the courses) were given a pretest and a posttest to determine their "SDL readiness".
-The study found that although both the structured and unstructured forms of the course raised students' SDL scores, the more important indicator was whether the learning environment matched the students' SDL readiness.
-In other words, the students with higher SDL scores (i.e. those who were more self-directed learners) thrived in an unstructured environment and become more self-directed, and conversely for those who didn't have high SDL scores, the structured environment seemed to raise their SDL scores more reliably.
+Dynan et al. (2008) examined the acquisition of self-directed learning
+skills in structured and unstructured learning environments.  The study
+quotes Knowles (1975) and defines "self-directed learning" (SDL) as "a
+process in which individuals take the initiative, with or without the
+help of others, in diagnosing their learning needs, formulating learning
+goals, identifying human and material resources, choosing and
+implementing appropriate learning strategies, and evaluating learning
+outcomes" (pg 96).  The study was conducted through an upper level
+business school course, where one section was taught with more structure
+while the other gave students more freedom; about 250 students
+participated in total.  The participants (who were students in the
+courses) were given a pretest and a posttest to determine their "SDL
+readiness".  The study found that although both the structured and
+unstructured forms of the course raised students' SDL scores, the more
+important indicator was whether the learning environment matched the
+students' SDL readiness.  In other words, the students with higher SDL
+scores (i.e. those who were more self-directed learners) thrived in an
+unstructured environment and become more self-directed, and conversely
+for those who didn't have high SDL scores, the structured environment
+seemed to raise their SDL scores more reliably.
 
-In addition to studies that assess structured versus unstructured learning generally (as in the studies examined so far), there are also studies that look at specific topics.
-Below we look at math education in the form of a "mathematics studio" and a study on using video games for learning.
-Shaffer (1997) investigates the use of of a "mathematics studio" (specifically a studio called "Escher's World" at the MIT Media Lab) to explore how students learn mathematics (specifically the concept of symmetry) in a "relaxed atmosphere" where they are free to work in workshops that are equipped with computers and other materials (pg 97–98).
-The study conducted interviews before and after the workshop and two to five months afterwards (as a followup).
-Other forms of data collection were also used (video recordings, field notes, written surveys).
-Shaffer notes that "[s]tudents used a richer, more formal, more analytical, and more mathematical vocabulary to describe images after the workshop" (pg 100), and that most learned how to make designs using symmetry and explain the concept of symmetry.
-The students also began to use "visual problem solving strategies after the workshop" in word problems that were unrelated to symmetry, and even reported liking math more (pg 101–102).
-The study concludes (pg 111):
+In addition to studies that assess structured versus unstructured
+learning generally (as in the studies examined so far), there are also
+studies that look at specific topics.  Below we look at math education
+in the form of a "mathematics studio" and a study on using video games
+for learning.  Shaffer (1997) investigates the use of of a "mathematics
+studio" (specifically a studio called "Escher's World" at the MIT Media
+Lab) to explore how students learn mathematics (specifically the concept
+of symmetry) in a "relaxed atmosphere" where they are free to work in
+workshops that are equipped with computers and other materials (pg
+97–98).  The study conducted interviews before and after the workshop
+and two to five months afterwards (as a followup).  Other forms of data
+collection were also used (video recordings, field notes, written
+surveys).  Shaffer notes that "[s]tudents used a richer, more formal,
+more analytical, and more mathematical vocabulary to describe images
+after the workshop" (pg 100), and that most learned how to make designs
+using symmetry and explain the concept of symmetry.  The students also
+began to use "visual problem solving strategies after the workshop" in
+word problems that were unrelated to symmetry, and even reported liking
+math more (pg 101–102).  The study concludes (pg 111):
 
-> the results from Escher’s World show that expression and expressive activities have a noticeable affective influence on the process of learning, and that therefore, expression can play a positive role in mathematics education by helping students control their own learning.
+> the results from Escher’s World show that expression and expressive
+> activities have a noticeable affective influence on the process of
+> learning, and that therefore, expression can play a positive role in
+> mathematics education by helping students control their own learning.
 
-Squire and Patterson (2010) examined various other papers on the role of video games in science education. As they explain in their paper (pg 16):
+Squire and Patterson (2010) examined various other papers on the role of
+video games in science education. As they explain in their paper (pg
+16):
 
-> Informal learning environments—like games—ultimately are fueled by interest- or passion-driven learning. This characteristic represents a key opportunity for games-based researchers (and a challenge for educators in formal educational settings). Informal science educators, like game designers, have the task of designing enticing learning experiences in which learners feel compelled to learn more
+> Informal learning environments—like games—ultimately are fueled by
+> interest- or passion-driven learning. This characteristic represents a
+> key opportunity for games-based researchers (and a challenge for
+> educators in formal educational settings). Informal science educators,
+> like game designers, have the task of designing enticing learning
+> experiences in which learners feel compelled to learn more
 
-They outline previous research finding that video games help with "collective participation and customized learning" (pg 15), scientific literacy, and in gaining "proto-experiences of authentic (as opposed to contrived) investigation" (pg 14).
-In addition participation in "epistemic games" (i.e. role-playing games that aren't video games, but where students pretend to be professionals) "has resulted in positive gains in knowledge, skills, and attitudes as measured by traditional tests, clinical interviews, and concept maps" (pg 13).
-The efficacy of these games is a small testament to the potential of self directed, “interest- or passion driven learning”.
+They outline previous research finding that video games help with
+"collective participation and customized learning" (pg 15), scientific
+literacy, and in gaining "proto-experiences of authentic (as opposed to
+contrived) investigation" (pg 14).  In addition participation in
+"epistemic games" (i.e. role-playing games that aren't video games, but
+where students pretend to be professionals) "has resulted in positive
+gains in knowledge, skills, and attitudes as measured by traditional
+tests, clinical interviews, and concept maps" (pg 13).  The efficacy of
+these games is a small testament to the potential of self directed,
+“interest- or passion driven learning”.
 
 
 ---
 
 Martin-Chang et al[^martinchang], in their abstract:
 
-[^martinchang]:
-Martin-Chang S, Gould O, Meuse R. The impact of schooling on academic achievement: Evidence from homeschooled and traditionally schooled students. *Canadian Journal Of Behavioural Science/Revue Canadienne Des Sciences Du Comportement* [serial online]. July 2011;43(3):195-202. Available from: PsycARTICLES, Ipswich, MA. Accessed March 3, 2015.
+[^martinchang]: Martin-Chang S, Gould O, Meuse R. The impact of
+schooling on academic achievement: Evidence from homeschooled and
+traditionally schooled students. *Canadian Journal Of Behavioural
+Science/Revue Canadienne Des Sciences Du Comportement* [serial online].
+July 2011;43(3):195-202. Available from: PsycARTICLES, Ipswich, MA.
+Accessed March 3, 2015.
 
-> Although homeschooling is growing in prevalence, its educational outcomes remain unclear. The present
-study compared the academic achievements of homeschooled children with children attending traditional
-public school. When the homeschooled group was divided into those who were taught from organized
-lesson plans (structured homeschoolers) and those who were not (unstructured homeschoolers), the data
-showed that structured homeschooled children achieved higher standardized scores compared with
-children attending public school. Exploratory analyses also suggest that the unstructured homeschoolers
-are achieving the lowest standardized scores across the 3 groups.
+> Although homeschooling is growing in prevalence, its educational
+> outcomes remain unclear. The present
+study compared the academic achievements of homeschooled children with
+children attending traditional public school. When the homeschooled
+group was divided into those who were taught from organized lesson plans
+(structured homeschoolers) and those who were not (unstructured
+homeschoolers), the data showed that structured homeschooled children
+achieved higher standardized scores compared with children attending
+public school. Exploratory analyses also suggest that the unstructured
+homeschoolers are achieving the lowest standardized scores across the 3
+groups.
 
-[^selection]:
-Martin-Chang (2011) (pg 195):
+[^selection]: Martin-Chang (2011) (pg 195):
 
     > In any study of this nature, it is difficult to rebut many of the
-    issues surrounding self-selection. Many homeschooling families
-    are not registered with the local governments or school boards
-    (Arai, 2000; Lines, 1991), and this effectively rules out the
-    possibility of randomized sampling.
+    issues surrounding self-selection. Many homeschooling families are
+    not registered with the local governments or school boards (Arai,
+    2000; Lines, 1991), and this effectively rules out the possibility
+    of randomized sampling.
 
 
 Page 196, talking about Ray (2010):
 
 > Homeschoolers
-who obtained the highest scores came from high-income families
-with university-educated parents, who invested at least $600 each
-year (per child) on educational materials. Student success was also
-associated with higher amounts of overall “structure” in the
-homeschooling program and greater amounts of time engaged in formal
-instruction (e.g., lessons).
+who obtained the highest scores came from high-income families with
+university-educated parents, who invested at least $600 each year (per
+child) on educational materials. Student success was also associated
+with higher amounts of overall “structure” in the homeschooling program
+and greater amounts of time engaged in formal instruction (e.g.,
+lessons).
