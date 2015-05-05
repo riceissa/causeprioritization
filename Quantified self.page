@@ -7,10 +7,24 @@ categories: self-experimentation a-cause
                hiit life logging sousveillance self-experimentation
 -->
 
-See gwern for instance
+**Quantified self** (also **lifelogging**) is the process of systematically collecting and
+analyzing data about oneself in order to improve one's life. In other words,
+it is self-improvement through self-knowledge through self-tracking and self-experimentation.
 
-FIXME: explain what this cause is all about.
-Is it even a valid EA cause?
+Quantified self isn't usually discussed in the context of an effective altruism cause,
+but the basic idea fits under one of self-improvement along with others in this broad
+category like [Lifestyle improvements](), improving rationality, and so forth.
+
+In terms of a cause, quantified self has several approaches:
+
+- Increasing awareness of quantified self, and getting more people to record various
+  aspects of their life so they can improve on those aspects.
+- Improving data collection tools so that self-tracking is easier or so that more
+  aspects of one's life can be logged and analyzed.
+- Improving data analysis tools so that collected data can more easily be visualized,
+  or so that a broader synthesis of the data is possible (e.g. through machine
+  learning).
+
 
 If people are open about it (e.g. post rescuetime logs online), maybe it could inspire other people to pursue more productive paths. For people of extremely high intelligence/ability, time is the most important resource that there is. 
 
@@ -20,7 +34,7 @@ Also, it can be used as a "big data" metric to monitor which environmental pertu
 
 People aren't always at their most alert. QS can help people better identify which habits of activity lead to them being in maximum state of alertness for the greatest period of time. This is especially relevant for maximizing the productivity of the most highly-productive (10X) people. 
 
-- <https://www.quora.com/Quantified-Self/How-feasible-is-it-for-AI-machine-learning-to-automatically-generate-status-reports-of-ones-time-progress-based-on-RescueTime-ManicTime-Quantified-Self-data>
+
 
 
 
@@ -30,7 +44,7 @@ FIXME
 
 # Tractability
 
-FIXME
+Rudimentary self-tracking is already possible
 
 # Neglectedness
 
@@ -40,3 +54,5 @@ FIXME
 
 - [Digital preservation]()
 - gwern's "[What is QS?](http://www.gwern.net/Zeo#what-is-qs)"
+- [Wikipedia's page on quantified self](https://en.wikipedia.org/wiki/Quantified_Self)
+- The question "[Quantified Self: How feasible is it for AI/machine learning to automatically generate status reports of one's time/progress based on RescueTime/ManicTime/Quantified Self data?](https://www.quora.com/Quantified-Self/How-feasible-is-it-for-AI-machine-learning-to-automatically-generate-status-reports-of-ones-time-progress-based-on-RescueTime-ManicTime-Quantified-Self-data)" on Quora.
