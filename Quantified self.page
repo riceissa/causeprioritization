@@ -30,7 +30,7 @@ In terms of a cause, quantified self has several approaches:
 
 Some potential arguments in favor of focusing on quantified self:
 
-- If people are open about it (e.g. post rescuetime logs online), maybe it could inspire other people to pursue more productive paths. For people of extremely high intelligence/ability, time is the most important resource that there is. 
+- If people are open about it (e.g. post RescueTime logs online), maybe it could inspire other people to pursue more productive paths. For people of extremely high intelligence/ability, time is the most important resource that there is. 
 
 - Having a "pool" of websites the smart visit most often could be really useful. 
 
@@ -41,7 +41,14 @@ Some potential arguments in favor of focusing on quantified self:
 
 # Tractability
 
-Rudimentary self-tracking is already possible
+Rudimentary self-tracking is already possible. Because QS has various approaches
+to it (popularizing it, developing software and hardware to make it easier or
+more insightful), tractability of QS depends on which approach we are
+considering. In addition, tractability in each approach also depends on which
+metric we are considering.  For instance, when popularizing QS, it's probably
+easier to get people to start tracking their computer use through e.g. RescueTime
+(since this is automatic) than it is to get people to manually record their
+eating habits.
 
 # Neglectedness
 
