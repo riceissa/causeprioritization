@@ -59,8 +59,9 @@ As Scott Alexander has said in "[A Series Of Unprincipled Exceptions](http://sla
 - How best to communicate comparisons?
   Examples:
     - A table on wikis, e.g. Cognito Mentoring wiki likes to use tables for comparisons: <http://info.cognitomentoring.org/wiki/Lower_division_undergraduate_mathematics_course_structure>.
-      See also Groupprops, with pages like <http://groupprops.subwiki.org/wiki/Symmetric_group:S3>
+      See also Groupprops, with pages like <http://groupprops.subwiki.org/wiki/Symmetric_group:S3>.
       There are also things like WikiMatrix, e.g. [here](http://www.wikimatrix.org/compare/gitit+MediaWiki) that let you compare two things along different parameters, though causes may be too dissimilar for this to work nicely.
+      I've made a small prototype [here](http://wiki.causeprioritization.org/index.php/User:IssaRice/Priors_for_CP) that might be useful at some point.
     - A series of blog posts might be another answer.
     - A web of interconnected wiki pages, which seems to be the current default trajectory.
 - Creating some sort of community around CP itself...
