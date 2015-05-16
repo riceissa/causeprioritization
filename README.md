@@ -1,7 +1,9 @@
-# Cause prioritization wiki
+# Cause Prioritization Wiki
 
-This is the [gitit](http://gitit.johnmacfarlane.net/)
-wikidata repository for the
-[cause prioritization wiki](http://causeprioritization.org).
+This is the [gitit] wikidata repository for the [Cause Prioritization
+Wiki].
 
 Please see the file LICENSE for licensing information.
+
+[gitit]: http://gitit.johnmacfarlane.net/
+[Cause Prioritization Wiki]: http://causeprioritization.org
