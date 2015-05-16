@@ -1,0 +1,37 @@
+---
+format: markdown
+...
+
+In order to make the Cause Prioritization Wiki a useful resource
+for many years into the future, it is extremely important that
+the external resources it links to are also available, in addition
+to whatever material that is on the wiki itself.
+
+This page outlines some of the ways to ensure external resources 
+are available.
+
+# Remote caching
+
+The Internet Archive, WebCitation, and Archive.is all have on-demand
+remote caching. I like the Internet Archive best because it is the
+most popular and most unlikely to just suddenly disappear, but one 
+disadvantage of the Internet Archive is that it is very respectful of
+robots.txt (which is a good thing for some people, but bad for people
+who want to ensure certain links are always alive).
+
+To save a page on the Internet Archive, just visit
+
+```
+http://web.archive.org/save/URL_TO_ARCHIVE
+```
+
+For instance, to archive the CP Wiki itself, just visit
+
+```
+http://web.archive.org/save/http://causeprioritization.org
+```
+
+As for the other two, as well as for other services like Perma.cc, there
+exist archive forms on their respective sites, so it isn't necessary to
+visit special URLs. I'm actually not sure why the Internet Archive doesn't
+do this.
