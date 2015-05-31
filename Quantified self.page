@@ -11,9 +11,7 @@ categories: self-experimentation a-cause
 analyzing data about oneself in order to improve one's life. In other words,
 it is self-improvement through self-knowledge through self-tracking and self-experimentation.
 
-Quantified self isn't usually discussed in the context of an effective altruism cause,
-but the basic idea fits under one of self-improvement along with others in this broad
-category like [Lifestyle improvements](), improving rationality, and so forth.
+Quantified self is not usually discussed in the context of effective altruism, but the basic idea falls under the umbrella of self-improvement (which encompasses ideas such as [Lifestyle improvements](), improving rationality, etc.).
 
 In terms of a cause, quantified self has several approaches:
 
@@ -28,15 +26,19 @@ In terms of a cause, quantified self has several approaches:
 
 # Importance
 
-Some potential arguments in favor of focusing on quantified self:
+The arguments for the importance of the quantified self (QS) can be most generally divided into two categories: first, arguments which focus on benefits to the person quantifying themselves, and second, arguments which focus on ways in which people other than said person benefit from accessing that data. The second category can be perhaps more succinctly phrased as 'benefits arising from open access to QS data'.
 
-- If people are open about it (e.g. post RescueTime logs online), maybe it could inspire other people to pursue more productive paths. For people of extremely high intelligence/ability, time is the most important resource that there is. 
+Arguments in the first category:
 
-- Having a "pool" of websites the smart visit most often could be really useful. 
+- A person's level of alertness experiences natural variation throughout each day. QS combined with statistical analysis would facilitate the identification of habits that maximize or otherwise optimize the duration and periods of time when they are most alert. The same applies to "environmental perturbations" that affect productivity. (The importance of this increases commensurately with the productivity of any given person.)
 
-- Also, it can be used as a "big data" metric to monitor which environmental perturbations affect productivity so one can run self-experiments to ultimately determine what optimizes for productivity. People often don't know if X is a good investment of their time, so if you can show that putting X hours resulted in Y, then it could convince them that putting in X hours to Y is a viable option (or alternatively, that if they need > X hours for Y, then maybe they don't have a comparative advantage for Y and their talents may be better put somewhere else).
+- Quantifying the returns on time spent on various tasks would allow people to more easily identify areas in which they have or do not have a comparative advantage, allowing them to better optimize usage of their time.
 
-- People aren't always at their most alert. QS can help people better identify which habits of activity lead to them being in maximum state of alertness for the greatest period of time. This is especially relevant for maximizing the productivity of the most highly-productive (10X) people.
+Arguments in the second category:
+
+- Being able to correlate website browsing data with IQ has many potential applications. In particular, knowledge of which websites highly intelligent or highly accomplished people visit on a frequent basis could be of significant interest and value.
+
+- Openness about productivity (e.g. if people posted RescueTime logs online) could inspire people to pursue more productive paths or weigh productivity (in a general sense) more in their decisions of what paths to pursue. For people of extremely high intelligence and ability, time is the most important and crucial resource available to them, so inspiring them to focus on productivity could benefit both themselves and the population as a whole.
 
 
 # Tractability
