@@ -10,3 +10,13 @@ style guide strunk and white
 
 
 <https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style>
+
+Some general points:
+
+- Text width should be around 72 characters long. (This is
+  so it's easy to see changes when diffing between versions.
+- If you're not sure, use US English.
+- For really short links, use `[text](url)`, but for links 
+  longer than ? characters, use `[text][alias]` and then define
+  `[alias]: url` somewhere else in the document (usually right
+  after the first occurrence of the link.
