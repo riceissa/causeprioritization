@@ -1,6 +1,6 @@
 ---
 format: markdown
-categories: site
+categories: site self
 ...
 
 <!-- keywords
@@ -19,17 +19,25 @@ page][discuss].
 
 [discuss]: http://causeprioritization.org/_discuss/Manual%20of%20style
 
-<https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style>
+# General rule
 
-Some general points:
+In general, it's best to follow [Wikipedia's Manual of Style][wmos],
+which is fairly comprehensive.  The exceptions that follow are mostly
+due to this wiki using markdown and not MediaWiki for its source files.
+
+[wmos]: https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style
+
+# Exceptions
+
+Here are some general points that diverge from Wikipedia's Manual of
+Style.
 
 - Text width should be around 72 characters long. (This is so it's easy
-  to see changes when diffing between versions.
-- If you're not sure, use US English.
-- For really short links, use `[text](url)`, but for links longer than ?
-  characters, use `[text][alias]` and then define `[alias]: url`
+  to see changes when diffing between versions.)
+- For links, use `[text][alias]` and then define `[alias]: url`
   somewhere else in the document (usually right after the first
-  occurrence of the link.
+  occurrence of the link).  This is so that the flow of text in the page
+  source is not disrupted.
 - Keywords for a page should include the phrases that someone looking
   for the topic would likely use to locate the page. In practice, these
   are best discovered "naturally" as one tries and fails to locate a
@@ -44,3 +52,7 @@ Some general points:
     keyword1 keyword2 keyword3
     -->
     ```
+- Although gitit can handle several different markup languages for the
+  document source, use markdown.
+- For referencing an external source, either document the citation in a
+  footnote, or link to the source.
