@@ -99,6 +99,10 @@ machine learning technology could also make assessing compatibility much
 easier, and virtual dating might become popular (see below for this as
 well).
 
+One of the primary difficulties with addressing the problem of romance is the fact that the probability that two randomly selected members of the population will be romantically compatible is low. The vast majority of conceivable ways to address this problem, including existing attempts (such as dances and dating websites like OKCupid),  have an effectiveness that increases approximately logistically as the proportion of the population that uses them increases, but the aforementioned low probability means that the inflection point on the graph of effectiveness vs. proportion of population using them is located at a relatively high percentage of the population--certainly one that is likely to intuitively be much greater than the current proportion of the population which uses OKCupid, for instance. In fact, fragmentation of matchmaking services hurts the effectiveness of all of them for a host of reasons, some of which have negative feedback effects.
+
+The natural conclusion is that centralization of these efforts, and in particular the existence of simply one large service for matchmaking, is likely to be optimal.
+
 See also:
 
 - <http://kernelmag.dailydot.com/issue-sections/features-issue-sections/11623/future-online-dating-facebook/>
