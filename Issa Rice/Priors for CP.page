@@ -1,7 +1,10 @@
-```
+---
+format: mediawiki
+...
+
 Some priors for different causes
 
-{| class="wikitable sortable"
+{|
 ! Cause
 ! Field
 ! Type
@@ -62,5 +65,3 @@ Some priors for different causes
 | Probably none?
 | That animals have great moral value, basically.
 |}
-
-```
