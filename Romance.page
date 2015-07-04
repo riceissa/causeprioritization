@@ -4,33 +4,26 @@ categories: romance a-cause
 ...
 
 <!-- keywords:
-love sex romantic romantically infatuation infatuated
+love sex romantic romantically infatuation infatuated helen fisher
 -->
 
-**Romance**, as a cause, refers to the problem of finding
-good ways to match people with others who are romantically compatible.
-It also refers to the more general problem of helping people enter and
-stay in happy romantic relationships.
+**Romance**, as a cause, refers to a collection of interventions that
+affect how people date, marry, and otherwise interact romantically. In
+particular, interventions try to help people enter and stay in happy
+romantic relationships.  Note that although not strictly included under
+romance, some non-romantic forms of love (e.g. erotic love) are often
+discussed alongside romance.
 
-# What is the problem?
+The basic idea is that current means of finding romantic partners seem
+astoundingly inefficient.[^pua] Even popular online dating sites like
+OkCupid probably have low-hanging fruit for improvement.  It would be
+nice if better ways of finding partners who are romantically compatible could emerge.
 
-- Current means of finding romantic partners seem astoundingly
-  inefficient.[^pua] Even online dating sites like OKCupid probably have
-  low-hanging fruit for improvement.  It would be nice if better ways of
-  finding partners could emerge.
-
-- Many people seem profoundly unhappy even when they are in a
-  relationship/married.  See for instance [rates of divorce in the US]:
-  "the lifelong probability of a marriage ending in divorce is 40%–50%".
-
-  [rates of divorce in the US]: https://en.wikipedia.org/wiki/Divorce_in_the_United_States#Rates_of_divorce
-
-- <https://www.quora.com/High-School-22/How-common-is-it-for-high-school-romance-to-be-seen-as-a-low-status-activity-among-high-achieving-ambitious-students>
-
-    Also, OkCupid is officially 18+. While there are definitely people
-    below 18 on it, there probably aren't many under 18 who extensively
-    utilize it.
-
+However, as with all controversial causes, it is important to evaluate
+to what extent "more and better romance" is a good thing.  In other
+words, in investigating the [importance](#Importance) of romance, one
+must first establish the sign (positive or negative) of the impact of
+intervening in people's romantic pursuits.
 
 # Importance
 
@@ -38,6 +31,14 @@ Given how fundamental romance seems to be among humans and how unhappy
 people seem to be when their romantic needs go unmet, it seems like
 there is a good case to be made for the importance of romance as a
 cause.
+
+
+- Many people seem profoundly unhappy even when they are in a
+  relationship/married.  See for instance [rates of divorce in the US]:
+  "the lifelong probability of a marriage ending in divorce is 40%–50%".
+
+  [rates of divorce in the US]: https://en.wikipedia.org/wiki/Divorce_in_the_United_States#Rates_of_divorce
+
 
 However in terms of happiness economics, [relationships] seem to only be
 a part of what determines happiness, and in particular affecting income
@@ -66,6 +67,12 @@ in 2005][pg dating]:
 > could build something better as a class project. And yet there's a lot
 > of money at stake. Online dating is a valuable business now, and it
 > might be worth a hundred times as much if it worked.
+
+At the same time, it is important to keeping mind the numerous attempts
+at trying to help people with dating. As the [Timeline of
+technology-assisted dating services]() shows, since the late 1950s there
+has been a steady stream of dating services that have tried to help with
+the matching process.
 
 # Neglectedness
 
@@ -143,6 +150,71 @@ See also:
 
 - <http://kernelmag.dailydot.com/issue-sections/features-issue-sections/11623/future-online-dating-facebook/>
 - <http://kernelmag.dailydot.com/issue-sections/features-issue-sections/10463/remote-sex-toys-ohmibod/>
+
+# Intersection with other causes
+
+One reason romance as a cause might be more important than one might
+first think given its unspectacular performance in the usual metrics (in
+particular [Importance, tractability, neglectedness]()) is its
+intersection with other causes. In particular:
+
+- The intersection of romance and [Open borders]() yields [transnational
+  marriages][tr ma].[^marr]
+
+    [tr ma]: https://en.wikipedia.org/wiki/Transnational_marriage
+
+- The intersection of romance and more advanced [Quantified self]() and
+  computer algorithms yields more insights in the matching problem,
+  which can then lead to better matches (in terms of efficiency,
+  compatibility).  Online dating in particular is also connected to
+  [social change](Large-scale social movements) in general (and in
+  particular has changed how people think about dating, e.g. how scarce
+  they perceive their dating pool to be[^scarcity]).
+
+- The intersection of romance and advancements in hardware yields for
+  instance [haptic technology to allow more realistic virtual sex][r
+  sex] (e.g. for those in long-distance relationships, or those not in
+  relationships).
+
+    [r sex]: http://kinkandcode.com/haptic-technology-and-romance/
+
+[^scarcity]: Dan Slater writes in *A Million First Dates*:
+
+    > For virtually all of human history the search for a mate has been
+    > predicated on scarcity: One met only so many people in his or her
+    > lifetime. They optimized their options within a circumscribed
+    > pool, chose someone, settled down, and, in the best of cases,
+    > found something they called happiness. Even when women’s lib came
+    > along, and the legal and cultural restraints surrounding divorce
+    > began to ease in the 1960s and 1970s, making it easier to leave
+    > failed relationships, many chose to stick with the devil they knew
+    > because of scarcity, believing it was better to be in a so-so
+    > relationship than no relationship at all.
+    >
+    > Today, however, companies in the online-dating arms race are
+    > building ever more efficient, “frictionless” systems for bringing
+    > together people who are likely to like each other. By posing
+    > hundreds or thousands of questions and quizzes—or asking nothing
+    > at all—these sites offer endless choice, combining to form a vast
+    > mate-seeking arena I came to think of as the “date-o-sphere,” not
+    > a physical construct but not an entirely virtual one either, a
+    > special category of social media that yokes together enormous
+    > online communities for the purpose of offline relationships.
+
+[^marr]: See also [Open Borders: The Case's posts on marriage][ob ma],
+in particular "[Possibilities for philanthropy towards achieving more
+migration and/or open borders][ma phil]", which lists marriage as a
+possible charity intervention to help more people immigrate to the
+developed world:
+
+    > Most countries offer essentially unrestricted immigration for the
+    > spouses of current citizens, wherever in the world these spouses
+    > reside. Encouraging more marriages between Americans (or people in
+    > the desired target country of migration) and foreigners might
+    > therefore be one method.
+
+[ob ma]: http://openborders.info/blog/tag/marriage/
+[ma phil]: http://openborders.info/blog/possibilities-for-philanthropy-towards-achieving-more-migration-andor-open-borders/
 
 # See also
 
@@ -242,7 +314,11 @@ See also:
 
 - [No. 37: Big Wedding or Small? Quiz: The 36 Questions That Lead to Love](http://www.nytimes.com/2015/01/11/fashion/no-37-big-wedding-or-small.html)
 
-- <http://kinkandcode.com/haptic-technology-and-romance/>
+- <https://www.quora.com/High-School-22/How-common-is-it-for-high-school-romance-to-be-seen-as-a-low-status-activity-among-high-achieving-ambitious-students>
+
+    Also, OkCupid is officially 18+. While there are definitely people
+    below 18 on it, there probably aren't many under 18 who extensively
+    utilize it.
 
 
 <!-- Footnotes: -->
