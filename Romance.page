@@ -61,11 +61,15 @@ is probably a more straightforward way to increase happiness
 
 # Tractability
 
-Given that many people are in happy relationships, the problem is
-clearly tractable for some people. It's unclear how tractable this
-problem is in full generality. In particular, it seems difficult to
-estimate how many more people can be placed in happy relationships given
-certain interventions.
+Given that many people are in happy relationships, romance isn't an
+impossible problem (at least for many people). This situation is unlike
+many technological causes, where it is unclear whether the technology in
+question can even be realized. For the most part, romance is also unlike
+advocacy causes (like [Open borders]()), which require changes in
+legislation; instead, romance can be approached at a much more local
+level. Nevertheless, it is unclear how tractable this problem is in full
+generality. In particular, it seems difficult to estimate how many more
+people can be placed in happy relationships given certain interventions.
 
 Paul Graham, venture capitalist and co-founder of Y Combinator, [wrote
 in 2005][pg dating]:
@@ -80,30 +84,46 @@ in 2005][pg dating]:
 > of money at stake. Online dating is a valuable business now, and it
 > might be worth a hundred times as much if it worked.
 
-At the same time, it is important to keeping mind the numerous attempts
-at trying to help people with dating. As the [Timeline of
-technology-assisted dating services]() shows, since the late 1950s there
+It is important to note that this was only a year after the launch of
+OkCupid, and indeed in the years since 2005, many more dating services
+have become available (see [Timeline of technology-assisted dating
+services]() for the full chronology). Indeed, since the late 1950s there
 has been a steady stream of dating services that have tried to help with
-the matching process.
+the matching process. The fact that the problem of romance is still very
+much real attests the difficulty of solving it.
 
 # Neglectedness
 
-While there seem to be various books (especially pop science and
-self-help books) written on the subject of romance, as well as various
-online communities dedicated to helping people meet their romantic needs
-(e.g. the pick-up artistry movement), romance doesn't seem to be thought
-of as a cause to focus on, in the sense that e.g. life extension or
-existential risk or climate change are thought of as causes. In other
-words, there isn't a seriousness about romance as a cause. Approaches
-to solving this problem seem rather disparate at the moment, where e.g.
-each author of a book advocates their own preferred approach (which may
-or may not work for others). In other words, there seems to be a lack of
-concerted effort at seriously trying to solve this problem.
+Numerous interventions have been attempted to increase the number or
+quality of romantic matches. In the for-profit world, a number of
+companies have tried to match people using technology; many of these are
+listen in the [Timeline of technology-assisted dating services](). In
+addition, at least the governments of Japan[^j govt] and
+[Singapore][sdn] have in some form tried to intervene in the romantic
+lives of its citizens.
 
-More recently, there have been various attempts to solve the matching
-problem in romance through online dating sites (e.g. OkCupid) and
-various apps (most notorious perhaps is Tinder). However it's unclear
-how successful these have been.
+[^j govt]: See for instance the BBC's "[Japan: Speed-dating plan to boost
+dwindling birth rate][j bbc]" and The Japan Times' "[Government to
+support matchmaking, men’s child-rearing to raise birthrate][jt d]".
+
+[j bbc]: http://www.bbc.com/news/blogs-news-from-elsewhere-31869981
+[jt d]: http://www.japantimes.co.jp/news/2015/03/13/national/social-issues/government-to-support-matchmaking-mens-child-rearing-to-raise-birthrate/
+[sdn]: http://en.wikipedia.org/wiki/Social_Development_Network
+
+In terms of discussion of romance, while there seem to be various books
+(especially pop science and self-help books) written on the subject of
+romance, as well as various online communities dedicated to helping
+people meet their romantic needs (e.g. the pick-up artistry movement),
+romance doesn't seem to be thought of as a cause to focus on, in the
+sense that e.g. life extension or existential risk or climate change are
+thought of as causes. In other words, while interventions focusing on
+romance are numerous, there isn't a seriousness about romance as a
+cause. Approaches to solving this problem seem rather disparate at the
+moment, where e.g.  each author of a book advocates their own preferred
+approach (which may or may not work for others), or else each dating
+service tries to appeal to its niche audience. In other words, there
+seems to be a lack of concerted effort at seriously trying to solve this
+problem.
 
 # The future of dating
 
@@ -236,7 +256,6 @@ developed world:
 
 # See also
 
-- [Social development network](http://en.wikipedia.org/wiki/Social_Development_Network) in Singapore
 
 - [This Facebook post](https://www.facebook.com/groups/effective.altruists/permalink/562796977109997/) to the EA group has ideas about combating loneliness; the specific example given is that of paying a dating site fee.
 
