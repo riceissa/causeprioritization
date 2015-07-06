@@ -40,32 +40,32 @@ detailed research into romance is unlikely to overturn this impression
 # Importance
 
 Given how fundamental romance seems to be among humans and how unhappy
-people seem to be when their romantic needs go unmet, it seems like
+people seem to be when their romantic needs go unmet, prima facie
 there is a good case to be made for the importance of romance as a
-cause.
+cause. We also see articles like "[Marriage makes people happier than
+six figure salaries and religion][swinford]", which claim links between
+happiness and marriage.
 
 
 - Many people seem profoundly unhappy even when they are in a
-  relationship/married.  See for instance [rates of divorce in the US]:
-  "the lifelong probability of a marriage ending in divorce is 40%–50%".
+  relationship/married.  See for instance [rates of divorce in the
+  US][div us]: "the lifelong probability of a marriage ending in divorce
+  is 40%–50%".
 
-  [rates of divorce in the US]: https://en.wikipedia.org/wiki/Divorce_in_the_United_States#Rates_of_divorce
+[swinford]: http://www.telegraph.co.uk/news/politics/10090130/Marriage-makes-people-happier-than-six-figure-salaries-and-religion.html
+[div us]: https://en.wikipedia.org/wiki/Divorce_in_the_United_States#Rates_of_divorce
 
 
-However in terms of happiness economics, [relationships] seem to only be
+However in terms of happiness economics, [relationships][rel] seem to only be
 a part of what determines happiness, and in particular affecting income
 is probably a more straightforward way to increase happiness
 (particularly for very low-income individuals).
 
-[relationships]: https://en.wikipedia.org/wiki/Happiness_economics#Relationships_and_children
+[rel]: https://en.wikipedia.org/wiki/Happiness_economics#Relationships_and_children
 
 
 - Marriage and happiness
 
-    - [Marriage makes people happier than six figure salaries and
-      religion][swinford]
-
-        [swinford]: http://www.telegraph.co.uk/news/politics/10090130/Marriage-makes-people-happier-than-six-figure-salaries-and-religion.html
 
     - [Every Time You Hear that Getting Married Will Make You Happier,
       Read This][depaulo]: it may be harder than one would think to
@@ -254,6 +254,8 @@ intersection with other causes. In particular:
   relationships).
 
     [r sex]: http://kinkandcode.com/haptic-technology-and-romance/
+
+- Natalism
 
 In other words, romance provides a "lens" through which to reason about
 these other causes.  One way to put it is that if these other causes are
