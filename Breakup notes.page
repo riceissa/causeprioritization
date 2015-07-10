@@ -3,12 +3,16 @@ format: markdown
 categories: romance
 ...
 
-From Najib et al.[^najib2004]:
+- From Najib et al.[^najib2004]:
 
-[^najib2004]: 
-"Regional Brain Activity in Women Grieving a Romantic Relationship Breakup".
-Arif Najib, M.D., Jeffrey P. Lorberbaum, M.D., Samet Kose, M.D., Daryl E. Bohning, Ph.D., Mark S. George, M.D.
-Volume 161 Issue 12, December 2004, pp. 2245--2256.
-<http://dx.doi.org.offcampus.lib.washington.edu/10.1176/appi.ajp.161.12.2245>.
+    [^najib2004]: 
+    "Regional Brain Activity in Women Grieving a Romantic Relationship Breakup".
+    Arif Najib, M.D., Jeffrey P. Lorberbaum, M.D., Samet Kose, M.D., Daryl E. Bohning, Ph.D., Mark S. George, M.D.
+    Volume 161 Issue 12, December 2004, pp. 2245--2256.
+    <http://dx.doi.org.offcampus.lib.washington.edu/10.1176/appi.ajp.161.12.2245>.
 
-> The relationship between normal sadness, grief, and clinical depression is complex. Although one might expect some shared neurocircuitry, these three states are distinct both in intensity and quality of emotional experience. Normal sadness is a triggered, self-limited emotional condition. Grief triggered by a loss or separation from a loved one is generally more prolonged and frequently involves depressive-type symptoms lasting from days to several months. With grief, many people experience depressive-type symptoms and then recover. However, grief is a major risk factor for clinical depression, so some unresolved grief episodes spiral into a true clinical depression (1–3). Whether grief is purely a precursor of depression or has a different quality needs further research. Of interest is that DSM-IV differentiates between depressive symptoms related to bereavement (V62.82) and major depressive disorder (296.xx), most prominently in the duration of post-loss symptoms needed to meet major depression criteria.
+    > The relationship between normal sadness, grief, and clinical depression is complex. Although one might expect some shared neurocircuitry, these three states are distinct both in intensity and quality of emotional experience. Normal sadness is a triggered, self-limited emotional condition. Grief triggered by a loss or separation from a loved one is generally more prolonged and frequently involves depressive-type symptoms lasting from days to several months. With grief, many people experience depressive-type symptoms and then recover. However, grief is a major risk factor for clinical depression, so some unresolved grief episodes spiral into a true clinical depression (1–3). Whether grief is purely a precursor of depression or has a different quality needs further research. Of interest is that DSM-IV differentiates between depressive symptoms related to bereavement (V62.82) and major depressive disorder (296.xx), most prominently in the duration of post-loss symptoms needed to meet major depression criteria.
+
+    Also:
+
+    > We picked ruminating subjects because a ruminative way of coping with loss is a known risk factor for major depression (14, 15).
