@@ -32,12 +32,7 @@ due to this wiki using markdown and not MediaWiki for its source files.
 Here are some general points that diverge from Wikipedia's Manual of
 Style.
 
-- Text width should be around 72 characters long. (This is so it's easy
-  to see changes when diffing between versions.)
-- For links, use `[text][alias]` and then define `[alias]: url`
-  somewhere else in the document (usually right after the first
-  occurrence of the link).  This is so that the flow of text in the page
-  source is not disrupted.
+- For links, use `[text](url)` instead of defining markers like `[text][marker]` and then having `[marker]: url`.
 - Keywords for a page should include the phrases that someone looking
   for the topic would likely use to locate the page. In practice, these
   are best discovered "naturally" as one tries and fails to locate a
@@ -53,6 +48,6 @@ Style.
     -->
     ```
 - Although gitit can handle several different markup languages for the
-  document source, use markdown.
+  document source, use markdown. One exception is a page that mostly contains a table ([example](http://causeprioritization.org/List%20of%20quantified%20self%20projects))---the preferred markup language here is MediaWiki; just set `format: mediawiki` in the YAML header.
 - For referencing an external source, either document the citation in a
   footnote, or link to the source.
