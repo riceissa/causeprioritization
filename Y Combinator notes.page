@@ -3,6 +3,8 @@ format: markdown
 categories: notes
 ...
 
+# How does Y Combinator choose what it funds?
+
 - [Announcement](http://old.ycombinator.com/watsi.html) of funding [Watsi](http://watsi.org/).
 
     > After we met the founders of Watsi, we realized they'd be the perfect one to start with.
@@ -18,3 +20,41 @@ categories: notes
 - From [YC Will Now Fund Nonprofits Too](http://www.ycombinator.com/nonprofits/):
 
     > We don’t know how many nonprofits we’ll fund, or what type of ideas we’ll like. We like Watsi a lot, because they help people who really need help, and do it in an efficient and transparent way. But fundamentally this is an experiment, just like YC itself was at first. So we don’t want to tell people too precisely what we’re looking for, because we’re not sure yet what we’re looking for.
+
+- [Y Combinator’s Giveffect Has Built A Shopify-Meets-Salesforce For Non-Profits](http://techcrunch.com/2015/02/10/giveffect-nonprofits/)
+
+    > [Giveffect](http://www.giveffect.com), part of its current cohort,
+    > has built a suite of cloud-based software that focuses
+    > specifically on the needs of non-profit businesses, covering
+    > services like accounting and CRM (including donor tracking),
+    > through to fundraising and crowdfunding platforms, all built from
+    > the ground up with its target customers in mind.
+
+# Reasons to look into Y Combinator
+
+- More externally successful than any explicit "effective altruist" group has been.
+
+- However, possibly some epistemic problems. See e.g. [Paul Graham on US immigration policy and high-tech programmers](http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/):
+
+    > I’m a great fan of [Paul Graham](http://www.paulgraham.com),
+    > essayist, entrepreneur, and co-founder of startup accelerator [Y
+    > Combinator](http://www.ycombinator.com) (along with his wife
+    > Jessica Livingston, whom I also admire greatly). Through Y
+    > Combinator, Graham has changed the startup and tech company
+    > landscape and profoundly affected the world. (Some Y
+    > Combinator-funded companies you’ve probably heard of are
+    > [Reddit](http://www.reddit.com), [Airbnb](http://airbnb.com),
+    > [Dropbox](http://www.dropbox.com),
+    > [Scribd](http://www.scribd.com), [Disqus](http://www.disqus.com),
+    > and [Stripe](http://www.stripe.com)). Graham also started [Hacker
+    > News](http://news.ycombinator.com), a Reddit-of-sorts for the
+    > programmer/startup crowd. In the world of letters, Graham is
+    > better known for his long-form essays that include incisive social
+    > commentary.  If you haven’t yet read his pieces, I encourage you
+    > to [check them all out](http://paulgraham.com/articles.html) (I
+    > particularly like [this one](http://paulgraham.com/say.html), that
+    > might be somewhat relevant here). He’s done more for the world
+    > than most people, including me, could dream of. And he knows a lot
+    > more about how the world works than I do.
+
+
