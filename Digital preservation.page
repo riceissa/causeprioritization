@@ -29,7 +29,10 @@ FIXME
 
 # Tractability
 
-FIXME
+There are several levels of tractability with regard to digital preservation:
+
+- The tractability of the ultimate goal of archiving all of the web. This impossible to do fully, but at least a large amount of the web can be (and has been) archived.
+- The tractability of archiving individual sites. Static pages that just have HTML/CSS are the easiest, but those that have more complicated media (e.g. Flash, videos) are more difficult to archive, as are sites that use AJAX/Javascript to dynamically load content (e.g. sites that employ infinite scrolling).
 
 # Neglectedness
 
