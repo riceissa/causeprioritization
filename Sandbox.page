@@ -50,3 +50,5 @@ def f(x):
 ```latex
 \emph{testing} & $\sin x$ % comment
 ```
+
+testing empty commit message
