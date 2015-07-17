@@ -1,0 +1,14 @@
+---
+format: markdown
+categories: cause-prioritization
+...
+
+There is a strong case to be made for **investigating different approaches to cause prioritization**. We list some of these below.
+
+- There is probably inherent value in looking beyond the [typical effective altruism focus areas](http://lesswrong.com/lw/hx4/four_focus_areas_of_effective_altruism/), keeping one's mind open, and so on.
+
+- Even outside of effective altruism, there are clearly notable and perspicacious individuals like [Aaron Swartz]() who have worked on many important causes. Understanding why they decided to focus on those things could provide insight.
+
+- There are companies like [Y Combinator](), who, from a high enough level, seem to do similar things to organizaitons like GiveWell. Understanding differences in approaches could be enlightening.
+
+- There are companies in general that have had a much larger positive impact on the world ([as estimated by the amount of money they make](http://info.cognitomentoring.org/wiki/Social_value_of_work:_income_as_a_proxy)). There is no reason *not* to pay attention to them to see what made them so successful.
