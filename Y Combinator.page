@@ -1,0 +1,252 @@
+---
+format: markdown
+categories: notes
+...
+
+# How does Y Combinator choose what it funds?
+
+- [Announcement](http://old.ycombinator.com/watsi.html) of funding [Watsi](http://watsi.org/).
+
+    > After we met the founders of Watsi, we realized they'd be the perfect one to start with.
+    >
+    >  We owe Hacker News thanks for introducing us to Watsi. When Watsi launched, they posted about themselves on HN. They were a hit with HN users and raised a significant amount of money.
+
+    The rest of the post is just self-congratulatory.
+
+- Their main page that is most like cause prioritization, [Requests for Startups](http://www.ycombinator.com/rfs/).  But it's important to keep in mind that they say:
+
+    > You shouldn’t start a company just because it’s on this list. It’s
+    > mostly here to help stimulate you to think about ideas.
+    >
+    > We don’t expect responses to RFSes will ever be more than a
+    > fraction of the applications we accept. We wouldn’t want them to
+    > be. Most good ideas should be ones that surprise us, not ones
+    > we’re waiting for.
+    >
+    > [...]
+    >
+    > [T]he great majority of the startups we fund will continue to be the sort of Internet and mobile companies we’ve funded in the past
+
+    In any case, looking at the *actual projects they do fund* is probably a more accurate metric for what they actually believe than what they say they want to fund.
+
+- <http://ycuniverse.com/zidisha-is-international-microlending-immunity-project-is-an-hiv-vaccine-two-nonprofits-currently-doing-y-combinator>
+
+- From [YC Will Now Fund Nonprofits Too](http://www.ycombinator.com/nonprofits/):
+
+    > We don’t know how many nonprofits we’ll fund, or what type of ideas we’ll like. We like Watsi a lot, because they help people who really need help, and do it in an efficient and transparent way. But fundamentally this is an experiment, just like YC itself was at first. So we don’t want to tell people too precisely what we’re looking for, because we’re not sure yet what we’re looking for.
+
+- [Y Combinator’s Giveffect Has Built A Shopify-Meets-Salesforce For Non-Profits](http://techcrunch.com/2015/02/10/giveffect-nonprofits/):
+
+    > [Giveffect](http://www.giveffect.com), part of its current cohort,
+    > has built a suite of cloud-based software that focuses
+    > specifically on the needs of non-profit businesses, covering
+    > services like accounting and CRM (including donor tracking),
+    > through to fundraising and crowdfunding platforms, all built from
+    > the ground up with its target customers in mind.
+    >
+    > It’s also noteworthy that Giveffect, unlike many others that pass through YC, is not actually a very young startup. It was founded in 2012 and already has more than 300 customers.
+    >
+    > [...]
+    >
+    > So why go to YC? Mirza admits that the trio was hesitant at first about applying. “We did wonder if it was suitable given that so many startups here are at a much earlier stage,” she said. “But based on the traction that we’d seen other YC startups get, and the success stories we heard, we decided that we could build a good company without YC, but we could build a great enterprise with it.”
+
+    Essentially a non-profit that helps other non-profits. The [Giveffect website](https://www.giveffect.com/) lists more "traditional" charities.
+
+- From its [announcement of Bayes Impact](http://blog.ycombinator.com/harnessing-big-data-for-social-good-nonprofit-bayes-impact-yc-s14-launches) (July 2014):
+
+    > We're excited to welcome [Bayes
+    > Impact](http://www.bayesimpact.org/) to Y Combinator. Bayes Impact
+    > is a nonprofit that deploys teams of data scientists to create
+    > data-driven solutions for challenging social problems. The
+    > organization runs full-time fellowship programs that bring
+    > together domain experts and data scientists from top technology
+    > companies and academic institutions.
+
+    From the [TechCrunch article](http://techcrunch.com/2014/07/15/harnessing-big-data-for-social-good-yc-backed-nonprofit-bayes-impact-launches/):
+
+    > “I was volunteering at homeless shelters for a little while,” says Duan. “I was shocked by the difference between this manual labor, this one-to-one exchange, and the idea that improving the accuracy of a [programming] model by 1% can affect millions of users and bring in hundreds of millions of dollars in revenue.”
+    >
+    > The ah-ha moment was determining that the same science can be leveraged for social good. “I had been working with the City of New York implementing civic solutions and recognized that the chasm between the technology that industry and tech companies are using and what’s available to civic organizations is huge,” says Jiang.
+
+- [Y Combinator Backs Its Next Nonprofit, Coding Education Program CodeNow](http://techcrunch.com/2014/02/27/codenow-joins-y-combinator/) (February 2014):
+
+    > CodeNow aims to teach programming basics to high schoolers,
+    > particularly girls, ethnic minorities, and other underrepresented
+    > groups. It launched in Washington, D.C. in 2011 before [expanding
+    > to New York City](http://techcrunch.com/2013/04/14/codenow-nyc/)
+    > and San Francisco last year.
+
+    Trying to make in-person training scale.
+
+    The [results section](http://codenow.org/the-program/) seems to be a single graphic and testimonials from students ...
+
+- [Interview with Y Combinator's Kate Courteau](http://www.newprofit.org/interview-with-y-combinators-kate-courteau-part-1/) (Director of Y Combinator Nonprofits):
+
+    > WATSI told us how much the YC program impacted their progress so
+    > we realized that a lot of the benefit of YC could be universally
+    > applied to all startups; for-profit and nonprofit. We also
+    > recognized that the WATSI team operated in the way that most great
+    > for-profit startups do. They were very determined and focused and
+    > moved quickly; launching early and iterating based on watching how
+    > their users interacted with their site. They had a vision for the
+    > future of WATSI. It’s evolved a bit but they continue to be a
+    > strong, mission-based company that works in the nonprofit world in
+    > a very transparent way. This experiment seemed to work so well
+    > that in January 2014, we decided to officially launch our
+    > nonprofit program.
+
+    And this, which might be the closest thing to understanding how they "select causes":
+
+    > YC’s motto is: “Make something people want.” In the for-profit
+    > space, we found that the best startup ideas come from founders
+    > solving problems they have encountered themselves. This works much
+    > better than thinking, “I’d like to start a company. What should I
+    > work on?” This concept also applies to nonprofits. It’s really
+    > important to work on something that you are passionate about and
+    > have some history with because startups are really hard.
+    >
+    > [...]
+    >
+    > Sometimes in the nonprofit world, people do a lot of planning in
+    > isolation because their users might geographically be far away. I
+    > learned this lesson early when I worked for a nonprofit, teaching
+    > a new building technique in Sudan. We were very surprised that our
+    > concept and methods were not universally well received in Africa.
+    > Our theory had been developed in the US and we had not spent much
+    > time in this corner of the world before we rolled it out. This was
+    > the root of our problem — we planned too much without deeply
+    > engaging with the people who were to use our product.
+
+    The rhetoric is definitely completely different from what you hear from effective altruist types; e.g. "being passionate and understanding other people's cultures" vs "charities with a proven track-record and room for funding".
+
+    There is also:
+
+    > Build a community that really values your product. This initial core user base will be the foundation of your company and a spring point for growth.
+
+    So it's "get them to love you" not "do what has the biggest impact"; not sure if this actually works for non-profits as claimed.
+
+    From [part 2 of the interview](http://www.newprofit.org/interview-with-y-combinators-kate-courteau-part-2/):
+
+    > One of the biggest problems in the nonprofit world is the lack of
+    > early financial support and mentorship for young entrepreneurs who
+    > have innovative ideas about how to solve some of the world’s
+    > largest problems. This lack of early support is discouraging to
+    > really smart people who might have great potential to tackle these
+    > big problems. At YC we invest in people and we’re not afraid of
+    > teams with ambitious or potentially polarizing ideas. We recognize
+    > that a lot of startups fail but we believe that it’s worth the
+    > investment even if there’s only a small chance that an ambitious
+    > approach can solve a really big problem.
+
+    So more like "try a bunch and see what works", not "research a bunch and fund what works".
+
+    Also:
+
+    > Our hopes are to make some headway on some of the biggest problems that still exist in the world. [...] I get frustrated that there are still so many people working on the same problems and not sharing their findings. I realize that some of that has to do with competition for scant philanthropic resources, but if there was a way to overcome this and get people to share, I think we could work a lot faster and have greater impact.
+
+    But what are the "biggest problems" that she speaks of? What where has YC shared *their* findings?
+
+- [New Profit article](http://www.newprofit.org/silicon-valleys-start-up-gorilla-bets-big-on-social-innovation/) on "social innovation" at YC, which seems to be another term for non-profits(?).
+
+- [TechCrunch on CareMessage](http://techcrunch.com/2014/03/25/y-combinator-backed-caremessage-is-on-a-mission-to-improve-health-literacy-by-bringing-mobile-healthcare-to-the-underserved/) (March 2014):
+
+    > Considering that 70 percent of older patients have difficulty using and understanding printed materials, [CareMessage](http://caremessage.org/) thinks this is where technology can really help, and is likely needed most. The Y Combinator-backed non-profit startup is launching today to provide clinics and healthcare organizations with software and interactive mobile programs that help them stay in touch with (and engage) at risk patients.
+
+    "[W]here technology [...] is likely needed most" is a *really* bold claim.
+
+- [TechCrunch article on Noora Health](http://techcrunch.com/2014/03/23/noora-healths-training-program-for-patients-and-caregivers-improves-recovery-and-reduces-readmission-rates/) (March 2014):
+
+    > The nonprofit graduating from Y Combinator is building hospital
+    > education platforms for patients and their family members to teach
+    > them the skills needed to recover from a major medical event (like
+    > a surgery) or manage chronic conditions like diabetes and
+    > palliative care. Using an iPad app, Noora Health works with
+    > hospitals to offer patients and their families a combination of
+    > videos, quizzes and interactive content to teach skills to aid in
+    > their recovery at home.
+
+- [TechCrunch article on One Degree](http://techcrunch.com/2014/03/20/yc-backed-one-degree-is-a-yelp-for-social-services-that-helps-low-income-families/) (March 2014):
+
+    > [One Degree](https://www.1deg.org/), a new non-profit that helps
+    > people find social services like affordable housing and job
+    > training.
+    >
+    > [...]
+    >
+    > “We are here to revolutionize the way that people access social
+    > services,” Faustino said. “We believe that we can do this because
+    > the non-profit sector has been stuck in the Internet dark ages.
+    > People still use binders and still rely on information that’s
+    > stuck in their heads. That means people aren’t getting the
+    > resources they need quickly and easily.”
+
+- [TechCrunch article on Zidisha](http://techcrunch.com/2014/01/23/zidisha-launches-a-kickstarter-style-micro-lending-platform-for-low-income-entrepreneurs-in-developing-countries/) (January 2014). Apparently Zidisha was founded in 2009, but not backed by YC until 2014, so this might be another exception to the rule of trying to fund non-profits that are just starting.
+
+- [Immunity Project](https://en.wikipedia.org/wiki/Immunity_Project):
+
+    - There is [a Wall Street Journal article](http://blogs.wsj.com/venturecapital/2014/01/23/y-combinator-backs-hiv-vaccine-maker-that-wants-crowdfunding/):
+
+        > Immunity Project will seek to succeed where other efforts have
+        > failed, in creating a vaccine that can prevent healthy people
+        > from contracting HIV, the company’s director of strategy, Ian
+        > Cinnamon, said.
+
+        Somewhat surprising (emphasis mine):
+
+        > The program has not only given [Immunity
+        > Project](http://www.immunityproject.org/) \$20,000 in
+        > non-dilutive funding, but Y Combinator Partner **Sam Altman**,
+        > who is also the founder of mobile-application company Loopt
+        > Inc., **said in a statement that he would personally donate
+        > blood** as the company moves its technology further through
+        > clinical trials.
+
+- Probably in one of the quotes, but YC probably cares a lot about who the founders are, just like GiveWell.
+
+- Also apparently with the exception of Giveffect, YC is more focused on doing *new* things, not funding things that already exist. So in a very real sense they really do have less to work with than does GiveWell.
+
+- YC also seems to focus on relatively more tractable problems, with the possible exception of Immunity Project.
+
+- [TechCrunch on Detroit Water Project](http://techcrunch.com/2015/03/18/the-detroit-water-project-connect-donors-to-unpaid-water-bills/):
+
+    > The organization behind the [Detroit Water
+    > Project](https://www.detroitwaterproject.org/) attempts to throw a
+    > life-preserver to those drowning in unpaid water bills by
+    > connecting donors to those in need. This allows homeowners to, in
+    > a sense, crowdsource their water bill. Donors can either pay the
+    > entire unpaid balance, which can be several thousand dollars, or
+    > just part of a bill.  Since its launch, the company has expanded
+    > to Baltimore with the Baltimore Water Project.
+
+# Reasons to/not to look into Y Combinator
+
+- It seems unclear whether this sort of investigation is very tractable. As GiveWell has often noted, organizations don't do a lot of explicit prioritization work, and even if they do, they don't release a lot of their actual work/thought process.
+
+- More externally successful than any explicit "effective altruist" group has been. See e.g. [Paul Graham on US immigration policy and high-tech programmers](http://openborders.info/blog/paul-graham-us-immigration-policy-high-tech-programmers/):
+
+    > I’m a great fan of [Paul Graham](http://www.paulgraham.com),
+    > essayist, entrepreneur, and co-founder of startup accelerator [Y
+    > Combinator](http://www.ycombinator.com) (along with his wife
+    > Jessica Livingston, whom I also admire greatly). Through Y
+    > Combinator, Graham has changed the startup and tech company
+    > landscape and profoundly affected the world. (Some Y
+    > Combinator-funded companies you’ve probably heard of are
+    > [Reddit](http://www.reddit.com), [Airbnb](http://airbnb.com),
+    > [Dropbox](http://www.dropbox.com),
+    > [Scribd](http://www.scribd.com), [Disqus](http://www.disqus.com),
+    > and [Stripe](http://www.stripe.com)). Graham also started [Hacker
+    > News](http://news.ycombinator.com), a Reddit-of-sorts for the
+    > programmer/startup crowd. In the world of letters, Graham is
+    > better known for his long-form essays that include incisive social
+    > commentary.  If you haven’t yet read his pieces, I encourage you
+    > to [check them all out](http://paulgraham.com/articles.html) (I
+    > particularly like [this one](http://paulgraham.com/say.html), that
+    > might be somewhat relevant here). He’s done more for the world
+    > than most people, including me, could dream of. And he knows a lot
+    > more about how the world works than I do.
+
+- GiveWell also does similar sort of work, e.g. looking into how big philanthropists go about grantmaking. See e.g. its most recent [Key questions about philanthropy, part 2: choosing focus areas and hiring program staff](http://blog.givewell.org/2015/07/09/key-questions-about-philanthropy-part-2-choosing-focus-areas-and-hiring-program-staff/).
+
+- However, possibly some epistemic problems.
+
+- Okay, so far: the YC website isn't very good at explaining their reasoning *at all*, and their blog just outsources announcements to TechCrunch anyway. And a lot ($n=2$) of the non-profits they fund just have those "app generation" websites that don't really explain *anything*.
