@@ -61,9 +61,10 @@ As Scott Alexander has said in "[A Series Of Unprincipled Exceptions](http://sla
     - A table on wikis, e.g. Cognito Mentoring wiki likes to use tables for comparisons: <http://info.cognitomentoring.org/wiki/Lower_division_undergraduate_mathematics_course_structure>.
       See also Groupprops, with pages like <http://groupprops.subwiki.org/wiki/Symmetric_group:S3>.
       There are also things like WikiMatrix, e.g. [here](http://www.wikimatrix.org/compare/gitit+MediaWiki) that let you compare two things along different parameters, though causes may be too dissimilar for this to work nicely.
-      I've made a small prototype [here](http://wiki.causeprioritization.org/index.php/User:IssaRice/Priors_for_CP) that might be useful at some point.
+      I've made a small prototype at [Issa Rice/Priors for CP]() that might be useful at some point.
     - A series of blog posts might be another answer.
     - A web of interconnected wiki pages, which seems to be the current default trajectory.
+    - I also now have a [test MediaWiki instance](http://wiki.causeprioritization.org/wiki/Main_Page) up and running that might become the future of CP Wiki, e.g. it has Semantic MediaWiki support for organized data on causes (though I'm not sure we want to go there)
 - Creating some sort of community around CP itself...
     - Almost like an "organic" version of the Open Philanthropy Project (GW Labs), where anyone can [Be Bold](https://en.wikipedia.org/wiki/Wikipedia:Be_bold) and add to something, instead of all the research coming from one place (how to ensure quality?)
     - As little jargon as possible, with links to terms like "EA" (if they have to be used) and "existential risks"
