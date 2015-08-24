@@ -1,4 +1,4 @@
----
+ ---
 format: markdown
 categories: self
 ...
@@ -6,6 +6,7 @@ categories: self
 Some thoughts:
 
 - Focus on shallow investigations?---"breadth first" vs "depth first"
+   -----Ethan: Perhaps there are too many causes on this wiki, and it's worth eliminating some, or most?
 - Final form a wiki? What about a blog? Or something else entirely?
 - How to look at causes?
     - [Importance, tractability, and neglectedness]()? or, more generally, [General questions for causes]()
@@ -67,5 +68,8 @@ As Scott Alexander has said in "[A Series Of Unprincipled Exceptions](http://sla
     - A web of interconnected wiki pages, which seems to be the current default trajectory.
     - I also now have a [test MediaWiki instance](http://wiki.causeprioritization.org/wiki/Main_Page) up and running that might become the future of CP Wiki, e.g. it has Semantic MediaWiki support for organized data on causes (though I'm not sure we want to go there)
 - Creating some sort of community around CP itself...
-    - Almost like an "organic" version of the Open Philanthropy Project (GW Labs), where anyone can [Be Bold](https://en.wikipedia.org/wiki/Wikipedia:Be_bold) and add to something, instead of all the research coming from one place (how to ensure quality?)
+    - Almost like an "organic" version of the Open Philanthropy Project (GW Labs), where anyone can [Be Bold]
+(https://en.wikipedia.org/wiki/Wikipedia:Be_bold) and add to something, instead of all the research coming from one place (how to ensure quality?)
     - As little jargon as possible, with links to terms like "EA" (if they have to be used) and "existential risks"
+
+
