@@ -10,7 +10,7 @@ Some thoughts:
 - How to look at causes?
     - [Importance, tractability, and neglectedness]()? or, more generally, [General questions for causes]()
     - A single number for each cause/a ranking?
-    - Separate rankings for each "cluster" of causes (e.g. existential risks, global health [which is what GW has done], biomedical research, and so on)
+    - Separate rankings for each "cluster" of causes (e.g. existential risks, global health [which is what GiveWell has done], biomedical research, and so on)
     - Have a separate ranking for each "type of action/intervention" (e.g. cause A is best if you want to give money, cause B is best if you want to volunteer, cause C is best if you want to do academic research, etc.)?
     - Cluster thinking/sequence thinking applied to causes?
     - Look at Owen Cotton-Barrat's approach to modeling.
@@ -18,7 +18,8 @@ Some thoughts:
     - One can also split causes into those that are controversial, and those that aren't (or have a gradient).
     If a cause is controversial, it's important first to actually establish that it's something worth working on (because putting effort into something that's likely to cause harm is wasteful), so the format for those pages might take on a "pros and cons" sort of thing.
     If a cause is already considered good (and no one really thinks it's bad) then this "pros and cons" doesn't make sense; we just want to know how big of a deal the cause is.
-    - Also considering various parameters like: whether a cause is likely to affect the long term trajectory of humanity (as Nick Beckstead argues we might want to), how many people who have deliberately thought about causes think it's important, how much it will speed up development, how much it will lead to "better morality" in society, “[broad market efficiency](http://blog.givewell.org/2013/05/02/broad-market-efficiency/)”, and also how important the cause becomes given different assumptions.
+    - Also considering various parameters like: whether a cause is likely to affect the long term trajectory of humanity (as Nick Beckstead argues we might want to), how many people who have deliberately thought about causes think it's important, how much it will speed up development, how much it will lead to "better morality" in society, “[broad market efficiency](http://blog.givewell.org/2013/05/02/broad-market-efficiency/)” (i.e. are the people working on it mostly in the for-profit sector or non-profit sector, and factoring in the market efficiency of each, does it seem like a lot of progress can be made by investing more resources?), and also how important the cause becomes given different assumptions (e.g. how much does one care about reducing suffering versus increasing the number of happy people?
+    Also look at population ethics and e.g. the repugnant conclusion.).
     One of the big things to think about is that given different assumptions, the importance of certain causes can fluctuate wildly.[^animal]
     And the assumptions sometimes seem to be a matter of "personal taste" or "intuitive assumptions"---which is precisely the sort of thing cause prioritization is trying to eliminate by conducting rigorous analyses of causes.
     Now the thing is, sometimes it's very hard to figure out which assumptions are right, so we might only be able to say something after aggregating many different moral philosophies (so curve fitting over moral philosophies, as Nick Beckstead discusses in his PhD thesis; and probably Will MacAskill also does this). 
