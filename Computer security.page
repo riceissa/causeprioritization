@@ -1,6 +1,14 @@
 ---
 format: markdown
+categories: a-cause
 ...
 
-http://wiki.lesswrong.com/wiki/Differential_intellectual_progress#Risk-reducing_Progress
-https://en.wikipedia.org/wiki/Computer_security
+[Differential intellectual progress](http://wiki.lesswrong.com/wiki/Differential_intellectual_progress#Risk-reducing_Progress%0A) on LW wiki has a bit on this:
+
+> One way by which AGIs might grow rapidly more powerful is by taking
+> over poorly-protected computers on the Internet. Hardening computers
+> and networks against such attacks would help reduce this risk. 
+
+# See also
+
+- [Computer security](https://en.wikipedia.org/wiki/Computer_security)
