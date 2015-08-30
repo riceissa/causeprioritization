@@ -33,7 +33,7 @@ FIXME
 
 There are several levels of tractability with regard to digital preservation:
 
-- The tractability of the ultimate goal of archiving all of the web. This impossible to do fully, but at least a large amount of the web can be (and has been) archived. Some things to consider there are:
+- The tractability of the ultimate goal of archiving all of the web. This is impossible to do fully, but at least a large amount of the web can be (and has been) archived. Some things to consider there are:
     - How difficult is it to enumerate all sites that need to be archived?
 - The tractability of archiving individual sites. Static pages that just have HTML/CSS are the easiest, but those that have more complicated media (e.g. Flash, videos) are more difficult to archive, as are sites that use AJAX/Javascript to dynamically load content (e.g. sites that employ infinite scrolling). In addition, some sites use IP blocking to prevent people from archiving the site.
     - Figuring out the scope of websites seems tractable. Even for sites like [the Internet Archive](http://www.archiveteam.org/index.php?title=INTERNETARCHIVE.BAK), there seems to be concrete figures on what it would take to fully backup the site.
@@ -41,3 +41,8 @@ There are several levels of tractability with regard to digital preservation:
 # Neglectedness
 
 FIXME
+
+# Differential intellectual progress
+
+Looking at digital preservation from the viewpoint of [Differential intellectual progress](), it is important to note that since archiving old content does not directly produce technological or intellectual advances there are no direct increases in the relevant risks (e.g. the risk of producing harmful nanotechnology).
+However it must be noted that there still indirect risks involved; for instance, preserving content regarding certain technologies or promoting blind technological advancement will increase the visibility of such content, which may in turn increase risks.
