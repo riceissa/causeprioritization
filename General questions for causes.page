@@ -3,14 +3,19 @@ format: markdown
 categories: cause-prioritization
 ...
 
+- What type of cause is it (technological/scientific, one-off, advocacy, etc.)?
 - How importance is the cause?
 
     - What is the raw dollar estimate for solving the problems related to the cause?
-    - Could the cause actually be a bad thing?  What are the potential problems/costs associated with making progress on a cause?
+    - Could the cause actually be a bad thing?
+    What are the potential problems/costs associated with making progress on a cause?
+    See also the "differential intellectual progress" question.
     - How controversial is the cause? (Is there something like [an "uneducated/contrarian/meta-contrarian" triad](http://lesswrong.com/lw/2pv/intellectual_hipsters_and_metacontrarianism/) for different positions on the cause?)
-    - What do experts say about the cause?
+    - What do experts (or more generally, people who have deliberately thought about the cause) say about the cause?
     - What do people generally think about the cause?
     - More overall: factoring in all the other points, how important is the cause?  Should people work on it?
+    - How important is the cause given different assumptions (e.g. how much does one care about reducing suffering versus increasing the number of happy people?
+    Also look at population ethics and e.g. the repugnant conclusion.)?
 
 - How neglected/crowded is the cause?
 
@@ -31,6 +36,13 @@ categories: cause-prioritization
     - Can people volunteer, and if so, how useful is this relative to other causes?
     - Is it an intellectually difficult problem (e.g. artificial intelligence, curing aging), or is it something that needs more advocacy (e.g. open borders)?  (It could be both.)
 
+- What can we say about the cause if we consider differential intellectual progress?
+For instance, how much it will speed up development in both risk-increasing and risk-decreasing ways?
+- Are most of the actors of the cause in the for-profit or non-profit world?
+Consider also “[broad market efficiency](http://blog.givewell.org/2013/05/02/broad-market-efficiency/)” (i.e. factoring in the market efficiency of for-profit versus non-profit, does it seem like a lot of progress can be made by investing more resources?).
+- What are the general steps involved in solving the problem?
+- How likely is it that the cause will affect the long-term trajectory of humanity (as Nick Beckstead argues we might want to)?
+- Can the cause lead to "better morality" in society?
 
 # See also
 
