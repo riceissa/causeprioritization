@@ -11,8 +11,14 @@ Some places to start looking (reasons for contribution might not be the best pla
 - [Why do people contribute to Wikipedia?](http://wikipediocracy.com/2014/03/02/why-do-people-contribute-to-wikipedia/): notably dedicated to being anti-Wikipedia, so the views here are interesting.
 Seems to argue that instead of having noble intentions like being a "dedicated community imbued with enthusiasm for the idea of free knowledge", Wikipedia is instead used as a soapbox for people spreading their slant on issues or paying to have favorable articles written about themselves.
 While the issue they highlight might seem disconcerting, this trend shows the value of Wikipedia as a reliable resource.
-See also "[In Defense Of Inclusionism](http://www.gwern.net/In%20Defense%20Of%20Inclusionism)" for the other side (though not a direct response to the Wikipediocracy article).
+See also "[In Defense Of Inclusionism](http://www.gwern.net/In%20Defense%20Of%20Inclusionism)"[^transw] for the other side (though not a direct response to the Wikipediocracy article).
 - [Why does anyone bother contributing to Wikipedia? - FT\.com](http://www.ft.com/cms/s/2/9b1281be-c06b-11df-8a81-00144feab49a.html): cites a paper (which one?) saying contributions decreased when viewership decreased.
 - [Why Do People Write for Wikipedia?  Incentives to Contribute to Open-Content Publishing](http://www.andreaforte.net/ForteBruckmanWhyPeopleWrite.pdf)
 - [Wikipedia:Why to contribute](https://en.wikipedia.org/wiki/Wikipedia:Why_to_contribute)
 - [Why I don’t contribute to Wikipedia anymore](https://ploum.net/222-why-i-don-t-contribute-to-wikipedia-anymore/) (seems to be a personal rant)
+
+[^transw]: gwern's article also talks about "transwiki exclusionism", i.e. the idea that specialized topics should be covered in separate wikis rather than standardizing everything on Wikipedia.
+Examples given (in a quote) are Memory Alpha and Wookieepedia, but there are also others like qwiki and Groupprops (part of subwiki).
+
+    There are good arguments for covering topics in external wikis, e.g. how Wikipedia's structuring of articles does not allow for a complex tree of pages (FIXME: quote and rephrase -- the original idea should be in a subwiki blog post).
+    On the other hand, Wikipedia is the place many look to to find information on a topic, so creating content there makes it immediately useful to many.
