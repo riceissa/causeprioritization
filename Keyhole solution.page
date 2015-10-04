@@ -3,21 +3,7 @@ format: markdown
 categories: general keyhole-solution
 ...
 
-FIXME: write a good intro
-
-It would be a good idea to apply the same sort of idea to other contentious causes.
-
-The concept of a **keyhole solution** or **instruments to targets** is one that is generally useful and seems like it should be more broadly known, but isn't (perhaps because it is often used without being given a name).
-A narrower idea is that of **purchasing offsets**, which refers to a particular method of dealing with ....
-(mention donating to animal charities while eating meat)
-
-It is important to keep in mind that " 'Keyhole solutions' represent a way of thinking, rather than specific proposals": "Keyhole solutions are not specific policy ideas, but rather, represent a way of thinking that can be used to generate and justify policy proposals.
-Keyhole solutions associated with different problems can sometimes be contradictory."^[*Open Borders: The Case*. "[Keyhole solutions](http://openborders.info/keyhole-solutions/)".]
-Keyhole solutions can even be used to argue for opposite positions depending on what the original action in consideration is.
-
-keyhole solutions fit in the more general way of thinking: breaking apart problems (reductionism), examining what is unseen, examining both the costs and benefits, "stifling hyperbole"
-
-[Parable of the broken window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window) and looking at "that which is not seen".
+A **keyhole solution** is a way of thinking that targets problems narrowly instead of taking more drastic measures.
 
 As [the *Open Borders: The Case* page on keyhole solutions](http://openborders.info/keyhole-solutions/) explains:
 
@@ -27,47 +13,15 @@ As [the *Open Borders: The Case* page on keyhole solutions](http://openborders.i
 > migration, they involve taxing or restricting specific problematic
 > migrant activities rather than a blanket denial of migration.
 
-# Related concepts
+It would be a good idea to apply the same sort of idea to other contentious causes.
 
-In some sense, a keyhole solution gives one an "excuse" to do something that is opposed by taking away at least some of its drawbacks.
-From this general framework, one can come up with several other related concepts:
+The concept of a **keyhole solution** is one that is generally useful and seems like it should be more broadly known, but isn't (perhaps because it is often used without being given a name).
+(mention donating to animal charities while eating meat)
 
-- Coming up with more benefits for something, to promote doing that thing.
-- Coming up with more drawbacks for something, to curb that thing.
-- Coming up with "excuses" to not do something by achieving its benefits by alternative means
+It is important to keep in mind that " 'Keyhole solutions' represent a way of thinking, rather than specific proposals": "Keyhole solutions are not specific policy ideas, but rather, represent a way of thinking that can be used to generate and justify policy proposals.
+Keyhole solutions associated with different problems can sometimes be contradictory."^[*Open Borders: The Case*. "[Keyhole solutions](http://openborders.info/keyhole-solutions/)".]
+Keyhole solutions can even be used to argue for opposite positions depending on what the original action in consideration is.
 
-These can be represented in a grid:
-
-| | Pro-action | Anti-action |
-|-|:-----------|:------------|
-| **Act on benefits** | Finding more benefits | Finding more efficient solutions by asking "Can I get the benefits some other way?"|
-| **Act on drawbacks** | Keyhole solutions | Finding more drawbacks |
-
-(actually this table might be incorrect -- e.g. in the case of open borders, one starts with a strong presumption in favor of open borders. So the action would be closing off the borders (akin to an open surgery), and the anti-action would be to stop the borders from closing (akin to a keyhole surgery) by targeting the problems as closely as possible)
-
-Of course, this table can also be reversed by selecting the original "action" to be the opposite action.
-
-If one already wants to do something, it is easy to come up with more and more benefits of that thing.
-Similarly if one already does not want to do something, it is easy to come up with excuses to avoid that thing.
-However, it is more difficult to focus on the drawbacks of something one wants to do, or the benefits of something one does not want to do.
-
-- Learn about [keyhole solutions](keyhole-solution) and .
-Also think about how to get what you want in creative ways; in particular, watch out for situations like the following (by Katja Grace, quoted in Yvain's "[Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/)"):
-
-    > ...the situation reminds me of a pattern in similar cases I have
-    > noticed before. It goes like this. Some people make personal
-    > sacrifices, supposedly toward solving problems that don’t threaten
-    > them personally. They sort recycling, buy free range eggs, buy
-    > fair trade, campaign for wealth redistribution etc. Their actions
-    > are seen as virtuous. They see those who don’t join them as
-    > uncaring and immoral. A more efficient solution to the problem is
-    > suggested. It does not require personal sacrifice. People who have
-    > not previously sacrificed support it. Those who have previously
-    > sacrificed object on grounds that it is an excuse for people to
-    > get out of making the sacrifice. The supposed instrumental action,
-    > as the visible sign of caring, has become virtuous in its own
-    > right. Solving the problem effectively is an attack on the moral
-    > people.
 
 
 # Examples of keyhole solutions
@@ -112,6 +66,57 @@ If we let the "action" be "having kids":
 | **Act on drawbacks**| | |
 
 ## Animal welfare
+
+
+# Related concepts
+
+keyhole solutions fit in the more general way of thinking: breaking apart problems (reductionism), examining what is unseen, examining both the costs and benefits, "stifling hyperbole", "thinking outside the box"
+
+[Parable of the broken window](https://en.wikipedia.org/wiki/Parable_of_the_broken_window) and looking at "that which is not seen".
+
+
+A narrower idea is that of **purchasing offsets**, which refers to a particular method of dealing with ....
+
+In some sense, a keyhole solution gives one an "excuse" to do something that is opposed by taking away at least some of its drawbacks.
+From this general framework, one can come up with several other related concepts:
+
+- Coming up with more benefits for something, to promote doing that thing.
+- Coming up with more drawbacks for something, to curb that thing.
+- Coming up with "excuses" to not do something by achieving its benefits by alternative means
+
+These can be represented in a grid:
+
+| | Pro-action | Anti-action |
+|-|:-----------|:------------|
+| **Act on benefits** | Finding more benefits | Finding more efficient solutions by asking "Can I get the benefits some other way?"|
+| **Act on drawbacks** | Keyhole solutions | Finding more drawbacks |
+
+(actually this table might be incorrect -- e.g. in the case of open borders, one starts with a strong presumption in favor of open borders. So the action would be closing off the borders (akin to an open surgery), and the anti-action would be to stop the borders from closing (akin to a keyhole surgery) by targeting the problems as closely as possible)
+
+Of course, this table can also be reversed by selecting the original "action" to be the opposite action.
+
+If one already wants to do something, it is easy to come up with more and more benefits of that thing.
+Similarly if one already does not want to do something, it is easy to come up with excuses to avoid that thing.
+However, it is more difficult to focus on the drawbacks of something one wants to do, or the benefits of something one does not want to do.
+
+- Learn about [keyhole solutions](keyhole-solution) and .
+Also think about how to get what you want in creative ways; in particular, watch out for situations like the following (by Katja Grace, quoted in Yvain's "[Diseased thinking: dissolving questions about disease](http://lesswrong.com/lw/2as/diseased_thinking_dissolving_questions_about/)"):
+
+    > ...the situation reminds me of a pattern in similar cases I have
+    > noticed before. It goes like this. Some people make personal
+    > sacrifices, supposedly toward solving problems that don’t threaten
+    > them personally. They sort recycling, buy free range eggs, buy
+    > fair trade, campaign for wealth redistribution etc. Their actions
+    > are seen as virtuous. They see those who don’t join them as
+    > uncaring and immoral. A more efficient solution to the problem is
+    > suggested. It does not require personal sacrifice. People who have
+    > not previously sacrificed support it. Those who have previously
+    > sacrificed object on grounds that it is an excuse for people to
+    > get out of making the sacrifice. The supposed instrumental action,
+    > as the visible sign of caring, has become virtuous in its own
+    > right. Solving the problem effectively is an attack on the moral
+    > people.
+
 
 # Purchasing offsets
 
