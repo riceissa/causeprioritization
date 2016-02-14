@@ -1,0 +1,20 @@
+---
+format: markdown
+categories: research research-tools
+...
+
+Tools like [Mendeley](https://www.mendeley.com/) and [Zotero](https://www.zotero.org/) could help speed up the research process.
+In addition, we might want things like an improved version of LaTeX for typesetting and document preparation.
+
+Personal assistants for researchers could be another thing. The reason for this is explained in a post by Andrew Critch, entitled "[Seeking a paid personal assistant to create more x-risk research hours](http://acritch.com/pa/)":
+
+> Conservatively, I think for every hour of mine you save, I’ll end up
+> doing about 30 minutes of additional AI x-risk research.  Sometimes,
+> maybe as much as 2 or 3 hours of extra research will get done for
+> every hour you work, because you’ll have turned a block of interrupted
+> time for me into a block of uninterrupted time, which is much better
+> for research.
+
+There is a similar potential cause for each profession, and trying to make that profession's tasks run more smoothly.
+In the case of programmers, newer tools could be written to make programming faster, more reliable, etc. (e.g. people cite functional programming languages like Haskell for being a better way to program (there are loads of Quora answers like this)).
+(Although in the case of programming, programmers can implement these tools themselves, whereas in the case of a general profession, the professionals may not be able to implement the tools.)
