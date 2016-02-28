@@ -3,6 +3,11 @@ format: markdown
 categories: a-cause
 ...
 
+<!--
+keywords:
+resource scarcity scarce
+-->
+
 **Population control** could either be promoting births (if the world is underpopulated and we want more people to be able to live lives) or trying to restrict them (if the world is overpopulated and there aren't enough resources, etc.).
 
 Discuss genetically modifying humans here (e.g. advanced eugenics)?
@@ -58,3 +63,5 @@ FIXME
     > So your values are all-important in judging the net effect of 
     > population growth, and deciding whether there are too many or too 
     > few people.
+
+- <http://effective-altruism.com/ea/u0/why_dont_many_effective_altruists_work_on_natural/>
