@@ -5,6 +5,16 @@ categories: content-creation
 
 - [How Much is Wikipedia Worth?](http://www.smithsonianmag.com/smart-news/how-much-is-wikipedia-worth-704865/?no-ist) and [Wikipedia’s Economic Value](http://infojustice.org/wp-content/uploads/2013/10/band-gerafi10032013.pdf)
 
+High level strategies for computing the value of Wikipedia:
+
+- Find the total "value of the internet" and multiply by the fraction that
+  Wikipedia can claim
+- Replacement cost if Wikipedia disappeared
+- Using some guess like "each pageview has a value of 1 or 2 cents" and then
+  multiplying by how many pageviews Wikipedia gets
+
+Some quick calculations:
+
 According to [Akamai's real time web metrics](https://www.akamai.com/us/en/solutions/intelligent-platform/visualizing-akamai/real-time-web-metrics.jsp),
 there are something like 77--79 million pageviews per minute, which translates
 to 111--114 billion pageviews per day.
