@@ -157,20 +157,6 @@ If you're not sure where you can contribute, try searching for "[FIXME](http://c
 
 See also our [Manual of style]().
 
-This site is intended to be [Long Content](http://www.gwern.net/About#long-site); cloning the git repository (i.e. making the data redundant) is a small way to help.
-If you find any broken links, you can try to find the new location or find an archived version on the [Internet Archive](), [archive.is](http://archive.is/), or [WebCite](http://webcitation.org/archive) (for more remote caching services, see [gwern's list](http://www.gwern.net/Archiving%20URLs#remote-caching)).
-If an external (i.e. not on `causeprioritization.org`) HTML page is referenced, please add in parentheses (within an HTML comment) links to archives like this:
-
-```
-[text](http://example.com)<!--(link_to_archive1)(link_to_archive2)-->
-```
-
-(This makes it simple to switch out the links in case they become broken.)
-
-For other formats (e.g. PDF), I try to keep several copies to ensure future accessibility.
-For publicly available documents, I will try to do something like `[text](link_to_original)<!--(link_to_my_copy)-->`.
-For paywalled articles I unfortunately cannot do this.
-
 # A note on licensing
 
 In order to make the work done here as extensible as possible, we ask that **all contributions be made under the [Creative Commons Attribution (CC BY)](https://creativecommons.org/licenses/by/4.0/) license**.
