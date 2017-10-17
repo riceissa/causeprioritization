@@ -32,7 +32,7 @@ due to this wiki using markdown and not MediaWiki for its source files.
 Here are some general points that diverge from Wikipedia's Manual of
 Style.
 
-- For links, use `[text](url)` instead of defining markers like `[text][marker]` and then having `[marker]: url`.
+- For links, use `[text](url)` instead of defining markers like `[text][marker]` and then having `[marker]: url`. This makes it easier to copy-paste parts of pages into other pages.
 - Keywords for a page should include the phrases that someone looking
   for the topic would likely use to locate the page. In practice, these
   are best discovered "naturally" as one tries and fails to locate a
