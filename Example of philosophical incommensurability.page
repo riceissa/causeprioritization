@@ -61,4 +61,5 @@ $\epsilon v_\text{H}^\text{HC} = v_\text{C}^\text{HC} = v_\text{C}^\text{AI} = v
 So if we choose to save the human, we get a value of
 $v_\text{H}^\text{HC}(p_\text{HC}(1 - 100\epsilon) + 100\epsilon)$.
 And if we choose to save the chickens, we get a value of $10^5\epsilon v_\text{H}^\text{HC} \approx 0$.
+So we should save the human.
 (This is "method B" in Karnofsky's post.)
