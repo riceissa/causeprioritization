@@ -44,3 +44,13 @@ of:
 
 $$p_\text{HC}\cdot 10^5 \cdot v_\text{C}^\text{HC} + (1-p_\text{HC})\cdot 10^5 \cdot v_\text{C}^\text{AI} \\
   = p_\text{HC}\cdot 10^5 \cdot \epsilon v_\text{H}^\text{HC} + (1-p_\text{HC})\cdot 10^5 \cdot v_\text{H}^\text{AI}/100$$
+
+The problem now is that we don't know how to add terms containing $v_\text{H}^\text{HC}$ with those
+containing $v_\text{H}^\text{AI}$. It would be nice if we could know how the value of a human or
+chicken in one view compared with the value of a human or chicken in the other view.
+
+One way out is to say $v_\text{H}^\text{HC} = v_\text{H}^\text{AI}$, in other words that the
+value of one human in both views is the same. (This is "method A" in Karnofsky's post.)
+
+Another way out is to say $v_\text{C}^\text{HC} = v_\text{C}^\text{AI}$, in other words that
+the value of a chicken is the same in both views.
