@@ -1,0 +1,41 @@
+---
+format: markdown
+...
+
+This page gives an example of philosophical incommensurability. It is mostly an
+elaboration of Holden Karnofsky's example [here](https://www.openphilanthropy.org/blog/update-cause-prioritization-open-philanthropy#Issue_1:_normative_uncertainty_and_philosophical_incommensurability).
+
+Let's say you are choosing between saving one human and $10^5$ chickens. Your
+moral parliament has a "human-centric" view and an "animal-inclusive" view.
+You have some probability $p_\text{HC}$ that the human-centric view is correct.
+
+Now let's define four variables:
+
+| Variable | Meaning |
+|--------|---------------------------------------------------------------|
+| $v_\text{H}^\text{HC}$ | The value of one human in the human-centric view. |
+| $v_\text{C}^\text{HC}$ | The value of one chicken in the human-centric view. |
+| $v_\text{H}^\text{AI}$ | The value of one human in the animal-inclusive view. |
+| $v_\text{C}^\text{AI}$ | The value of one chicken in the animal-inclusive view. |
+
+The human-centric view says that a chicken has basically zero value compared to
+a human, or equivalently, that a human has astronomically more value compared
+to a chicken. We can write this as
+$v_\text{C}^\text{HC} = \epsilon v_\text{H}^\text{HC}$ or equivalently as
+$v_\text{H}^\text{HC} = v_\text{C}^\text{HC}/\epsilon$, where
+$\epsilon$ is some small number.
+
+The animal-inclusive view says that a chicken has (say) 1/100 the value of a
+human, or equivalently, that a human has 100 times the value of a chicken. We
+can write this as
+$v_\text{C}^\text{AI} = v_\text{H}^\text{AI}/100$ or equivalently as
+$v_\text{H}^\text{AI} = 100 v_\text{C}^\text{AI}$.
+
+Now we can say that if we choose to save the human, we obtain a value of:
+
+$$p_\text{HC}\cdot v_\text{H}^\text{HC} + (1-p_\text{HC})\cdot v_\text{H}^\text{AI}$$
+
+On the other hand, if we choose to save the $10^5$ chickens, we obtain a value
+of:
+
+$$p_\text{HC}\cdot 10^5 \cdot v_\text{C}^\text{HC} + (1-p_\text{HC})\cdot 10^5 \cdot v_\text{C}^\text{AI}$$
