@@ -8,6 +8,8 @@ elaboration of Holden Karnofsky's example [here](https://www.openphilanthropy.or
 Let's say you are choosing between saving one human and $10^5$ chickens. Your
 moral parliament has a "human-centric" view and an "animal-inclusive" view.
 You have some probability $p_\text{HC}$ that the human-centric view is correct.
+Since you have only two views, the probability that the animal-inclusive view
+is correct is $1-p_\text{HC}$.
 
 Now let's define four variables:
 
