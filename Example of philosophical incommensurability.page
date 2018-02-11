@@ -20,6 +20,8 @@ Now let's define four variables:
 | $v_\text{H}^\text{AI}$ | The value of one human in the animal-inclusive view. |
 | $v_\text{C}^\text{AI}$ | The value of one chicken in the animal-inclusive view. |
 
+Note that the superscripts *do not* mean exponentiation. They are just a convenient notation.
+
 The human-centric view says that a chicken has basically zero value compared to
 a human, or equivalently, that a human has astronomically more value compared
 to a chicken. We can write this as
