@@ -50,7 +50,10 @@ containing $v_\text{H}^\text{AI}$. It would be nice if we could know how the val
 chicken in one view compared with the value of a human or chicken in the other view.
 
 One way out is to say $v_\text{H}^\text{HC} = v_\text{H}^\text{AI}$, in other words that the
-value of one human in both views is the same. (This is "method A" in Karnofsky's post.)
+value of one human in both views is the same. So if we save the human we get a value of $v_\text{H}^\text{HC}$
+and if we save the chickens we get a value of $v_\text{H}^\text{HC}((10^5\epsilon - 10^3)p_\text{HC} + 10^3)$.
+This means if $p_\text{HC}$ is lower than 99.9%, we should save the chickens.
+(This is "method A" in Karnofsky's post.)
 
 Another way out is to say $v_\text{C}^\text{HC} = v_\text{C}^\text{AI}$, in other words that
 the value of a chicken is the same in both views. This means we can say
