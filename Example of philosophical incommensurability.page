@@ -42,4 +42,5 @@ $$p_\text{HC}\cdot v_\text{H}^\text{HC} + (1-p_\text{HC})\cdot v_\text{H}^\text{
 On the other hand, if we choose to save the $10^5$ chickens, we obtain a value
 of:
 
-$$p_\text{HC}\cdot 10^5 \cdot v_\text{C}^\text{HC} + (1-p_\text{HC})\cdot 10^5 \cdot v_\text{C}^\text{AI}$$
+$$p_\text{HC}\cdot 10^5 \cdot v_\text{C}^\text{HC} + (1-p_\text{HC})\cdot 10^5 \cdot v_\text{C}^\text{AI} \\
+  = p_\text{HC}\cdot 10^5 \cdot \epsilon v_\text{H}^\text{HC} + (1-p_\text{HC})\cdot 10^5 \cdot v_\text{H}^\text{AI}/100$$
