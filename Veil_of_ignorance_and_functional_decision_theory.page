@@ -1,0 +1,12 @@
+---
+title: Veil of ignorance and functional decision theory
+format: markdown
+...
+
+There is some connection between a "veil of ignorance"-based thinking and timeless/updateless/functional decision theory.
+
+Demski:[^demski]
+
+> Timeless decision theory / updateless decision theory / functional decision theory. Roughly, choosing a policy from behind a Rawlsian veil of ignorance. As I mentioned with accounting for base rates, it might seem from one perspective like this kind of reasoning is throwing information away; but actually, it is much more powerful. It allows you to set up arbitrary functions *from* information states *to* strategies. You are not actually throwing information away; you always have the option of responding to it as usual. You are *gaining* the option of ignoring it, or reacting to it in a different way, based on larger considerations.
+
+[^demski]: Abram Demski. [“Gears Level & Policy Level”](https://www.lesserwrong.com/posts/vKbAWFZRDBhyD6K6A/gears-level-and-policy-level). November 23, 2017. *LessWrong*. Retrieved February 20, 2018.
