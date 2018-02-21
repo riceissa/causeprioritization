@@ -4,4 +4,4 @@ format: markdown
 categories: Cause_prioritization
 ...
 
-**Unit of prioritization** refers to the units/levels at which prioritization occurs. *Cause prioritization* takes "cause" as the basic unit, but there are other units one can use, like "intervention", "health charity", or "action".
+**Unit of prioritization** refers to the units/levels at which prioritization occurs. *Cause prioritization* takes "[cause]()" as the basic unit, but there are other units one can use, like "intervention", "health charity", or "action".
