@@ -5,6 +5,12 @@ format: markdown
 
 There is some connection between a "veil of ignorance"-based thinking (also called the original position) and timeless/updateless/functional decision theory. It's not clear to me whether they are basically the same thing or not.
 
+UDT-like reasoning is also related to the Kantian categorical imperative (see _Good and Real_ for some discussion).
+
+# Quotes
+
+Here are some quotes, to give an idea of what I'm pointing at.
+
 Demski:[^demski]
 
 > Timeless decision theory / updateless decision theory / functional decision theory. Roughly, choosing a policy from behind a Rawlsian veil of ignorance. As I mentioned with accounting for base rates, it might seem from one perspective like this kind of reasoning is throwing information away; but actually, it is much more powerful. It allows you to set up arbitrary functions *from* information states *to* strategies. You are not actually throwing information away; you always have the option of responding to it as usual. You are *gaining* the option of ignoring it, or reacting to it in a different way, based on larger considerations.
