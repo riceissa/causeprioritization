@@ -9,10 +9,12 @@ There are several terms related to AI safety:
 - AI safety
 - AI control
 - AI alignment
-- Friendly/unfriendly AI
+- Friendly/unfriendly AI: Eliezer Yudkowsky (November 16, 2017). ["Hero Licensing"](https://www.lesserwrong.com/posts/dhj9dhiwhq3DX6W8z/hero-licensing). LessWrong. Retrieved November 18, 2017. I'll mention as an aside that talk of "Friendly" AI has been going out of style where I'm from. We've started talking instead in terms of "aligning smarter-than-human AI with operators' goals," mostly because "AI alignment" smacks less of anthropomorphism than "friendliness."
 - ... wei dai had a few more in a LW comment somewhere
 
 What are the considerations that go into deciding which one to use?
 
 - whether we're talking about human- or greater-than-human-level AI
 - whether we're talking about beneficial outcomes vs outcomes that are aligned with those of the creators of the AI (this distinction is made in [this post](http://effective-altruism.com/ea/1l0/why_i_prioritize_moral_circle_expansion_over/ "“Why I prioritize moral circle expansion over artificial intelligence alignment - Effective Altruism Forum”. Retrieved February 21, 2018."))
+
+<https://ai-alignment.com/ai-safety-vs-control-vs-alignment-2a4b42a863cc>
