@@ -24,6 +24,6 @@ except instead of faces you're comparing populations
 
 it's also kind of like <https://beliefs.issarice.com/> (which is itself not very complete at the moment) but for values instead of beliefs
 
-I also want the tool to be able to (directly with a verbal explanation, or indirectly through answering questions) answer questions like "If I assume Totalism/Critical Level view, what bad things (i.e. things I disagree with on reflection) happen?" or "If I use a rule like 'in order to increase the population size, existing people must also be made better off', what bad things happen?"
+I also want the tool to be able to (directly with a verbal explanation, or indirectly through answering questions) answer questions like "If I assume Totalism/Critical Level view, what bad things (i.e. things I disagree with on reflection) happen?" or "If I use a rule like 'in order to increase the population size, existing people must also not be made worse off', what bad things happen?"
 
 There is [this tool](http://www.boxethics.org/editor/) which makes population ethics diagrams, but doesn't have any other logic as far as I can tell.
