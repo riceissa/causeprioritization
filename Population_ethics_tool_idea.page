@@ -1,0 +1,21 @@
+---
+title: Population ethics tool idea
+format: markdown
+categories: Philosophy Population_ethics
+...
+
+I wish there was an interactive tool where you're shown two populations, and you pick the one you think is better
+
+where the populations can differ by welfare level and size
+
+so then you keep answering a bunch of these questions, and the tool builds a model of your population axiology
+
+and you might run into a case where you accept all the premises that lead up to the repugnant conclusion but you also reject the repugnant conclusion, which creates a contradiction
+
+so then in that case, the tool should detect this and then ask you more questions to try to resolve the contradiction
+
+I think this is basically what philosophers already do ("reflective equilibrium"), except all the scenarios are hidden away in papers
+
+so this is basically like <https://en.wikipedia.org/wiki/History_of_Facebook#FaceMash>
+
+except instead of faces you're comparing populations
