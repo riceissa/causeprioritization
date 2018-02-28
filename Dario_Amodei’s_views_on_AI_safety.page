@@ -90,45 +90,52 @@ Starting around 35:30:
 > run into people who are kind of thinking about this problem in a way that I
 > think is actually harder than we probably need to solve.
 
+Starting around 39:30:
+
 > So first of all I don't know. The problem could be really easy, it
-> could be really hard. ... to work on it really early. I am
+> could be really hard. That's a reason to work on it early. I am
 > relatively optimistic though no one should take this as a reason to
-> stop caring about AI safety even though we're only a 5% risk that
-> something catastrophic would happen to the world because of it. That
+> stop caring about AI safety. Even if there were only a 5% risk that
+> something catastrophic would happen to the world because of it, that
 > would be well worth much more effort than the world is putting into
-> it. All the people in this room and many others it still
-> ridiculously under-allocated. That said, two reasons I might have
+> it. The effort of all the people in this room and many others it's still just
+> ridiculously under-allocated.
+>
+> That said, two reasons I might have
 > for believing that it might not be all that hard. The first is the
-> one I just said before that I think that we may not need to learn
-> all of human morality and build a sovereign and a thing that decides
-> the best way of human society. That problem sounds really hard. We
+> one I just said before that I think we may not need to learn
+> all of human morality and build a sovereign and basically build something that decides
+> what
+> the best way to set up human society is. That problem sounds really hard. We
 > may just need to build artefacts that perform particular engineering
 > tasks for us in order to put the world in a better place. Now
 > they're very hard engineering tasks that we don't currently know how
-> to do until the problem is so hard . Strategies. but not nearly as
+> to do until -- the problem is still hard because you may still have to do large searches over difficult strategies. But it's not nearly as
 > hard as if you look at the early writings of MIRI. MIRI ten years
-> ago people suspected that it would be. So that's one thing and the
+> ago, people suspected that it would be.
+>
+> So that's one thing and the
 > second thing is I would point out a lot about the meta-learning
-> thing I said earlier where a lot of the time we're finding that it's
-> more efficient rather than developing an algorithm to understand how
-> something works in a fundamental philosophical sense often that is
-> impossible or there *is* no fundamental best algorithm for doing
-> something. So I often suspect this about decision theory, where
+> thing I said before where a lot of the time we're finding that it's
+> often more efficient rather than developing an algorithm to understand how
+> something works in a fundamental philosophical sense, often that is
+> impossible or maybe there *is* no fundamentally best algorithm for doing
+> something. So I often suspect this about decision theories, where
 > there's a bunch of different decision theories that each has
 > different pluses and minuses and people argue about the merits of
 > them and think about ways that catastrophic things could happen
-> depending on which decision theory you use and I think possible way
+> depending on which decision theory you use, and I think a possible way
 > around this is just have an AI learn these concepts and maybe the
-> concepts are inherently fuzzy just like it took neural nets to tell
-> the difference between objects and the differences between those
+> concepts are inherently fuzzy, just like it took neural nets to tell
+> the difference between objects when the differences between those
 > objects are inherently fuzzy. We may be able to learn safety
 > concepts that way and a lot of the concerns about safety are where
-> there are all these edge cases: what if we how do we make a thing
-> that makes paper clips and strangely may actually be the case that
+> there are all these edge cases: how do we make a thing
+> that makes paper clips? And strangely it may actually be the case that
 > not trying to solve the problem directly and taking one step of
 > abstraction up may allow us to solve it. At the same time, there are
 > still worries that we may not have enough of that kind of data. We
-> may not have the right models to do it. So even if that's right then
+> may not have the right models to do it. So even if that's right, then
 > there's still many ways in which we could have systems that are very
 > capable but that manage to be dangerous in ways that we can't easily
 > detect. So I don't really know for sure but those are some reasons
