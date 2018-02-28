@@ -94,7 +94,7 @@ Starting around 39:30:
 
 > So first of all I don't know. The problem could be really easy, it
 > could be really hard. That's a reason to work on it early. I am
-> relatively optimistic though no one should take this as a reason to
+> relatively optimistic, though no one should take this as a reason to
 > stop caring about AI safety. Even if there were only a 5% risk that
 > something catastrophic would happen to the world because of it, that
 > would be well worth much more effort than the world is putting into
@@ -141,30 +141,32 @@ Starting around 39:30:
 > detect. So I don't really know for sure but those are some reasons
 > for optimism at least.
 
+Starting around 44:20:
+
 > So I work with Paul Christiano and he's probably about as
 > pessimistic or optimistic as I am and probably for similar reasons.
 > I don't have exact answers here but we've talked a lot and we have
 > similar views on what will be hard and what won't be hard and his
 > agenda kind of states things in a different way but I think one of
-> his themes is similar to what I said which is he wrote a post about
+> his themes is similar to the thing I said which is he wrote a post about
 > corrigibility in particular where's it's like there's all these
 > paradoxes with if you try algorithms for corrigibility and maybe it
-> isn't that hard to learn the concept "corribility" and learn the
-> concept of "honesty" and these are fuzzy concepts and so if you kind
-> of define a rule-based system or machine learning system they don't
+> isn't that hard to learn the concept "corrigibility" and learn the
+> concept of "honesty" and these are fuzzy concepts and so if you kind of try and
+> define them to a rule-based system or very simple machine learning system they don't
 > make a lot of sense but neither do other advanced non-safety-related
 > concepts. That said, to give an object-level argument about why
 > things might be hard and kind of not contradict but supplement what
-> I said before people talk a lot about value alignment and learning
-> right objective functions. I think we're just gonna have a lot of
-> mundane problems with you're developing a self-driving car and the
-> training data differs from the test data you put it in the real
-> world it doesn't do the right thing and if it screws up it kills
-> someone. With very powerful AI if you're trying to make
-> breakthroughs in biology if you're trying to resolve international
+> I said before, people talk a lot about value alignment and learning
+> right objective functions. I think we're just gonna have a lot of very
+> mundane problems with, you're developing a self-driving car and the
+> training data differs from the test data, you put it in the real
+> world, it doesn't do the right thing and if it screws up it kills
+> someone. With very powerful AI, if you're trying to make
+> breakthroughs in biology, if you're trying to resolve international
 > conflict, messing up could kill a lot of people. I can even think of
 > scenarios where it could kill everyone. And there's probably a lot
-> of those scenarios will be dealing with very new technologies . To
+> of those scenarios will be dealing with very new technologies. To
 > me that's one way that catastrophe could happen.
 
 # See also
