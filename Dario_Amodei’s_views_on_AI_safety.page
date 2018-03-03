@@ -6,12 +6,12 @@ categories: AI_safety
 
 |Topic|View|
 |-----------------|------------------------------------------------------------|
-|AI timelines||
-|Value of decision theory work||
+|AI timelines|Dario [says](https://www.reddit.com/r/ControlProblem/comments/7ipm57/comments_by_dario_amodei_from_openai/) stuff like "It won't be long now", so presumably he has short AI timelines in mind. It's not clear what his full thinking on timelines is.|
+|Value of decision theory work|In panel musings video he says he suspects there is no "best decision theory". It's unclear what his full thinking on decision theory is (especially of the kind MIRI works on).|
 |Value of highly reliable agent design work||
-|Difficulty of AI alignment||
+|Difficulty of AI alignment|He gives some reasons in panel musings video on why alignment might not be all that hard, but admits he doesn't really know.|
 |Shape of takeoff||
-|Type of AI safety work most endorsed||
+|Type of AI safety work most endorsed|Machine learning-related safety work, where capabilities work and safety work happen together.|
 |How "prosaic" AI will be||
 
 <https://www.jefftk.com/p/conversation-with-dario-amodei>
