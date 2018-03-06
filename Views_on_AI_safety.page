@@ -4,7 +4,7 @@ format: markdown
 categories: AI_safety
 ...
 
-The people who seem most knowledgeable about AI safety still seem to disagree about many things *within* AI safety. It seems worth collecting some of these views into a single place.
+The people who seem most knowledgeable about AI safety still seem to disagree about many things in AI safety (and also many things outside of AI safety, but that is less relevant here). It seems worth collecting some of these views into a single place.
 
 - [Carl Shulman's views on AI safety]()
 - [Dario Amodei's views on AI safety]()
