@@ -13,6 +13,21 @@ The people who seem most knowledgeable about AI safety still seem to disagree ab
 - [Robin Hanson's views on AI safety]()
 - [Wei Dai's views on AI safety]()
 
+Here's the master list of topics I want to cover:
+
+|Topic|Details|
+|-----------------|------------------------------------------------------------|
+|AI timelines||
+|Value of decision theory work||
+|Value of highly reliable agent design work||
+|Difficulty of AI alignment||
+|Shape of takeoff/discontinuities in progress||
+|Type of AI safety work most endorsed||
+|How "prosaic" AI will be||
+|Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
+|Difficulty of philosophy||
+|How well we need to understand philosophy before building AGI||
+
 In addition, there are some discussion threads (on LessWrong and some other places) where some of these people go into long debates. Collecting some of these also seems like a good idea:
 
 - [List of discussions between Paul Christiano and Wei Dai]()
