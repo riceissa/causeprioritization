@@ -1,0 +1,23 @@
+---
+title: Daniel Dewey’s views on AI safety
+format: markdown
+categories: AI_safety
+...
+
+|Topic|Details|
+|-----------------|------------------------------------------------------------|
+|AI timelines|Also implications of short or long timelines (which should probably covered in the "value of" rows instead).|
+|Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
+|Preference ordering between kinds of AGI|e.g. some people prefer WBE because human values are more likely to be preserved, while neuromorphic AI seems difficult to understand so more difficult to control, and so forth|
+|Type of AI safety work most endorsed||
+|Value of decision theory work||
+|Value of highly reliable agent design work|See [this post](http://effective-altruism.com/ea/1ca/my_current_thoughts_on_miris_highly_reliable/).|
+|Value of machine learning safety work||
+|Value of intelligence amplification work||
+|Value of thinking of esoteric failure modes|see e.g. [this remark](https://arbital.com/p/probable_environment_hacking/#subpage-1gy)|
+|Difficulty of AI alignment||
+|Shape of takeoff/discontinuities in progress||
+|How "prosaic" AI will be||
+|Difficulty of philosophy||
+|How well we need to understand philosophy before building AGI||
+|Cooperation vs values spreading/[moral advocacy]()||
