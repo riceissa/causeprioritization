@@ -4,6 +4,8 @@ format: markdown
 categories: AI_safety
 ...
 
+# Views
+
 The people who seem most knowledgeable about AI safety still seem to disagree about many things in AI safety (and also many things outside of AI safety, but that is less relevant here). It seems worth collecting some of these views into a single place.
 
 - [Carl Shulman's views on AI safety]()
@@ -37,7 +39,11 @@ Here's the master list of topics I want to cover:
 |Difficulty of philosophy||
 |How well we need to understand philosophy before building AGI||
 
+# Consensus
+
 It might also be good to make a list of topics on which most people basically agree (orthogonality thesis? convergent instrumental goals? human-level AGI possible?).
+
+# Discussions
 
 In addition, there are some discussion threads (on LessWrong and some other places) where some of these people go into long debates. Collecting some of these also seems like a good idea:
 
