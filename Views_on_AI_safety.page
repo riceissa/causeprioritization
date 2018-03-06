@@ -23,13 +23,15 @@ Here's the master list of topics I want to cover:
 |Topic|Details|
 |-----------------|------------------------------------------------------------|
 |AI timelines||
+|Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
+|Preference ordering between kinds of AGI|e.g. some people prefer WBE because human values are more likely to be preserved, while neuromorphic AI seems difficult to understand so more difficult to control, and so forth|
+|Type of AI safety work most endorsed||
 |Value of decision theory work||
 |Value of highly reliable agent design work||
+|Value of machine learning safety work||
 |Difficulty of AI alignment||
 |Shape of takeoff/discontinuities in progress||
-|Type of AI safety work most endorsed||
 |How "prosaic" AI will be||
-|Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
 |Difficulty of philosophy||
 |How well we need to understand philosophy before building AGI||
 
