@@ -10,7 +10,7 @@ categories: AI_safety
 |Value of decision theory work||
 |Value of highly reliable agent design work||
 |Difficulty of AI alignment||
-|Shape of takeoff/discontinuities in progress||
+|Shape of takeoff/discontinuities in progress|Wei Dai: "Paul seems to be similarly uncertain about the speed and locality of the intelligence explosion, but apparently much more optimistic than me (or Eliezer and Robin) about the outcome of both scenarios. I'm not entirely sure why yet."[^foom]|
 |Type of AI safety work most endorsed||
 |How "prosaic" AI will be|Prosaic AGI is possible. See [here](https://ai-alignment.com/prosaic-ai-control-b959644d79c2), where he gives \>10% probability to building prosaic AGI.|
 |Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
@@ -24,3 +24,5 @@ categories: AI_safety
 
 - ["My current take on the Paul-MIRI disagreement on alignability of messy AI"](https://agentfoundations.org/item?id=1129) by Jessica Taylor
 - ["Current thoughts on Paul Christano's research agenda"](https://agentfoundations.org/item?id=1534) by Jessica Taylor
+
+[^foom]: [“Wei_Dai comments on How can we ensure that a Friendly AI team will be sane enough? - Less Wrong”](http://lesswrong.com/lw/cfc/how_can_we_ensure_that_a_friendly_ai_team_will_be/9oo1). LessWrong. Retrieved March 8, 2018.
