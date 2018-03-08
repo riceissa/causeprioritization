@@ -7,14 +7,23 @@ categories: AI_safety
 |Topic|View|
 |-----------------|------------------------------------------------------------|
 |AI timelines||
+|Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
+|Preference ordering between kinds of AGI||
+|Type of AI safety work most endorsed||
 |Value of decision theory work||
 |Value of highly reliable agent design work||
+|Value of machine learning safety work||
+|Value of intelligence amplification work||
+|Value of thinking of esoteric failure modes|Endorsed; see [this remark](https://arbital.com/p/probable_environment_hacking/#subpage-1gy) and posts like [this one](https://ordinaryideas.wordpress.com/2012/04/27/motivation/)|
 |Difficulty of AI alignment||
 |Shape of takeoff/discontinuities in progress|Wei Dai: "Paul seems to be similarly uncertain about the speed and locality of the intelligence explosion, but apparently much more optimistic than me (or Eliezer and Robin) about the outcome of both scenarios. I'm not entirely sure why yet."[^foom]|
-|Type of AI safety work most endorsed||
 |How "prosaic" AI will be|Prosaic AGI is possible. See [here](https://ai-alignment.com/prosaic-ai-control-b959644d79c2), where he gives \>10% probability to building prosaic AGI.|
-|Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
+|Difficulty of philosophy||
 |How well we need to understand philosophy before building AGI|It's unlikely or at least unclear that we need to solve many philosophical problems. See [here](http://lesswrong.com/lw/ig9/outside_views_and_miris_fai_endgame/9npb) for one expression of the idea.|
+|Cooperation vs values spreading/[moral advocacy]()||
+|How much alignment work is possible early on||
+|Hardware/computing overhang||
+|Relationship between ability of AI alignment team and the probability of good outcomes||
 
 # See also
 
