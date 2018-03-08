@@ -33,10 +33,10 @@ Here's the master list of topics I want to cover (each of the pages above might 
 |Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
 |Preference ordering between kinds of AGI|e.g. some people prefer WBE because human values are more likely to be preserved, while neuromorphic AI seems difficult to understand so more difficult to control, and so forth|
 |Type of AI safety work most endorsed||
-|Value of decision theory work||
-|Value of highly reliable agent design work||
+|Value of highly reliable agent design (e.g. decision theory, logical uncertainty) work||
 |Value of machine learning safety work||
 |Value of intelligence amplification work||
+|Value of pushing for whole brain emulation||
 |Value of thinking of esoteric failure modes|see e.g. [this remark](https://arbital.com/p/probable_environment_hacking/#subpage-1gy)|
 |Difficulty of AI alignment||
 |Shape of takeoff/discontinuities in progress||
