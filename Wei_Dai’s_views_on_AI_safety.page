@@ -12,7 +12,7 @@ The following table summarizes Wei Dai's views on topics in AI safety.
 |Value of decision theory work|see [here](http://lesswrong.com/lw/ah5/singularity_summit_2011_workshop_report/5ycj). "For example I've mostly stopped working on decision theory because it seems to help UFAI as much as FAI." from [this comment](http://lesswrong.com/lw/ah5/singularity_summit_2011_workshop_report/5ya3)|
 |Value of highly reliable agent design work||
 |Difficulty of AI alignment||
-|Shape of takeoff/discontinuities in progress||
+|Shape of takeoff/discontinuities in progress|"I guess I would describe my overall view as being around 50/50 uncertain about whether the Singularity will be Yudkowsky-style (fast local FOOM) or Hanson-style (slower distributed FOOM)."[^foom]|
 |Type of AI safety work most endorsed|He has endorsed (1) strategy research; (2) intelligence enhancement/amplification;[^ia_comment][^singularity_strategies] (3) "pushing for a government to try to take an insurmountable tech lead via large scale intelligence enhancement"; (4) philosophy research on topics like consciousness, normative ethics, and meta-ethics, which he thinks will not shorten AI timelines; and (5) advocacy/outreach.[^policy_alternatives]|
 |How "prosaic" AI will be||
 |Kind of AGI we will have first (de novo, neuromorphic, WBE, etc.)||
@@ -39,3 +39,5 @@ The following table summarizes Wei Dai's views on topics in AI safety.
 [^ia_comment]: [“Wei\_Dai comments on Cynical explanations of FAI critics (including myself)”](http://lesswrong.com/lw/e2k/cynical_explanations_of_fai_critics_including/7786). LessWrong. Retrieved March 8, 2018.
 
 [^singularity_strategies]: Wei Dai (July 13, 2011). [“Some Thoughts on Singularity Strategies”](http://lesswrong.com/lw/6mi/some_thoughts_on_singularity_strategies/). LessWrong. Retrieved March 8, 2018.
+
+[^foom]: [“Wei\_Dai comments on How can we ensure that a Friendly AI team will be sane enough?”](http://lesswrong.com/lw/cfc/how_can_we_ensure_that_a_friendly_ai_team_will_be/9oo1). LessWrong. Retrieved March 8, 2018.
