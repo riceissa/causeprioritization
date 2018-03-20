@@ -1,0 +1,28 @@
+---
+title: Template for views on AI safety
+format: markdown
+categories: AI_safety
+...
+
+# Paths to AGI
+
+|Path|Timeline for when we reach AGI|Probability that we first reach AGI using this path|Safety rating|Implications (e.g. emergence of singleton)|
+|----|------------------------------|---------------------------------------------------|-------------|------------------------------------------|
+|De novo|||||
+|Neuromorphic|||||
+|Whole brain emulation|||||
+|Intelligence enhancement|||||
+
+# Approaches to alignment
+
+|Approach|
+|Highly reliable agent design|
+|Paul Christiano's approach (are there multiple?)|
+|Inverse reinforcement learning|
+|Learning from human preferences|
+|Adversarial examples|
+|Working on philosophical questions|
+|Indirect normativity|
+|Coherent extrapolated volition|
+
+# The role of philosophy
