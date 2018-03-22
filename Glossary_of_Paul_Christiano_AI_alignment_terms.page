@@ -4,8 +4,8 @@ format: markdown
 categories: AI_safety
 ...
 
-|Term|Definition|Date introduced|Relevance to alignment|Does he still believe it?|
-|----|----------|---------------|----------------------|-------------------------|
+|Term|Definition|Example|Date introduced|Relevance to alignment|Does he still believe it?|
+|----|----------|-------|---------------|----------------------|-------------------------|
 |Approval-directed agent|
 |Imitation learner|
 |Narrow value learner|
