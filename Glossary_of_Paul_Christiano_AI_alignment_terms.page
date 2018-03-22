@@ -7,7 +7,7 @@ categories: AI_safety
 |Term|Definition|Example|Date introduced|Relevance to alignment|Does he still believe it?|
 |----|----------|-------|---------------|----------------------|-------------------------|
 |Goal-directed machine|
-|Approval-directed agent|An agent that estimates the expected rating a human would give to each action (if the human considered this at length), then takes the action with the highest expected rating.||[2014-12-01](https://ai-alignment.com/model-free-decisions-6e6609f5d99e)|Approval-directed agents are introduced in contrast to goal-directed agents.||
+|Approval-directed agent|An agent that estimates the expected rating a human would give to each action (if the human considered this at length), then takes the action with the highest expected rating.||[2014-12-01](https://ai-alignment.com/model-free-decisions-6e6609f5d99e)|Approval-directed agents are introduced in contrast to goal-directed agents.|As noted at the top of the "Black box search", he doesn't seem to agree with the conclusions of that section anymore.|
 |Imitation learner|
 |Narrow value learner|
 |Act-based agent|
