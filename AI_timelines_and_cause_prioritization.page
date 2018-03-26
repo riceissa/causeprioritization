@@ -1,0 +1,29 @@
+---
+title: AI timelines and cause prioritization
+format: markdown
+categories: AI_safety Cause_prioritization
+...
+
+From a 2014 [conversation](https://intelligence.org/wp-content/uploads/2014/02/01-21-2014-conversation-with-Jacob-Steinhardt.pdf) between Luke Muehlhauser and Jacob Steinhardt:
+
+> **Jacob**: But I think the academic's day-to-day research doesn't depend much
+> on AI timelines. Whether AI is 30 or 100 years away, there are problems in
+> front of you, and you just want to push on those.
+>
+> **Luke**: What? Your AI timelines estimate is *totally* relevant to what should
+> be worked on now.
+>
+> **Jacob**: I don't think my actions depend much on AI timelines, and the reason
+> why is that I can point to the next fundamental issues, so let's just work on
+> that, whether AI is 20 years away or 50 years away or 100 years away. If it was
+> 10 years away, maybe, but I think that's very unlikely.
+>
+> **Luke**: If somebody has most of their probability mass on AI being more than
+> 150 years out, then this drastically reduces the likely relevance of *anything*
+> you try to do about AI safety now, and maybe they shouldn't be focused on AI
+> safety but instead biosecurity.
+>
+> **Jacob**: Okay, I think some sort of estimate -- though maybe not exactly a
+> probability distribution over years to AI -- should impact what *field* you go
+> into. But I don't think it should have much bearing on the particular problems
+> you work on in that field.
