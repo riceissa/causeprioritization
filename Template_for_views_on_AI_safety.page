@@ -15,7 +15,7 @@ categories: AI_safety
 
 # Approaches to alignment
 
-|Approach|Time/resource cost to achieve alignment|Probability of this approach working in principle (i.e. ignoring AI timelines)|How competitive this approach would be with unalighted AGI|Number of serial discoveries needed/how parallelizable the approach is|
+|Approach|Time/resource cost to achieve alignment|Probability of this approach working in principle (i.e. ignoring AI timelines)|How competitive this approach would be with unaligned AGI|Number of serial discoveries needed/how parallelizable the approach is|
 |--------|---------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------|
 |Highly reliable agent design|
 |Paul Christiano's approach (are there multiple?)|
