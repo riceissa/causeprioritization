@@ -18,6 +18,7 @@ categories: AI_safety
 |Approach|Time/resource cost to achieve alignment|Probability of this approach working in principle (i.e. ignoring AI timelines)|How competitive this approach would be with unaligned AGI|Number of serial discoveries needed/how parallelizable the approach is|
 |--------|---------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------------|
 |Highly reliable agent design|
+|Task-directed AGI|
 |Paul Christiano's approach (are there multiple?)|
 |Inverse reinforcement learning|
 |Learning from human preferences|
