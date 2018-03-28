@@ -6,7 +6,7 @@ categories: AI_safety
 
 # Paths to AGI
 
-|Path|Timeline for when we reach AGI|Probability that we first reach AGI using this path|Safety rating|Implications (e.g. emergence of singleton, takeoff shape)|
+|Path|Timeline for when we reach AGI|Probability that we first reach AGI using this path|Safety rating|Implications (e.g. emergence of singleton, takeoff shape, self-modification)|
 |----|------------------------------|---------------------------------------------------|-------------|------------------------------------------|
 |De novo|||||
 |Neuromorphic|||||
