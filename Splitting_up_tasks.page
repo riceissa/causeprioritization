@@ -4,7 +4,7 @@ format: markdown
 categories: AI_safety
 ...
 
-I'm not sure what the general name for this is.
+I'm not sure what the general name for this is. There seems to be differing intuitions about how much you can take apart tasks and accomplish the whole task using subprocesses that are limited.
 
 But see e.g. [this thread](https://medium.com/@weidai/is-h%E1%B4%AC-capable-of-learning-a-new-skill-that-h-and-a-dont-have-db95aeb7d8e), [this post](https://www.facebook.com/bshlgrs/posts/10212280147893588).
 
