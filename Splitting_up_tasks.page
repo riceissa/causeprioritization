@@ -11,3 +11,5 @@ But see e.g. [this thread](https://medium.com/@weidai/is-h%E1%B4%AC-capable-of-l
 Quote from [IEM](https://intelligence.org/files/IEM.pdf):
 
 > It is a general truth of computer science that if you take one processing unit and split it up into ten parts with limited intercommunication bandwidth, they can do no better than the original on any problem, and will do considerably worse on many problems.
+
+Possibly related to ideas like [Divide and conquer algorithm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm), [Diseconomies of scale](https://en.wikipedia.org/wiki/Diseconomies_of_scale).
