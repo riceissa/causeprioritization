@@ -1,0 +1,13 @@
+---
+title: Splitting up tasks
+format: markdown
+categories: AI_safety
+...
+
+I'm not sure what the general name for this is.
+
+But see e.g. [this thread](https://medium.com/@weidai/is-h%E1%B4%AC-capable-of-learning-a-new-skill-that-h-and-a-dont-have-db95aeb7d8e), [this post](https://www.facebook.com/bshlgrs/posts/10212280147893588).
+
+Quote from [IEM](https://intelligence.org/files/IEM.pdf):
+
+> It is a general truth of computer science that if you take one processing unit and split it up into ten parts with limited intercommunication bandwidth, they can do no better than the original on any problem, and will do considerably worse on many problems.
