@@ -27,6 +27,10 @@ Having a convenient/canonical lookup of these people's views seems useful. I don
 
 I want to understand the key considerations for people's beliefs. This will help to prioritize where to look in terms of things to research.
 
+Different people have different "starting points" or "talking points" for discussion. For example, when Wei Dai talks about the difficulty of alignment, he talks about the difficulty of philosophy, while when Eliezer Yudkowsky talks, he talks about task-directed AGI, context disaster, optimization daemons, etc. On the one hand this gives one account of why these people disagree, which is that they start from different places and use different thought patterns to reach different conclusions. On the other hand this is pretty dissatisfying because I can follow along with each person's reasoning thinking that it mostly makes sense, and yet they reach different conclusions!
+
+So what I want to be able to do is grok each person's model well enough where I can make them say new things that they haven't actually said.
+
 This sort of belief summarization seems more important in AI safety than in other fields, because there has been less summarization going on so far.
 
 Some difficulties I've encountered:
