@@ -19,6 +19,21 @@ Most of the work in this period was done in AI safety. The basic motivation for 
 - Much of this thinking is stored in the heads of this small group of people or in scattered threads on LessWrong and other discussion forums. The most basic insights have been written down in _Superintelligence_ and a few other summary documents, but there is still a lot that is not summarized.
 - One insightful way to organize information is to take a standardized list of subtopics and record what a bunch of experts think about those subtopics.
 
+The current state of understanding people's views on AI safety seems to involve hunting down a bunch of discussion threads all across the internet.
+
+I want to try to model people's thinking. I think Ideological Turing Tests and just being able to model others accurately (e.g. predict what they would say on some topic they haven't explicitly talked about) is important.
+
+Having a convenient/canonical lookup of these people's views seems useful. I don't think I'm the only one who often wonders "what does X think about Y?"
+
+I want to understand the key considerations for people's beliefs. This will help to prioritize where to look in terms of things to research.
+
+This sort of belief summarization seems more important in AI safety than in other fields, because there has been less summarization going on so far.
+
+Some difficulties I've encountered:
+
+- Many of the people whose beliefs I want to track have not weighed in on many of the topics (or if they have, I have had difficulty locating where they've said it). This means there will be a lot of "holes" in the tables that can't be filled (unless I ask them directly).
+- Since the field is new, a lot of terminology keeps changing. For example, just recently Paul Christiano and Wei Dai had a discussion about what they even mean by ["AI alignment"](https://ai-alignment.com/clarifying-ai-alignment-cec47cd69dd6).
+
 # External links
 
 - [GitHub commits](https://github.com/riceissa/causeprioritization/compare/master@%7B2018-03-08%7D...master@%7B2018-03-30%7D)
