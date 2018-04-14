@@ -1,0 +1,20 @@
+---
+title: Priority Wiki
+categories: Cause_prioritization_entity
+...
+
+**Priority Wiki** is a wiki started by Peter Hurford.
+
+# History
+
+The GitHub repositories for both the wiki and the wiki content were created on January 26, 2018.[^wiki_content_initial_commit][^wiki_initial_commit]
+
+# External links
+
+- [Official website](http://priority.wiki/)
+- [GitHub repository for content](https://github.com/peterhurford/priority-wiki-content)
+- [GitHub repository for wiki source](https://github.com/peterhurford/priority-wiki)
+
+[^wiki_content_initial_commit]: [“Add README · peterhurford/priority-wiki-content@f18c1d5”](https://github.com/peterhurford/priority-wiki-content/commit/f18c1d59ba411120f31932c26e4f0223dacb59bf). GitHub. Retrieved April 14, 2018.
+
+[^wiki_initial_commit]: [“Initial wiki template · peterhurford/priority-wiki@5f8cab3”](https://github.com/peterhurford/priority-wiki/commit/5f8cab38bcfa0cf821dc44ae4dfefd22b38d2acf). GitHub. Retrieved April 14, 2018.
