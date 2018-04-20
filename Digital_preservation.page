@@ -106,3 +106,4 @@ However it must be noted that there still indirect risks involved; for instance,
 - [How Much of the Web Is Archived?](http://arxiv.org/abs/1212.6177)
 - [Archiveteam](http://www.archiveteam.org/index.php?title=Main_Page)
 - [Preserving Business History](https://web.archive.org/web/20150417002602/http://blogs.loc.gov/digitalpreservation/2011/11/preserving-business-history/)
+- One sub-area can be format evaluation, e.g. ["Xz format inadequate for long-term archiving"](https://www.nongnu.org/lzip/xz_inadequate.html) (I haven't evaluated this particular piece, but it is an example of the kind of thing that could be done).
