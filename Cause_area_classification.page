@@ -26,6 +26,10 @@ categories: Cause_prioritization
 |Look for cause schemas|This is similar (or potentially identical) to the previous idea. Some causes like content creation act like cause schemas than like a single cause area, because there can be a "content creation for X" for each cause area X.|
 |Prerequisite knowledge|The idea here is that in the case of direct work (so ignoring earning-to-give and other grantmaking activity), when people are trying to find which causes to prioritize, they want to prioritize based on which causes they personally can contribute to. One of the things that would be useful to know of prerequisite knowledge to work in the area.|
 
+test:
+
+[![Cause area DAG](/dagitty-model.svg)](/dagitty-model.svg)
+
 # See also
 
 - [General questions for causes]() lists some questions that can be answered about each cause area. The answers to these questions can form different equivalence classes.
