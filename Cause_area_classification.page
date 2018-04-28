@@ -11,8 +11,8 @@ categories: Cause_prioritization
 |Name|Notes|
 |-------------|---------------------------------------------------------------|
 |Sub-cause digraph|The idea here is to take inspiration from existing similar taxonomies of e.g. academic fields (examples: [1](https://www.ncbi.nlm.nih.gov/books/NBK43464/), [2](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines), [3](https://en.wikipedia.org/wiki/List_of_academic_fields), [4](https://en.wikipedia.org/wiki/Category:Academic_disciplines), [5](http://sites.nationalacademies.org/pga/resdoc/pga_044522)). So similar tree things, but instead of academic fields, you have cause areas in the tree. See [this Gist](https://gist.github.com/riceissa/542f5a9a46e92d7ad2c9aebcce758f32) or [this graph](http://dagitty.net/mKXhKiv) for a prototype.|
-|Associated academic fields|For each cause area, use the existing academic outlines to figure out which fields are associated with the cause area, and categorize cause areas by these "associated fields".|
-|Cause area as academic work|For each cause area, think about which academic field research for that cause would be conducted in, and categorize based on that.|
+|Associated academic fields|For each cause area, use the existing academic outlines to figure out which fields are associated with the cause area, and categorize cause areas by these "associated fields". The hard part is that the fields are already a tree, and you're trying to fit cause areas into this tree, but the cause areas themselves have a graph-like structure.|
+|Cause area as academic work|For each cause area, think about which academic field research for that cause would be conducted in, and categorize based on that. Same difficulty as "Associated academic fields" idea.|
 
 # See also
 
