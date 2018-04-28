@@ -1,667 +1,855 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="922" height="608" xmlns:xlink="http://www.w3.org/1999/xlink" style="font-family: Arial, sans-serif;">
+<svg xmlns="http://www.w3.org/2000/svg" width="1476" height="1476" xmlns:xlink="http://www.w3.org/1999/xlink" style="font-family: Arial, sans-serif; width: 1476px; height: 1064px;">
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M580.49,170.24L560.39,173.65"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(560.3869770809956,173.6504238088222) rotate(-9.621747777362609)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M943.22,188.12L877.34,271.40"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(877.3415721209244,271.39696550879376) rotate(-51.65263993640394)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M442.31,239.18L187.49,518.41"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(187.49434070377816,518.4055737770143) rotate(-47.61717955683653)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M714.60,396.27L314.01,796.49"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(314.0084262627311,796.4887147400134) rotate(-44.972972918464244)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M474.83,228.44L501.67,230.16"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(501.6744093614266,230.15720891865993) rotate(183.6609704282646)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M747.75,386.09L822.13,391.00"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(822.1302172421513,391.0012895482442) rotate(183.77865536840406)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M210.79,123.91L254.55,141.51"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(254.5475769030698,141.51457266335294) rotate(201.92181075320352)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M279.50,159.43L338.72,346.90"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(338.7182929037297,346.90255252075656) rotate(252.470356527804)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M191.09,133.08L187.99,182.50"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(187.9932045897832,182.5008379914948) rotate(-86.41498922413183)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M260.71,156.21L200.11,219.56"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(200.1062657490085,219.56246680934922) rotate(-46.26686746699861)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M201.35,131.50L210.41,152.36"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(210.4074101100782,152.35836072675374) rotate(246.53049976040728)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M273.44,159.99L271.74,220.01"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(271.74036331957547,220.0091666000328) rotate(-88.37332636856588)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M176.06,126.82L119.51,164.63"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(119.50621007908826,164.63362722315364) rotate(-33.769398892645974)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M254.52,148.42L118.40,176.72"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(118.40257192714327,176.71573221858816) rotate(-11.743188177814462)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M666.43,414.07L443.15,459.98"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(443.1490847936802,459.9792209942302) rotate(-11.618072890478674)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1056.64,746.78L812.27,802.27"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(812.2687172835911,802.2678807037814) rotate(-12.794000942599013)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M677.71,424.33L627.91,526.69"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(627.9141865390061,526.6910091636173) rotate(-64.06069764262008)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1070.71,757.47L1004.51,975.29"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1004.5058823105721,975.2911091959382) rotate(-73.09336587046396)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M679.10,424.75L662.01,471.71"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(662.008139042794,471.70764761650975) rotate(-70.00127731386041)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1073.76,757.91L1060.12,870.18"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1060.1218900180388,870.176163577789) rotate(-83.0749642629008)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M666.20,413.25L335.30,463.85"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(335.29620605835913,463.8501661065119) rotate(-8.694775453529171)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1056.02,743.75L677.97,760.07"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(677.9720461504883,760.0654314965896) rotate(-2.4715181204989882)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M668.94,418.59L470.34,528.09"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(470.34125021009766,528.0906599556004) rotate(-28.872148666326275)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1090.59,753.26L1330.33,951.86"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1330.3252254343668,951.8595422934432) rotate(219.63779818403816)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M692.37,424.84L696.81,441.85"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(696.8146881156308,441.84963323176777) rotate(255.3473344382276)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1087.03,755.52L1129.76,816.65"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1129.7551513266728,816.6481715658226) rotate(235.04716189955457)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M669.62,419.35L581.81,476.42"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(581.814649456786,476.4176474418755) rotate(-33.01896001444333)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1061.51,753.34L922.95,871.34"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(922.9540963623266,871.3422578060283) rotate(-40.41887213883259)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M702.35,419.18L819.20,491.93"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(819.2036724646451,491.92836466178284) rotate(211.9032414075401)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1093.94,749.64L1263.37,823.63"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1263.3712355475288,823.626200726799) rotate(203.5899961633429)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M689.69,425.37L708.43,516.74"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(708.425156595102,516.7418383997683) rotate(258.4104757115898)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1081.82,757.36L1149.85,959.42"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1149.854244063269,959.4231653902046) rotate(251.39180885231494)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M699.20,421.85L764.40,489.62"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(764.3979630636486,489.6181897995387) rotate(226.10682851019132)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1089.96,753.74L1252.74,902.61"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1252.7435793682585,902.6132086381174) rotate(222.44314459418132)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M294.58,458.17L226.66,411.54"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(226.66064647339303,411.5415406177653) rotate(34.46951737866869)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M633.33,758.29L282.63,702.40"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(282.6267911021832,702.3958037296736) rotate(9.055140183913178)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M743.58,281.31L829.97,287.34"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(829.9663511273418,287.343710819178) rotate(183.99795030036967)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1148.24,503.57L1125.31,591.67"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1125.3068806505607,591.6733892634467) rotate(-75.40666859708377)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M175.61,235.15L306.90,388.05"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(306.89560328955446,388.04732014502866) rotate(229.34886809241965)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M188.89,451.79L241.63,564.87"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(241.63231098653068,564.870642521356) rotate(244.99337455053035)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M174.51,235.74L214.03,292.10"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(214.03238334347836,292.1017833922875) rotate(234.9591292757254)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M196.59,447.39L305.12,526.03"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(305.1227632978879,526.0273041854502) rotate(215.925220523693)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M156.53,237.35L105.34,365.45"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(105.34083498322333,365.450940188108) rotate(-68.21979171262973)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M170.71,450.87L91.41,571.23"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(91.41072619186505,571.229224830355) rotate(-56.62120082447086)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M167.57,237.93L200.71,380.68"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(200.70716159646668,380.6825103085185) rotate(256.92964420593785)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M186.02,452.52L251.35,679.75"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(251.351114408008,679.7498194584483) rotate(253.9583882991746)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M157.85,237.67L144.60,283.58"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(144.60174037850777,283.577129029318) rotate(-73.90499200099518)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M176.82,452.67L159.55,529.52"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(159.55046873402583,529.51961302224) rotate(-77.33493072792541)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M180.04,231.59L315.69,312.47"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(315.6904135591197,312.4707015980271) rotate(210.80706306152865)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M199.35,443.98L508.49,561.05"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(508.48659496106313,561.0539736886244) rotate(200.74302769282758)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M147.20,232.05L65.71,285.96"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(65.70848580421946,285.95959093577517) rotate(-33.48596055273257)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M164.60,446.59L67.66,507.91"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(67.65859735629749,507.90527228575246) rotate(-32.3153111749937)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M652.04,85.05L613.03,150.83"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(613.0281239772145,150.83275952958883) rotate(-59.328499256590945)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1056.81,96.10L974.11,163.26"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(974.1096107029425,163.26196137531917) rotate(-39.083063598998365)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M665.47,86.72L676.43,144.64"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(676.4325181815,144.636136239372) rotate(259.2820727738182)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1074.92,100.94L1099.86,243.74"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1099.864733089487,243.74264805291907) rotate(260.09118984920855)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M780.38,64.61L842.02,69.52"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(842.0201009289174,69.51567136154215) rotate(184.54606392642356)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1255.56,71.02L1387.74,82.65"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1387.7389325138697,82.65027161372517) rotate(185.02759626811505)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M741.05,67.01L531.03,113.50"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(531.0297037909497,113.49943970887863) rotate(-12.482083978496757)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1215.66,69.97L913.99,77.46"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(913.9907259169516,77.46375642063713) rotate(-1.4227081273460263)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M768.40,77.10L804.62,155.63"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(804.6230261249161,155.62940731680538) rotate(245.23999681464613)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1240.55,84.09L1299.50,294.72"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1299.5023821625978,294.71551394001926) rotate(254.36437158549376)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M740.55,64.86L686.71,70.05"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(686.7098088207333,70.05133785200208) rotate(-5.5024527397982546)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1215.79,71.31L1096.60,83.92"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1096.598605150935,83.92109999291355) rotate(-6.0398056456533045)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M758.03,78.22L708.57,440.77"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(708.5733164309869,440.77332547961424) rotate(-82.23262455831305)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1233.55,84.46L1146.88,813.05"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1146.8798379806556,813.047281809527) rotate(-83.21585919495429)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M772.84,75.11L827.08,139.26"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(827.0760046319783,139.25847669226548) rotate(229.78707094171165)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1246.94,81.92L1358.34,228.60"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1358.340781342745,228.60405021185298) rotate(232.78477096216938)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M753.96,77.53L741.24,115.64"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(741.2360518961157,115.64018164274924) rotate(-71.54272031430035)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1229.96,83.93L1197.02,187.03"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1197.0159097535168,187.0304381253821) rotate(-72.28021946925632)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M776.65,72.13L835.23,111.74"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(835.2269502528166,111.73746400949513) rotate(214.06752355348954)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1251.01,79.16L1374.57,171.77"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1374.5706183759298,171.7684123784376) rotate(216.8517267910143)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M592.47,243.03L617.27,296.71"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(617.2670952611599,296.70761012734596) rotate(245.2019442729857)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M997.42,324.96L1013.70,532.59"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1013.696586851056,532.591941242063) rotate(265.5167341485067)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M567.58,237.61L352.65,362.79"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(352.646756672539,362.791751632116) rotate(-30.216821894829167)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M981.23,320.12L515.89,692.06"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(515.8899653485914,692.05605007843) rotate(-38.63446819211391)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M582.50,244.29L580.62,268.88"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(580.6190298400804,268.87895516674575) rotate(-85.62509146976518)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M990.47,324.42L940.18,483.68"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(940.1838270555614,483.67640972347834) rotate(-72.47524156057376)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M588.78,243.96L647.05,470.93"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(647.046375662976,470.92554394115984) rotate(255.60298052819297)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M997.85,324.94L1054.68,870.13"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1054.6767156063079,870.1281292307324) rotate(264.0489778908536)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M568.69,238.75L393.24,364.12"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(393.23901035206654,364.1197131010763) rotate(-35.547691074085954)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M981.63,320.43L653.42,599.63"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(653.4171499238785,599.6304830692015) rotate(-40.38662517153586)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M569.04,239.07L190.72,521.08"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(190.72304399020274,521.0754044749311) rotate(-36.701902162805915)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M980.60,319.57L316.65,798.79"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(316.64828843181533,798.7911559391833) rotate(-35.8207174539009)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M570.64,240.32L421.70,383.09"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(421.6969622076327,383.08720424191677) rotate(-43.787708102091464)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M979.74,318.74L481.66,629.89"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(481.66109825560244,629.8937923017621) rotate(-31.993280480295553)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M571.89,241.12L475.96,351.40"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(475.9630756730823,351.3991512014669) rotate(-48.97957272442058)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M992.46,324.77L934.70,613.37"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(934.6997454553278,613.3711527836956) rotate(-78.68170620352677)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M604.18,227.90L663.79,222.52"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(663.7868089452968,222.5213459538799) rotate(174.8463951132026)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M982.97,321.38L634.79,678.33"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(634.7899746842726,678.3266220353437) rotate(-45.71164437380902)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M583.40,244.33L579.42,330.23"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(579.4221994028002,330.2311961088474) rotate(-87.34915243160867)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M990.62,324.45L878.12,683.86"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(878.124337246273,683.8631875489953) rotate(-72.61991278191577)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M594.88,242.06L657.05,333.65"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(657.047958367332,333.6490297281738) rotate(235.83158644576986)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M377.74,122.98L374.57,135.58"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(374.56612165797964,135.58212163572026) rotate(-75.869380024507)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M568.72,238.77L459.88,318.09"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(459.88286558235524,318.0935340073095) rotate(-36.08580480354148)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M279.41,253.61L295.96,290.13"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(295.9595898642722,290.13401947556423) rotate(245.6250626799945)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M573.64,242.05L528.43,309.75"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(528.4323746430791,309.74818833011165) rotate(-56.26312916497194)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1362.32,655.27L1393.80,712.63"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1393.8045118520602,712.6338773009023) rotate(241.23924232266742)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M568.40,238.47L519.06,274.33"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(519.0554658481366,274.33342157675924) rotate(-36.0048313166907)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1126.98,384.68L1214.21,511.43"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1214.206058925133,511.43279723230916) rotate(235.46570625128243)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M575.90,242.97L500.81,390.91"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(500.8112256190062,390.91407662622134) rotate(-63.08903622763888)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1132.87,380.45L1227.07,439.21"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1227.0724221597243,439.2113954161138) rotate(211.9533148971569)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M576.58,243.19L532.82,340.62"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(532.8165171519232,340.62083676311437) rotate(-65.81004654789608)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1121.68,386.42L1145.98,469.84"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1145.9829139908413,469.83688146812443) rotate(253.7579747996775)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M567.11,237.05L458.77,295.45"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(458.7658882040449,295.4524717383651) rotate(-28.3276160996084)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1099.40,379.88L318.52,800.96"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(318.5164092855973,800.9628492796012) rotate(-28.335366028241125)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M119.36,470.28L106.57,518.10"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(106.57433674414726,518.099822166422) rotate(-75.03406484921632)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1105.13,384.36L1063.29,442.61"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1063.2879332811574,442.6053555340277) rotate(-54.30992452720885)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M233.57,182.25L250.05,207.66"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(250.04843824398563,207.66200280800874) rotate(237.04723092820475)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M561.50,73.48L842.32,275.01"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(842.3165251060971,275.0109196346127) rotate(215.66445940315188)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M864.60,388.02L871.99,428.55"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(871.9936019849883,428.54877456882014) rotate(259.6672934745103)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M554.88,77.44L716.17,367.39"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(716.1660132809682,367.3940566636319) rotate(240.91520919964765)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M705.80,228.48L740.63,249.23"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(740.6315198596782,249.23350960691923) rotate(210.7883801976106)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M550.23,78.66L591.76,252.95"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(591.7589730346336,252.95315158590958) rotate(256.59901824660216)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M708.57,222.33L757.34,227.33"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(757.3390908378873,227.32617374095108) rotate(185.8545235687537)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M538.43,77.89L334.96,519.72"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(334.9574814247681,519.7196520007763) rotate(-65.27243103410895)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M697.83,234.05L711.66,262.69"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(711.6599565094041,262.6878167209771) rotate(244.22399097144023)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M547.09,78.98L566.69,401.21"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(566.6891713618253,401.213899812379) rotate(266.51920230978345)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M672.30,229.32L192.08,522.55"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(192.08414588606243,522.553493165457) rotate(-31.40957936000965)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M535.98,76.99L359.07,349.06"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(359.0723555252983,349.05595804891175) rotate(-56.96672267353753)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M676.33,232.51L663.91,250.61"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(663.9107751072868,250.61068374557334) rotate(-55.560656266796805)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M550.50,78.62L624.49,365.61"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(624.4900390071001,365.61277289374004) rotate(255.544274129925)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M369.63,88.40L514.02,166.68"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(514.0222863409641,166.6810024034854) rotate(208.4645924322398)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M558.48,75.72L830.95,377.20"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(830.9520369352994,377.2032828246503) rotate(227.89279975087717)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M362.94,93.42L441.32,210.80"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(441.32075100569915,210.80394594353385) rotate(236.26730873290518)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M557.29,76.38L703.53,267.49"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(703.5259103364922,267.4931761599761) rotate(232.57741752371658)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M357.16,95.20L370.26,149.55"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(370.26301664383584,149.5466694848657) rotate(256.4425454334009)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M545.50,79.00L532.26,548.59"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(532.2603889258576,548.5853272500216) rotate(-88.38530026215498)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M343.93,94.14L239.75,290.56"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(239.7512667815012,290.55529302934093) rotate(-62.05827536129147)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M564.02,70.52L750.28,149.78"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(750.2791420540126,149.78269098984646) rotate(203.05292622495057)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M353.20,95.59L357.91,226.34"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(357.90805713242037,226.34081981653057) rotate(267.93981628569156)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M543.11,78.84L501.97,332.35"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(501.9666661622969,332.3504664095395) rotate(-80.78178356916928)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M338.75,91.47L295.48,134.86"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(295.48178235165074,134.8551707155598) rotate(-45.07805301310549)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1391.72,740.50L1304.31,818.54"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1304.3129097219658,818.5397671900506) rotate(-41.76114445734207)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M357.60,95.12L389.59,208.27"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(389.5878609919326,208.2679907982208) rotate(254.21596752356902)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1226.22,616.49L1094.50,729.70"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1094.4950104291734,729.6990652946587) rotate(-40.6776152331598)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M366.70,91.20L508.47,217.73"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(508.47123212912027,217.73401378119144) rotate(221.75027077290375)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1259.40,611.35L1329.44,635.41"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1329.4405590668864,635.4101445138697) rotate(198.9576209961391)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M365.85,91.80L431.94,160.30"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(431.9433045702461,160.29894631468974) rotate(226.02530015530215)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M540.80,78.49L449.89,380.81"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(449.887835159704,380.80566199399874) rotate(-73.2628788822634)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M351.40,95.58L338.32,303.07"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(338.3194648352676,303.0738634857372) rotate(-86.39255577781428)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M408.11,55.11L294.23,133.41"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(294.23301015661764,133.40873067083166) rotate(-34.51383060385384)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M372.16,83.53L430.30,94.34"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(430.30187568997627,94.33710770154876) rotate(190.52863848099693)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M414.48,59.19L397.45,91.75"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(397.44734366136885,91.75122677773192) rotate(-62.38502474434506)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M347.82,95.18L322.92,191.04"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(322.91931078938615,191.04329326681724) rotate(-75.43850552557414)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M441.55,53.20L1094.21,362.85"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1094.212570805275,362.85237903596686) rotate(205.38137642357947)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M866.75,461.07L853.32,485.91"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(853.3172071233319,485.91244910314254) rotate(-61.602709544803176)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M425.78,60.94L434.63,154.09"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(434.6294729284863,154.09364110833644) rotate(264.5727444403238)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M749.40,353.23L703.95,396.95"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(703.9475594976291,396.9511671004928) rotate(-43.887904209975595)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M887.87,92.98L884.51,151.04"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(884.5102690220704,151.03800014724823) rotate(-86.69128593566346)"></path>
   </g>
   <g class="path" style="cursor: move;">
-    <path stroke="black" stroke-width="1.5" fill="none" d="M782.23,347.75L837.32,366.77"></path>
-    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(837.3237348125332,366.7672405884739) rotate(199.0475228255226)"></path>
+    <path stroke="black" stroke-width="1.5" fill="none" d="M564.76,69.21L859.42,164.45"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(859.42448678898,164.44608227748446) rotate(197.9099927085503)"></path>
   </g>
-  <g style="cursor: move;" transform="translate(535.6592199553056,176.5549348230912)">
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M434.66,58.69L711.12,446.48"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(711.1203339403029,446.4793774486204) rotate(234.51457721363346)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M355.16,379.34L407.01,472.54"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(407.0119534051855,472.53944191854856) rotate(240.90983375097073)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M718.48,64.76L432.69,473.38"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(432.69467135702274,473.3793107639705) rotate(-55.030764332017384)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M985.15,322.60L899.11,443.61"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(899.1138284391143,443.608840445017) rotate(-54.58743527201223)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M878.69,474.24L843.33,573.19"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(843.3335630576389,573.1899713843868) rotate(-70.33671440072195)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M869.96,469.89L817.22,513.37"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(817.2216532633083,513.3691416090695) rotate(-39.50802911659418)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M865.00,460.33L749.99,462.59"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(749.9944813209519,462.5878185846869) rotate(-1.1247787239242637)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M866.29,465.32L714.52,516.31"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(714.516083246354,516.3149828238021) rotate(-18.572323324583184)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M404.01,46.40L230.99,50.50"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(230.99180950547776,50.495867027898605) rotate(-1.3550378031528585)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M994.69,324.97L969.75,664.05"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(969.7513525558694,664.0510410146377) rotate(-85.7943046929427)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M536.07,77.02L130.96,701.00"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(130.96178581261853,701.0005791887411) rotate(-57.006937572162265)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M416.59,59.94L127.76,699.65"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(127.76314483194372,699.650569797217) rotate(-65.70150159048069)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1065.46,100.37L1025.32,212.19"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1025.317687409973,212.1853109361815) rotate(-70.25115802998525)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1242.21,83.72L1346.34,352.29"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1346.337477837361,352.28877043496146) rotate(248.80904667137983)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1362.49,384.91L1380.14,428.68"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(1380.1443314272403,428.68325917659433) rotate(248.02954483076613)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M465.12,783.36L541.16,815.99"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(541.1631346223731,815.9851954454842) rotate(203.22139819773065)"></path>
+  </g>
+  <g class="path" style="cursor: move;">
+    <path stroke="black" stroke-width="1.5" fill="none" d="M1058.55,750.34L955.06,802.72"></path>
+    <path stroke="black" stroke-width="1.5" fill="white" class="arrowfront" d="M-1,0L15,5L15,-5Z" transform="translate(955.0555225364641,802.7221694408137) rotate(-26.8451949793311)"></path>
+  </g>
+  <g style="cursor: move;" transform="translate(862.0763483988181,287.1055610326067)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="54" height="16" x="-27" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/AI_policy">AI_policy</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(600.2481265212907,167.92178770949718)">
+  <g style="cursor: move;" transform="translate(955,176)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="56" height="16" x="-28" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/AI_safety">AI_safety</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(628.0283013883814,314.6852886405959)">
+  <g style="cursor: move;" transform="translate(1015.584760836426,552.5325154270274)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="148" height="16" x="-74" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Access_to_entertainment">Access_to_entertainment</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(454.86521138351753,227.50465549348232)">
+  <g style="cursor: move;" transform="translate(727.8045791238179,385.00894585022087)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="103" height="16" x="-51.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Advancing_liberty">Advancing_liberty</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(376.38621738398695,168.91247672253257)">
+  <g style="cursor: move;" transform="translate(597.3801384813391,272.4200533099646)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="92" height="16" x="-46" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Agrarian_reform">Agrarian_reform</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(331.47493468219074,373.2774674115457)">
+  <g style="cursor: move;" transform="translate(497.00000000000006,705)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="121" height="16" x="-60.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Alcohol_replacement">Alcohol_replacement</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(192.34255888951273,118.10428305400372)">
+  <g style="cursor: move;" transform="translate(274.00000000000006,145)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="89" height="16" x="-44.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Animal_welfare">Animal_welfare</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(762.2991465793184,259.06517690875233)">
+  <g style="cursor: move;" transform="translate(1228,528)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="44" height="16" x="-22" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Anxiety">Anxiety</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(418.75098405629996,464.2793296089386)">
+  <g style="cursor: move;" transform="translate(788,807)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="112" height="16" x="-56" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Argument_mapping">Argument_mapping</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(866.9378052453592,71.11731843575416)">
+  <g style="cursor: move;" transform="translate(1412.6290757126449,84.49994522948845)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="55" height="16" x="-27.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Asteroids">Asteroids</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(578.2554880848443,288.7858472998138)">
+  <g style="cursor: move;" transform="translate(932.8671952372139,502.7649614780736)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="121" height="16" x="-60.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Better_entertainment">Better_entertainment</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(685.9036656948197,410.6405959031658)">
+  <g style="cursor: move;" transform="translate(1076,743)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="119" height="16" x="-59.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Better_epistemology">Better_epistemology</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(617.1477328987708,544.6666666666667)">
+  <g style="cursor: move;" transform="translate(997.5023162635749,994.4575163398694)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="115" height="16" x="-57.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Better_explanations">Better_explanations</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(782.2082719007333,229.3445065176909)">
+  <g style="cursor: move;" transform="translate(1248,450)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="93" height="16" x="-46.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Bipolar_disorder">Bipolar_disorder</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(506.72153780208635,118.10428305400372)">
+  <g style="cursor: move;" transform="translate(889,77.99999999999997)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="94" height="16" x="-47" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Climate_change">Climate_change</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(322.6778793076121,403.4227188081937)">
+  <g style="cursor: move;" transform="translate(252.00000000000006,583)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="110" height="16" x="-55" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Computer_security">Computer_security</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(653.0304587687627,490.32029795158286)">
+  <g style="cursor: move;" transform="translate(1057.1359100676582,890.0272392010808)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="99" height="16" x="-49.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Content_creation">Content_creation</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(228.45678621673034,308.31657355679704)">
+  <g style="cursor: move;" transform="translate(325,538)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="100" height="16" x="-50" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Copyright_reform">Copyright_reform</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(310.63980353187293,467.10986964618246)">
+  <g style="cursor: move;" transform="translate(653,761)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="123" height="16" x="-61.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Cultural_preservation">Cultural_preservation</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(96.26945414082498,384.03351955307267)">
+  <g style="cursor: move;" transform="translate(77.99999999999996,588)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="111" height="16" x="-55.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Decentralized_web">Decentralized_web</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(373.37669844005217,376.1080074487896)">
+  <g style="cursor: move;" transform="translate(635,613)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="240" height="16" x="-120" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Deposit_contract_for_smoking_cessation">Deposit_contract_for_smoking_cessation</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(723.6384032226176,280.15270018621976)">
+  <g style="cursor: move;" transform="translate(1153,489)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="66" height="16" x="-33" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Depression">Depression</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(206.23264632305796,400.16759776536315)">
+  <g style="cursor: move;" transform="translate(257.99999999999994,699)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="115" height="16" x="-57.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Digital_preservation">Digital_preservation</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(163.4048767362935,223.2588454376164)">
+  <g style="cursor: move;" transform="translate(181.00000000000003,438)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="76" height="16" x="-38" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Digital_rights">Digital_rights</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(171.27592628196913,533.4860335195532)">
+  <g style="cursor: move;" transform="translate(296.99999999999994,811)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="107" height="16" x="-53.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Drug_liberalization">Drug_liberalization</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(404.16639225107735,397.195530726257)">
+  <g style="cursor: move;" transform="translate(461,640.9999999999999)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="70" height="16" x="-35" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/E-cigarettes">E-cigarettes</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(815.0814788267902,173.72439478584732)">
-    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
-    <rect class="textbg" fill="#ffffff" width="36" height="16" x="-18" y="22"></rect>
-    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/EMPs">EMPs</a></text>
-  </g>
-  <g style="cursor: move;" transform="translate(647.937426709796,265.8584729981378)">
+  <g style="cursor: move;" transform="translate(1048.6717870761108,458.7084383101472)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="97" height="16" x="-48.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Eating_disorders">Eating_disorders</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(358.7921066348297,246.32774674115456)">
+  <g style="cursor: move;" transform="translate(568.1404408741757,421.17880746339506)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="193" height="16" x="-96.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Education_reform_and_disruption">Education_reform_and_disruption</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(661.8275141433413,71.96648044692735)">
+  <g style="cursor: move;" transform="translate(1071.75575887124,86.13166830978201)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="89" height="16" x="-44.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Existential_risk">Existential_risk</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(277.76659660581583,148.81564245810054)">
+  <g style="cursor: move;" transform="translate(345.99999999999994,366)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="121" height="16" x="-60.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Factory_farm_reform">Factory_farm_reform</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(448.8461734956479,538.1564245810057)">
+  <g style="cursor: move;" transform="translate(1349,965)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="207" height="16" x="-103.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Fluid_intelligence_decline_with_age">Fluid_intelligence_decline_with_age</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(705.349788101783,460.5996275605214)">
+  <g style="cursor: move;" transform="translate(1144.0855371626442,832.9169313908059)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="68" height="16" x="-34" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Forecasting">Forecasting</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(760.4471349215124,63.333333333333314)">
+  <g style="cursor: move;" transform="translate(1235.6519586166557,69.54248366013074)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="37" height="16" x="-18.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/GCRs">GCRs</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(459.95824344248405,366.6256983240224)">
+  <g style="cursor: move;" transform="translate(930.0000000000001,633)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="45" height="16" x="-22.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Gaming">Gaming</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(843.0931551511065,154.4767225325884)">
+  <g style="cursor: move;" transform="translate(1373.0015907976735,244.68076094497388)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="124" height="16" x="-62" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Geomagnetic_storms">Geomagnetic_storms</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(584.2745259727138,229.3445065176909)">
+  <g style="cursor: move;" transform="translate(996,309.99999999999994)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="59" height="16" x="-29.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Hedonism">Hedonism</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(396.2953427054018,227.50465549348232)">
+  <g style="cursor: move;" transform="translate(630.4671647210241,385.00894585022087)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="87" height="16" x="-43.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Homelessness">Homelessness</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(264.8025150011737,223.683426443203)">
+  <g style="cursor: move;" transform="translate(306.99999999999994,308)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="125" height="16" x="-62.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Humane_insecticides">Humane_insecticides</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(186.32352100164317,202.45437616387335)">
+  <g style="cursor: move;" transform="translate(182.99999999999997,234.00000000000003)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="79" height="16" x="-39.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/In_vitro_meat">In_vitro_meat</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(124.51263192236691,455.7877094972067)">
+  <g style="cursor: move;" transform="translate(385,109.00000000000001)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="42" height="16" x="-21" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Injuries">Injuries</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(222.20624687163496,169.90316573556794)">
+  <g style="cursor: move;" transform="translate(271.00000000000006,240.00000000000003)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="93" height="16" x="-46.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Insect_suffering">Insect_suffering</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(860.9187673574895,373.2774674115457)">
+  <g style="cursor: move;" transform="translate(1353,642)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="135" height="16" x="-67.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Instrumental_rationality">Instrumental_rationality</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(137.24521206978335,302.6554934823091)">
+  <g style="cursor: move;" transform="translate(154.00000000000003,549)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="101" height="16" x="-50.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Internet_mortality">Internet_mortality</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(561.1243802501384,487.48975791433895)">
+  <g style="cursor: move;" transform="translate(904.3969633565547,884.5881622667689)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="63" height="16" x="-31.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Journalism">Journalism</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(854.89972946962,288.7858472998138)">
+  <g style="cursor: move;" transform="translate(1119.0000000000002,611)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="42" height="16" x="-21" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Lithium">Lithium</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(688.6816831815287,220.7113594040968)">
+  <g style="cursor: move;" transform="translate(1116.3847710084895,371.9551612078723)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="81" height="16" x="-40.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Mental_health">Mental_health</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(526.6306631235011,231.32588454376162)">
+  <g style="cursor: move;" transform="translate(847.0717667319844,392.3516997115419)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="53" height="16" x="-26.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Migration">Migration</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(840.0836362071716,502.77467411545626)">
+  <g style="cursor: move;" transform="translate(1286,832)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="63" height="16" x="-31.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Nootropics">Nootropics</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(681.2736365503047,164.24208566108007)">
+  <g style="cursor: move;" transform="translate(1104.0733193844205,263.4455763683499)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="98" height="16" x="-49" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Nuclear_security">Nuclear_security</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(713.4523391046844,536.316573556797)">
+  <g style="cursor: move;" transform="translate(1157.5511873764692,978.4122393836492)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="83" height="16" x="-41.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Open_science">Open_science</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(449.0776749528736,174.7150837988827)">
+  <g style="cursor: move;" transform="translate(718.1862575425142,283.570161025304)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="106" height="16" x="-53" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Organ_transplants">Organ_transplants</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(578.2554880848443,350.2085661080075)">
+  <g style="cursor: move;" transform="translate(436.99999999999994,174.00000000000003)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="61" height="16" x="-30.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Pain_relief">Pain_relief</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(336.79946819838307,323.03538175046555)">
+  <g style="cursor: move;" transform="translate(531.5908188652214,568.5777923832476)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="82" height="16" x="-41" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Patent_reform">Patent_reform</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(98.81597017030825,175.70577281191805)">
+  <g style="cursor: move;" transform="translate(94.00000000000004,181)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="132" height="16" x="-66" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Pet_population_control">Pet_population_control</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(781.513767529056,504.04841713221606)">
+  <g style="cursor: move;" transform="translate(1270.6626491726017,916.4067623324935)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="134" height="16" x="-67" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Philosophical_progress">Philosophical_progress</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(352.54156728973436,80.59962756052138)">
+  <g style="cursor: move;" transform="translate(546,63.99999999999998)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="36" height="16" x="-18" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Policy">Policy</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(670.8560709751457,350.2085661080075)">
+  <g style="cursor: move;" transform="translate(691,523)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="73" height="16" x="-36.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Pornography">Pornography</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(732.6669600544219,134.3798882681564)">
+  <g style="cursor: move;" transform="translate(1189.4840150263979,206.06331471135942)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="150" height="16" x="-75" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Preventing_totalitarianism">Preventing_totalitarianism</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(454.86521138351753,98.00744878957167)">
+  <g style="cursor: move;" transform="translate(773.0000000000001,158.00000000000003)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="81" height="16" x="-40.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Prison_reform">Prison_reform</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(45.10763209393343,297.1359404096834)">
+  <g style="cursor: move;" transform="translate(46.8274111675127,518.8102384342936)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="44" height="16" x="-22" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Privacy">Privacy</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(876.8923679060666,448.14525139664806)">
+  <g style="cursor: move;" transform="translate(1406,730)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="104" height="16" x="-52" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Productivity_tools">Productivity_tools</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(440.0491181210692,330.1117318435754)">
+  <g style="cursor: move;" transform="translate(798,526)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="66" height="16" x="-33" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Prostitution">Prostitution</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(99.74197599921125,537.3072625698325)">
+  <g style="cursor: move;" transform="translate(365.00000000000006,153.99999999999997)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="107" height="16" x="-53.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Providing_helmets">Providing_helmets</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(763.4566538654473,342.56610800744875)">
+  <g style="cursor: move;" transform="translate(1240.6534858389339,606.1074232299995)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="62" height="16" x="-31" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Rationality">Rationality</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(514.592587347762,326.2905027932961)">
+  <g style="cursor: move;" transform="translate(618,693)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="133" height="16" x="-66.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Recreational_drug_use">Recreational_drug_use</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(498.8504882564107,285.9553072625698)">
+  <g style="cursor: move;" transform="translate(725,463)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="56" height="16" x="-28" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Romance">Romance</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(489.8219314246063,408.8007448789572)">
+  <g style="cursor: move;" transform="translate(205.99999999999997,50.99999999999996)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="213" height="16" x="-106.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/TENS_for_menstrual_pain_reduction">TENS_for_menstrual_pain_reduction</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(522.6951383506633,358.84171322160154)">
-    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
-    <rect class="textbg" fill="#ffffff" width="73" height="16" x="-36.5" y="22"></rect>
-    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/VR_and_AR">VR_and_AR</a></text>
-  </g>
-  <g style="cursor: move;" transform="translate(437.03959917713445,305.20297951582876)">
+  <g style="cursor: move;" transform="translate(835,592)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="115" height="16" x="-57.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Vibrator_distribution">Vibrator_distribution</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(855.825735298523,122.9162011173184)">
+  <g style="cursor: move;" transform="translate(1394.1618982765417,184.0350531273962)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="109" height="16" x="-54.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Volcanic_eruptions">Volcanic_eruptions</a></text>
   </g>
-  <g style="cursor: move;" transform="translate(316.65884141974254,210.3798882681564)">
+  <g style="cursor: move;" transform="translate(498.1190597622845,352.1025303976339)">
     <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
     <rect class="textbg" fill="#ffffff" width="39" height="16" x="-19.5" y="22"></rect>
     <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Zoning">Zoning</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(443,399.99999999999994)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="65" height="16" x="-32.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Tax_reform">Tax_reform</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(424,46.000000000000014)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="112" height="16" x="-56" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Reducing_suffering">Reducing_suffering</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(882.9999999999999,170.99999999999997)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="86" height="16" x="-43" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Climate_policy">Climate_policy</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(729,52.00000000000001)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="58" height="16" x="-29" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Advocacy">Advocacy</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(419,490)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="95" height="16" x="-47.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Vegan_leafleting">Vegan_leafleting</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(885,460)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="129" height="16" x="-64.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Romantic_and_sexual">Romantic_and_sexual</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(1306,314)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="136" height="16" x="-68" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Electromagnetic pulses">Electromagnetic pulses</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(968,684)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="108" height="16" x="-54" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Augmented_reality">Augmented_reality</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(871,703)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="76" height="16" x="-38" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Virtual reality">Virtual reality</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(141.00000000000006,814)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="89" height="16" x="-44.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Violent_actions">Violent_actions</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(182,951)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="125" height="16" x="-62.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Abundance_mentality">Abundance_mentality</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(525.0000000000001,918)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="82" height="16" x="-41" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Adult_learning">Adult_learning</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(705,851)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="110" height="16" x="-55" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Summer_programs">Summer_programs</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(623,918)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="95" height="16" x="-47.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Wastes_of_time">Wastes_of_time</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(459.99999999999994,968)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="100" height="16" x="-50" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Adult_friendships">Adult_friendships</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(333.00000000000006,943)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="130" height="16" x="-65" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Emotional_intelligence">Emotional_intelligence</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(259.99999999999994,925)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="80" height="16" x="-40" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Job_selection">Job_selection</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(799.9999999999999,906)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="50" height="16" x="-25" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Frugality">Frugality</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(117.99999999999999,718)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="112" height="16" x="-56" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Increasing_savings">Increasing_savings</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(1016.9999999999999,230.99999999999997)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="36" height="16" x="-18" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Aliens">Aliens</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(1355,371)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="229" height="16" x="-114.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Recovering_from_a_global_catastrophe">Recovering_from_a_global_catastrophe</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(1390,447)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="101" height="16" x="-50.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Alternative_foods">Alternative_foods</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(447,777)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="73" height="16" x="-36.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Coordination">Coordination</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(731.9999999999999,994)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="333" height="16" x="-166.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Contributing_to_free_and_open-source_software_projects">Contributing_to_free_and_open-source_software_projects</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(933,812)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="159" height="16" x="-79.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Knowledge_loss_over_time">Knowledge_loss_over_time</a></text>
+  </g>
+  <g style="cursor: move;" transform="translate(564,824)">
+    <path fill-opacity="0.7" stroke-width="2" z-index="1" d="M 0 0 m 20, 0 a 20,15 0 1,1 -40,0 a 20,15 0 1,1 40,0" fill="#aaaaaa" stroke="#666666"></path>
+    <rect class="textbg" fill="#ffffff" width="203" height="16" x="-101.5" y="22"></rect>
+    <text class="nodelabel" y="35" text-anchor="middle"><a xlink:href="https://causeprioritization.org/Mechanism_and_institution_design">Mechanism_and_institution_design</a></text>
   </g>
 </svg>
