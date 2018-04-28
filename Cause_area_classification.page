@@ -10,7 +10,7 @@ categories: Cause_prioritization
 
 |Name|Notes|
 |-------------|---------------------------------------------------------------|
-|Sub-cause digraph|See [this Gist](https://gist.github.com/riceissa/542f5a9a46e92d7ad2c9aebcce758f32) or [this graph](http://dagitty.net/mKXhKiv) for a prototype.|
+|Sub-cause digraph|The idea here is to take inspiration from existing similar taxonomies of e.g. academic fields (examples: [1](https://www.ncbi.nlm.nih.gov/books/NBK43464/), [2](https://en.wikipedia.org/wiki/Outline_of_academic_disciplines), [3](https://en.wikipedia.org/wiki/List_of_academic_fields), [4](https://en.wikipedia.org/wiki/Category:Academic_disciplines), [5](http://sites.nationalacademies.org/pga/resdoc/pga_044522)). See [this Gist](https://gist.github.com/riceissa/542f5a9a46e92d7ad2c9aebcce758f32) or [this graph](http://dagitty.net/mKXhKiv) for a prototype.|
 
 # See also
 
