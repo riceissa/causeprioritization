@@ -6,6 +6,12 @@ categories: Cause_prioritization
 
 **Cause area classification**
 
+# Possible way to classify cause areas
+
+|Name|Notes|
+|-------------|---------------------------------------------------------------|
+|Sub-cause digraph|See [this Gist](https://gist.github.com/riceissa/542f5a9a46e92d7ad2c9aebcce758f32) or [this graph](http://dagitty.net/mKXhKiv) for a prototype.|
+
 # See also
 
 - [General questions for causes]()
