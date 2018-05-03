@@ -20,4 +20,18 @@ There are several choices I am trying to decide between:
 
 # What was accomplished
 
+Most of the time was spent on classifying cause areas. I spent a lot of time
+exploring and trying to think up ways to classify causes.
+
+The main concrete outputs are:
+
+- [List of classifications of philanthropy]() which tries to answer "What has
+  been done so far?"
+- [Cause area classification]() which tries to answer "What more could be done?"
+    - [Sub-cause digraph prototype](/dagitty-model.svg)
+    - [Form of altruism vs beneficiary group
+      prototype](https://docs.google.com/document/d/1l22FA-QVcER1mANhs2id_fp5Sc-RlQc4etHizMoEtDw/edit?usp=sharing)
+      which crosses two of the possible classifications to get a table
+- Some additions to [general questions for causes]()
+
 # External links
