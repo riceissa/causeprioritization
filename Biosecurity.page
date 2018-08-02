@@ -3,13 +3,17 @@ format: markdown
 categories: Cause_areas
 ...
 
-Describe synthetic biology
+Natural pandemics or new scientifically engineered pathogens have the potential to cause a vast amount of harm in the near future (potentially killing millions or billions of people).
 
-Describe gain-of-function research, potential pandemic pathogens
+The risks can come from either of these three areas:
 
-Start with GiveWell's investigation: <http://www.givewell.org/labs/causes/biosecurity>
+* **Natural pandemics**. They have resulted in large numbers of deaths in the past. For example, the 1918-1920 "Spanish" flu epidemic killed 50 to 100 million people, more than all the casualties from World War I.
+* **Bioterrorism** and **biological weapons** are terrorism or warfare involving the release of biological agents, in a potentially engineered form so as to be more deadly.
+* **Dual use scientific research** refers to scientific research whose implications can have both positive and negative impacts. For example, gain-of-function research (trying to create organisms with new biological functions) may be useful for understanding pathogens and pandemics, but also carries the risk of the release of pathogens more deadly than previously known ones.
 
-Gain-of-function research may be useful for understanding pathogens, but could itself be very dangerous. No one seems to think that remaining completely ignorant of pathogens is a good idea, but there is disagreement about how useful such research would really be (especially when the risks seem more straightforwardly large).
+# Dual-use scientific research
+
+These risks are closely linked to the field of **synthetic biology**, which combines disciplines from biology and engineering to build artificial biological systems for research, engineering and medical applications.
 
 See opinions of various experts on the following question:
 
@@ -19,7 +23,7 @@ See opinions of various experts on the following question:
 
 Not many voices against, may not be a very balanced discussion.
 
-FIXME What do experts think are the benefits of gain-of-function research? Are there are safer ways to get the same benefits? On the margin, do we need more research about potential pandemic pathogens (taking into account the increased risk, if any) or more caution?
+FIXME What do experts think are the benefits of gain-of-function research? Are there safer ways to get the same benefits? On the margin, do we need more research about potential pandemic pathogens (taking into account the increased risk, if any) or more caution?
 
 See the statements of [Scientists for Science](http://www.scientistsforscience.org/) (generally against more regulation and convinced that benefits are very great) and the [Cambridge Working Group](http://www.cambridgeworkinggroup.org/) (generally for much more caution and not convinced that benefits are that great).
 
@@ -27,10 +31,31 @@ See US government decision to pause gain-of-function research: <https://www.whit
 
 See Owen Cotton-Barratt's market-based proposal to deal with dangerous research that arguably has large benefits: <http://globalprioritiesproject.org/2015/02/research-note-requiring-liability-insurance-for-dual-use-research/>.
 
+# Importance
+
+An engineered pathogen could result in very large number of deaths and a global catastrophe, since it could be designed to have long incubation periods, to be highly lethal and highly infectious. At the same time, engineered pathogens are difficult to regulate, partly because they require fewer resources than e.g. nuclear weapons to be created. As a consequence, many actors could potentially engage into the race, making the subject harder to monitor.
+
+# Tractability
+
+Promising paths include:
+
+* strengthening disease surveillance;
+* improving monitoring and regulation of dual use research;
+* improving the culture of responsibility and safety in dual use research;
+* developing better international emergency response plans;
+* working on novel therapies, such as broad-spectrum flu vaccines;
+* preventing the results of dangerous scientific research from reaching malicious actors.
+
 # Neglectedness
 
-Who is already working on this?
+The US government spends around $5 billion annually on programs related to biosecurity.^[[80,000 Hours: Why preventing pandemics & improving biosecurity is incredibly important](https://80000hours.org/problem-profiles/biosecurity/#what-are-the-major-arguments-against-it-being-pressing)]
 
-Is biosecurity "less sexy" as a cause than artificial intelligence safety work?
+According to an [Open Philanthropy report on biosecurity](https://www.openphilanthropy.org/research/cause-reports/biosecurity#Who_is_already_working_on_it), notable philanthropic foundations working on biosecurity include:
 
-How beneficial would it be to have more people working on solutions full-time?
+* the Skoll Global Threats Fund;
+* the Gates Foundation;
+* the Open Philanthropy Project.
+
+# See also
+
+* [the Open Philanthropy Project cause report on biosecurity (January 2014)](https://www.openphilanthropy.org/research/cause-reports/biosecurity)
