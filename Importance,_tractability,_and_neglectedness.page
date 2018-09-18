@@ -67,3 +67,8 @@ Above, neglectedness is mentioned explicitly, whereas importance is only mention
 
 See also "[Systematically under explored project areas?](http://effective-altruism.com/ea/oe/systematically_under_explored_project_areas/)" for some reasons various causes can be neglected.
 [Extremely neglected causes]() also contains information about neglectedness.
+
+# External links
+
+- <https://animalcharityevaluators.org/advocacy-interventions/prioritizing-causes/#detailed>
+- <https://www.effectivealtruism.org/handbook/> -- see the talk "Prospecting for Gold" by Owen Cotton-Barratt where he formalizes the INT framework as $\frac{dU}{dW} = \frac{dU}{\%dS} \frac{\%dS}{\%dW} \frac{\%dW}{dW}$ where $U$ is the value produced, $W$ is the total work on the problem, and $S$ is the proportion solved.
