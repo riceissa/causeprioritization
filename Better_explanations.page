@@ -39,6 +39,12 @@ A lot of people have thought about mathematical exposition.
 
 New interactive technology (e.g. interactive animations in web browsers) make some things easier to explain.
 
+# Broad explanations vs specialized explanations
+
+I think there are some fields where the basic textbooks/explanations are generally good (or at least "alright"). For these subjects, I think spending time writing yet another broad textbook isn't going to be very useful; more useful would be really specialized explanations of e.g. particularly difficult topics, certain topics that benefit from "unusual" perspectives, summary tables, better examples, better worked-out problems, etc.
+
+On the other hand, other fields lack even good textbooks, or there is a particularly fruitful way to explain the whole subject in a different-from-usual way. In this case, explaining the whole subject over again can be useful (think the state of linear algebra explanations before _Linear Algebra Done Right_).
+
 # See also
 
 - [Argument mapping]()
