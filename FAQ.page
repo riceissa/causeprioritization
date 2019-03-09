@@ -1,10 +1,21 @@
-# Why did you go with this platform (instead of the one you used for the Timelines Wiki)?
+This page hosts questions and answers regarding the wiki itself.
+
+# Why did you use gitit for the wiki, rather than MediaWiki (the software that Timelines Wiki uses)?
+
+When I created the wiki (November 2014) I didn't have much experience with MediaWiki, and at the time I was interested in static site generators (and gitit seemed like an interesting combination of a static site generator with live editing). I also liked the fact that I could work on the wiki locally via git. Since 2014, I've gained more experience working with MediaWiki wikis, so if I was creating the wiki today I would go with MediaWiki. If I could magically press a button that would convert everything to MediaWiki, I would press it, but unfortunately switching platforms takes quite a bit of work. ---Issa
 
 # (how) should I sign my name if I edit the Discuss page (ex.: I want to comment on "merge cryonics page with life extension/aging stuff?" here: https://causeprioritization.org/@Main_Page)
 
+I don't think gitit has a signing feature, so you could do it informally. ---Issa
+
 # (how) can I tag a user on the Discuss page?
+
+I don't think gitit has this feature, so you will have to manually notify the user. ---Issa
 
 # What nomenclature / classification should we use to classify causes? Ex.: Is "Existential Risks" a category, "AI Safety" a cause area within that category, and "decision theory research" an intervention within that cause area? If so, then should we group the cause areas on the main page by categories?
 
+This is a pretty complicated question that I've spent a lot of time thinking about but don't have good answers for. You can see my latest thinking on this [here](https://github.com/riceissa/issarice.com/blob/master/external/effective-altruism.com/cause-area-unit-of-analysis.md) (I plan to ask this as a question on the EA Forum soon). ---Issa
+
 # Who are current editors of the wiki?
 
+There isn't an official list of such users (it's unclear what "current" means or e.g. if there should be a cutoff for substantial contributions). You can see recent activity on the wiki at <https://causeprioritization.org/_activity> and some graphs [here](https://github.com/riceissa/causeprioritization/graphs/contributors). ---Issa
