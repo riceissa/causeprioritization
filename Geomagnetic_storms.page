@@ -1,7 +1,18 @@
 ---
 title: Geomagnetic storms
 format: markdown
-categories: Cause_areas
+categories: Cause_areas, global_catastrophic_risk
 ...
+A  geomagnetic storm (commonly referred to as a solar storm) is a temporary disturbance of the Earth's magnetosphere caused by a solar wind shock wave and/or cloud of magnetic field that interacts with the Earth's magnetic field.
 
-Start with GiveWell's post: <http://www.givewell.org/labs/causes/geomagnetic-storms>
+# Importance
+## Probability
+David Roodman estimates an average frequency of 0.33% per decade of Carrington-scale geomagnetic storms, with a 0%-95% confidence interval of 0% to 4% frequency (source: [Geomagnetic Storms: [Using Extreme Value Theory to Gauge the Risk](https://www.openphilanthropy.org/blog/geomagnetic-storms-using-extreme-value-theory-gauge-risk)).
+
+## Scope and Intensity
+The duration of intense geomagnetic storms could last from minutes to weeks or months. Countries near the equator are probably more at risk. It is unclear to which extend modern transformers would be able to resist. (source: [Coming Down to Earth: What if a Big Geomagnetic Storm Does Hit?"](https://www.openphilanthropy.org/blog/coming-down-earth-what-if-big-geomagnetic-storm-does-hit)).
+
+# External links
+- [Geomagnetic Storms: An Introduction to the Risk"](https://www.openphilanthropy.org/blog/geomagnetic-storms-introduction-risk)
+- [Geomagnetic Storms: History’s Surprising, if Tentative, Reassurance"](https://www.openphilanthropy.org/blog/geomagnetic-storms-historys-surprising-if-tentative-reassurance)
+- [Geomagnetic storm on Wikipedia](https://en.wikipedia.org/wiki/Geomagnetic_storm)
