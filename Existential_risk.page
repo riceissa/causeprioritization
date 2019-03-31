@@ -10,10 +10,6 @@ exrisk xrisk x-risk
 
 An existential risk is one that threatens the entire future of humanity. More specifically, existential risks are those that threaten the extinction of Earth-originating intelligent life or the permanent and drastic destruction of its potential for desirable future development.
 
-Anthropogenic risks are those that would be the result of human activity, and natural risks are those that would be caused by nature. There could also be risks from alien civilizations.
-
-The Open Philanthropy Project with Good Venture is one of the main founders in this space as can be seen in their [grant database](https://www.openphilanthropy.org/giving/grants).
-
 # Types
 
 Nick Bostrom classifies existential risks in the following categories^[[Existential Risks](https://nickbostrom.com/existential/risks.html#_ftnref7)]:
@@ -23,28 +19,7 @@ Nick Bostrom classifies existential risks in the following categories^[[Existent
 > **Shrieks** – Some form of posthumanity is attained but it is an extremely narrow band of what is possible and desirable.  
 > **Whimpers** – A posthuman civilization arises but evolves in a direction that leads gradually but irrevocably to either the complete disappearance of the things we value or to a state where those things are realized to only a minuscule degree of what could have been achieved.
 
-# Prize
-The Future of Life Institute offers the Future of Life Award to individuals that help prevent existential risks ([source](https://futureoflife.org/2017/10/27/55-years-preventing-nuclear-attack-arkhipov-honored-inaugural-future-life-award/)).
-
-
-# Organizations
-Organizations working on a specific existential risk are only mentioned on the specific page for existential risk.
-
-Main focus:  
-
-- [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute)
-- [Future of Life Institute](https://en.wikipedia.org/wiki/Future_of_Life_Institute)  
-- [Global Catastrophic Risk Institute](http://gcrinstitute.org/)  
-- [The Cambridge Centre for the Study of Existential Risk](https://en.wikipedia.org/wiki/Centre_for_the_Study_of_Existential_Risk)  
-- [The Institute for Ethics and Emerging Technology](https://en.wikipedia.org/wiki/Institute_for_Ethics_and_Emerging_Technologies)  
-- [Machine Intelligence Research Institute](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute)  
-- [Center for Security and Emerging Technology](https://cset.georgetown.edu/about-us/)  
-- [OpenAI](https://en.wikipedia.org/wiki/OpenAI)  
-- [AllFed](http://allfed.info/)
-
-Related:  
-
-- [Center for New American Security](https://www.cnas.org)
+Anthropogenic risks are those that would be the result of human activity, and natural risks are those that would be caused by nature. There could also be risks from alien civilizations.
 
 # Interventions
 **[Forecasting]()**
@@ -53,7 +28,7 @@ Related:
 
 **Retain a last-resort readiness for preemptive action**
 
-**Differential technological development**
+**Differential technological development** (see: [Differential progress]())
 
 - [Embryo selection]()
 - [Surveillance]()
@@ -121,12 +96,35 @@ Whimpers:
 - Our potential or even our core values are eroded by evolutionary development (see [Population control]())
 - Killed by an extraterrestrial civilization (see [Aliens]())
 
-# Related concepts
-- [Differential progress]()
-- [Importance]()
+# Prize
+The Future of Life Institute offers the Future of Life Award to individuals that help prevent existential risks ([source](https://futureoflife.org/2017/10/27/55-years-preventing-nuclear-attack-arkhipov-honored-inaugural-future-life-award/)).
+
+# Organizations
+Organizations working on a specific existential risk are only mentioned on the specific page for existential risk.
+
+Main focus:  
+
+- [Future of Humanity Institute](https://en.wikipedia.org/wiki/Future_of_Humanity_Institute)
+- [Future of Life Institute](https://en.wikipedia.org/wiki/Future_of_Life_Institute)  
+- [Global Catastrophic Risk Institute](http://gcrinstitute.org/)  
+- [The Cambridge Centre for the Study of Existential Risk](https://en.wikipedia.org/wiki/Centre_for_the_Study_of_Existential_Risk)  
+- [The Institute for Ethics and Emerging Technology](https://en.wikipedia.org/wiki/Institute_for_Ethics_and_Emerging_Technologies)  
+- [Machine Intelligence Research Institute](https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute)  
+- [Center for Security and Emerging Technology](https://cset.georgetown.edu/about-us/)  
+- [OpenAI](https://en.wikipedia.org/wiki/OpenAI)  
+- [AllFed](http://allfed.info/)
+
+Related:  
+
+- [Center for New American Security](https://www.cnas.org)
+
+# Grants
+
+The Open Philanthropy Project with Good Venture is one of the main founders in this space as can be seen in their [grant database](https://www.openphilanthropy.org/giving/grants).
 
 # See also
 - [Risks of astronomical suffering]()
+- [Importance]()
 
 # External links  
 - [Existential risks website](http://www.existential-risk.org)
