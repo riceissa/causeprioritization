@@ -65,7 +65,7 @@ Other:
 - [Aliens]()
 - Simulation shutdown (see: [Simulation hypothesis]())
 
-## By types
+## By mechanism
 Bangs:
 
 - [Nanotechnology]()
@@ -95,6 +95,24 @@ Whimpers:
 
 - Our potential or even our core values are eroded by evolutionary development (see [Population control]())
 - Killed by an extraterrestrial civilization (see [Aliens]())
+
+## By type of risk^[[How to Understand and Mitigate Risk](https://www.lesswrong.com/posts/eA9a5fpi6vAmyyp74/how-to-understand-and-mitigate-risk)]
+
+Transparent risks
+
+Opaque risks
+
+Knightian risks:
+
+- Black swans
+- Dynamic environment
+- Adversarial environments
+
+Mitigation of Knightian risks:
+
+- Antifragility
+- Effectuation
+- Capability enhancement
 
 # Prize
 The Future of Life Institute offers the Future of Life Award to individuals that help prevent existential risks ([source](https://futureoflife.org/2017/10/27/55-years-preventing-nuclear-attack-arkhipov-honored-inaugural-future-life-award/)).
