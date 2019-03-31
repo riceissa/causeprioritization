@@ -48,12 +48,18 @@ Related:
 
 
 # List of existential risks
+
+## By causes
+
+Anthropogenic risks can be further categorized by whether they are intentional or accidental, and looking at the associated economic incentives.
+
 Technological x-risks:
 
 - [AI safety]() (related: [Whole brain emulation]())
 - [Biosecurity]()
 - [Climate change]()
 - [Nuclear security]()
+- [Physical disasters]()
 - Other: [Emerging technologies assessment]()
 
 Other anthropogenic x-risks:
@@ -70,6 +76,19 @@ Other:
 
 - [Aliens]()
 - Simulation shutdown (see: [Simulation hypothesis]())
+
+## By types
+Bangs:
+
+- [Nanotechnology]()
+- Nuclear holocaust (see: [Nuclear security]())
+- Simulation shutdown (see: [Simulation hypothesis]())
+- Badly programmed superintelligence (see: [AI safety]()
+- Bioengineered pandemics (see: [Biosecurity]())
+- [Physical disasters]()
+- Naturally occuring pandemics (see: [Biosecurity]())
+- [Asteroid or comet impact]()
+- Runaway global warming (see [Climate change](https://causeprioritization.org/Climate_change))
 
 # Broad interventions
 Technologies that could potentially mitigate various existential risks:
