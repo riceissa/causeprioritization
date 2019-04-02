@@ -7,6 +7,9 @@ Nick Bostrom in "[Existential Risks](http://www.nickbostrom.com/existential/risk
 
 > Other technologies that have a wide range of risk-reducing potential include intelligence augmentation, information technology, and surveillance. These can make us smarter individually and collectively, and can make it more feasible to enforce necessary regulation. A strong prima facie case therefore exists for pursuing these technologies as vigorously as possible.
 
+Forms of surveillance include governmental, corporate, and international agreement verifications.
+
+
 # Two-way transparency
 In a footnote:
 
@@ -38,6 +41,17 @@ Make auditing more "scalable".
 
 - Easier to audit a single piece of software used in a wide variety of cases than a large number of humans
 - Easier to associate with summary statistics (e.g. accuracy rate)
+
+Also, some form of surveillance can work only with metadata and avoiding data collection.
+
+- "Set-intersection searches" identify individuals as suspicious if they show up in sufficiently many different data sets (e.g. cell records in different localities); (Segal et al, 2014) show how to conduct them without data collection
+- Fraud detection often involves detecting discrepancies between different data sets; (Bogdanov et al, 2015) shows how to find discrepancies between companies private financial records without collecting them
+
+Accountable algorithms can also be used for that.
+
+- (Krolls et al., 2016) shows how "zero-knowledge proofs" can be used to produce "accountable algorithms"
+
+It's often possible for the public to detect when actors stray from algorithms that have received auditor approval -- or from algorithms with certain formal properties -- without revealing their details.
 
 # External links
 - [Speakularity by Robin Hanson](http://www.overcomingbias.com/2015/09/seeing-the-speakularity.html)
