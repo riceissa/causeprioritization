@@ -19,7 +19,25 @@ the government (§9.4.4 of *The Problem of Political Authority*):
 
 # Avoiding trade-off
 Surveillance is often seen as a tradeoff with privacy and/or accountability, but there exist ways to improve both at the same time.^[[The Future of Surveillance
-](https://www.youtube.com/watch?v=w4g5mCy5yr8)]
+](https://www.youtube.com/watch?v=w4g5mCy5yr8)] For example, dogs in airports can detect explosives and illegal drugs without having to open the bags of travelers, hence respecting their privacy.
+
+Automation might allow to improve both privacy and surveillance.
+
+It can act as a "screen" between initial data and humans.
+
+- Can make initial judgments (like sniffing dogs)
+- Can redact sensitive information (e.g. automatic face blurring)
+
+In certain regards, far more predictable and less opaque than humans.
+
+- Not a complete "black box", as humans are
+- Easier to associate with reliable audit logs
+- Less likely to engage in certain abuses (e.g. LOVEINT)
+
+Make auditing more "scalable".
+
+- Easier to audit a single piece of software used in a wide variety of cases than a large number of humans
+- Easier to associate with summary statistics (e.g. accuracy rate)
 
 # External links
 - [Speakularity by Robin Hanson](http://www.overcomingbias.com/2015/09/seeing-the-speakularity.html)
