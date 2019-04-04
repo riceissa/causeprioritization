@@ -65,6 +65,392 @@ In 2016, GiveWell wrote about possible interventions.^[[Our landscape of the ope
 
 # Organizations
 
+## Altmetrics  
+**ImpactStory**  
+Description: Open-source provider of altmetrics for individual researchers  
+Organizational form: Nonprofit  
+Budget: $625k in Sloan grants over a few years  
+Staff: Unclear; 2 cofounders on website  
+Current Funders: Sloan Foundation  
+Sources: http://impactstory.org/faq ; https://twitter.com/ImpactStory/status/344527516599472128  
+
+**Plum Metrics**  
+Description: Altmetric provider, typically for institutions  
+Organizational form: For-profit  
+Budget: Info not available  
+Staff: Unclear; 2 people on website  
+Current Funders: Looked and couldn't find  
+Sources: http://www.plumanalytics.com/about.html  
+
+**Altmetric.com**  
+Description: Almetric provider for both individuals and institutions  
+Organizational form: For-profit  
+Budget: Info not available  
+Staff: 6  
+Current Funders: Digital Science  
+Sources: http://altmetric.com/about.php  
+
+**PLoS – Article Level Metrics**  
+Description: Less "alternative" and more "article level", open source software for publishers to use for data on downloads, access, etc  
+Organizational form: Nonprofit project  
+Budget: Looked and couldn't find  
+Staff: Unclear; 1 technical lead  
+Current Funders: PLoS  
+Sources: http://blogs.plos.org/mfenner/about/  
+
+
+## Post-publication peer review
+
+**Faculty of 1,000 - F1000 Prime**  
+Description: Paid service with ~10,000 reviewers who participate to rate articles after publication  
+Organizational form: For-profit project  
+Budget: Info not available  
+Staff: Looked and couldn't find  
+Current Funders: F1000  
+Sources: http://www.givewell.org/files/conversations/Jane%20Hunter%20and%20Rebecca%20Lawrence%20(public).pdf  
+
+**Journal Lab**  
+Description: Web interface to allow people to comment on papers, vote up comments, etc.  
+Organizational form: For-profit  
+Budget: Seeking funding  
+Staff: Unclear; 2 cofounders  
+Current Funders: Seeking funding  
+Sources: http://www.givewell.org/files/conversations/David%20Jay%2003-14-13%20(public).pdf  
+  
+**Hypothes.is**  
+Description: Annotation and conversation addon for the entire web  
+Organizational form: Nonprofit  
+Budget: ~$2m budget for 2013  
+Staff: 6  
+Current Funders: Sloan Foundation, Mellon Foundation, others  
+Sources: http://hypothes.is/who/ ; http://www.givewell.org/files/conversations/Dan%20Whaley%2005-08-13%20(public).pdf  
+  
+**Numerous other platforms**  
+Description: https://docs.google.com/document/d/1HD-BEaVeDdFjjCNFkb0j3pvwe7MrP3PtE-bWHkkdq7Q/edit#  
+Organizational form: Varies  
+Budget: Varies  
+Staff: Varies  
+Current Funders: Varies  
+Sources: document initially created by Jason Priem and shared on his Twitter feed  
+  
+## Innovative open access publishing, including preprints  
+  
+**PeerJ**  
+Description: Startup open access journal and preprint publisher, lifetime membership model  
+Organizational form: For-profit  
+Budget: Info not available  
+Staff: 5  
+Current Funders: Looked and couldn't find  
+Sources: https://peerj.com/about/  
+  
+**eLife**  
+Description: New open access journal for the life sciences with no article processing charges for authors, run by HHMI and Wellcome  
+Organizational form: Nonprofit  
+Budget: Looked and couldn't find  
+Staff: Unclear; 13 "executive staff"  
+Current Funders: HHMI, Wellcome, Max Plank Society  
+Sources: http://www.elifesciences.org/about/elife-community/executive-staff/  
+  
+**PLoS**  
+Description: Largest open-source publisher and pioneer in the field, now considered "profitable"  
+Organizational form: Nonprofit  
+Budget: ~$20m in 2011  
+Staff: >130  
+Current Funders: PLoS  
+Sources: http://www.plos.org/about/people/ ; http://projects.propublica.org/nonprofits/organizations/680492065  
+  
+**F1000Research**  
+Description: New open access journal that requires submission of data, publishes prior to peer review, and uses no significance filter  
+Organizational form: For-profit project  
+Budget: Info not available  
+Staff: Looked and couldn't find  
+Current Funders: F1000  
+Sources: http://www.givewell.org/files/conversations/Jane%20Hunter%20and%20Rebecca%20Lawrence%20(public).pdf  
+  
+**PressForward**  
+Description: "A platform for overlay journals"  
+Organizational form: Nonprofit project  
+Budget: Looked and couldn't find  
+Staff: Looked and couldn't find  
+Current Funders: Sloan Foundation  
+Sources: http://www.givewell.org/files/conversations/Josh%20Greenberg%2003-13-13%20(public).pdf  
+  
+**ArXiv**  
+Description: Preprint server for physics, computer science, and some other disciplines  
+Organizational form: Nonprofit project  
+Budget: ~$800K for 2013  
+Staff: Looked and couldn't find  
+Current Funders: Simons Foundation & Cornell  
+Sources: https://confluence.cornell.edu/display/culpublic/Initial+Five-Year+Support+Pledges ;   https://confluence.cornell.edu/download/attachments/127116484/arXiv_CY13_budget_public.pdf
+  
+**Numerous other preprint servers**  
+Description: No exhaustive list, but there are appear to be many at relatively early stages (by comparison to ArXiv)  
+Organizational form: Varies  
+Budget: Varies  
+Staff: Varies  
+Current Funders: Varies  
+Sources: Varies  
+  
+## Sharing data and code  
+  
+**Figshare**  
+Description: Repository for any data, including published article data but not exclusively; gives out DOIs so that researchers can cite  
+Organizational form: For-profit  
+Budget: Info not available  
+Staff: Looked and couldn't find  
+Current Funders: Digital Science  
+Sources: http://www.givewell.org/files/conversations/Kaitlin%20Thaney%2004-10-13%20(public).pdf  
+  
+**Dryad**  
+Description: Repository for data from published articles, works with publishers  
+Organizational form: Nonprofit  
+Budget: $1.3m NSF grant  
+Staff: 7  
+Current Funders: NSF  
+Sources: http://www.nsf.gov/awardsearch/showAward?AWD_ID=1147166 ; http://datadryad.org/pages/whoWeAre#staff  
+  
+**Github**  
+Description: General service for backing up, sharing, and collaborating on code. Not specific to scholarly application  
+Organizational form: For-profit  
+Budget: $100 million in VC funding  
+Staff: 174  
+Current Funders: Andreesen Horowitz  
+Sources: https://github.com/about ; http://www.wired.com/wiredenterprise/2012/07/github100m/  
+  
+**Nature Scientific Data**  
+Description: Data journal  
+Organizational form: For-profit  
+Budget: Info not available  
+Staff: Looked and couldn't find  
+Current Funders: Nature Publishing Group  
+Sources: http://www.nature.com/press_releases/scientificdata.html  
+
+**Duraspace**  
+Description: Produces software for institutional repositories  
+Organizational form: Nonprofit  
+Budget: $1.8m in 2011  
+Staff: 9  
+Current Funders: Mellon Foundation  
+Sources: http://www.duraspace.org/duraspace_staff ; http://projects.propublica.org/nonprofits/organizations/260389639  
+  
+**Registry of Research Data Repositories**  
+Description: re3data.org  
+Organizational form: Nonprofit project  
+Budget: Looked and couldn't find  
+Staff: Looked and couldn't find  
+Current Funders: German Research Foundation DFG  
+Sources: http://www.re3data.org/about/  
+  
+**Dataverse Network**  
+Description: http://thedata.org/  
+Organizational form: Nonprofit project  
+Budget: Looked and couldn't find  
+Staff: 13  
+Current Funders: NSF grants, Harvard  
+Sources: http://thedata.org/book/people  
+
+
+## Reproducibility
+
+**Projects**  
+Description: Data/research process management software  
+Organizational form: For-profit project  
+Budget: Info not available  
+Staff: Looked and couldn't find  
+Current Funders: Digital Science  
+Sources: https://projects.ac/  
+
+**Center for Open Science**  
+Description: Assessing reproducibility of psychology studies, building infrastructure for future reproducibility studies  
+Organizational form: Nonprofit  
+Budget: ~$5m grant  
+Staff: Looked and couldn't find  
+Current Funders: Arnold Foundation  
+Sources: http://www.arnoldfoundation.org/center-open-science-provide-revolutionary-approach-scientific-communication  
+  
+**Reproducibility Initiative**  
+Description: Effort to assess the reproducibility of a sample of volunteered biomedical lab studies  
+Organizational form: Nonprofit project  
+Budget: Seeking funding  
+Staff: 0 full time  
+Current Funders: Seeking funding  
+Sources: http://www.givewell.org/files/conversations/Elizabeth%20Iorns%20conversation%2002-26-13%20(public).pdf  
+  
+**RunMyCode**  
+Description: Allows public reproducibility of submitted data and code  
+Organizational form: Nonprofit  
+Budget: Looked and couldn't find  
+Staff: Unclear; ~13 people on website (excluding board), but many appear to be part time  
+Current Funders: Sloan Foundation  
+Sources: http://www.runmycode.org/CompanionSite/team.do  
+  
+**iPython Notebook**  
+Description: Software environment for reproducible data analysis  
+Organizational form: Nonprofit project  
+Budget: Looked and couldn't find  
+Staff: Looked and couldn't find  
+Current Funders: Sloan Foundation  
+Sources: http://www.givewell.org/fi  les/conversations/Josh%20Greenberg%2003-13-13%20(public).pdf
+  
+  
+## Attribution  
+  
+**ORCID**  
+Description: System to create unique identifiers for researchers so that they can be cited correctly  
+Organizational form: Nonprofit  
+Budget: >$750k in contributions  
+Staff: 6  
+Current Funders: Numerous societies and publishers  
+Sources: http://orcid.org/about/team ; http://orcid.org/about/community/sponsors  
+  
+**DataCite**  
+Description: Infrastructure to enable the citation of data  
+Organizational form: Nonprofit  
+Budget: Looked and couldn't find  
+Staff: Looked and couldn't find  
+Current Funders: Member organizations  
+Sources: http://www.datacite.org/whatdowedo  
+  
+  
+## Advocacy  
+  
+**AllTrials**  
+Description: Campaign to ensure that all trials are registered and fully reported in a timely manner  
+Organizational form: Campaign  
+Budget: ~$60k Just Giving target  
+Staff: Looked and couldn't find  
+Current Funders: Looked and couldn't find  
+Sources: https://www.justgiving.com/alltrials  
+  
+**SPARC**  
+Description: Main open access advocate in the US  
+Organizational form: Nonprofit  
+Budget: <<$1M/year  
+Staff: ~5  
+Current Funders: OSF  
+Sources: http://www.givewell.org/files/conversations/Heather%20Joseph%2005-23-13%20(public).pdf  
+  
+**PLoS - Cameron Neylon**  
+Description: PLoS' advocacy team, working to support open access  
+Organizational form: Nonprofit  
+Budget: Looked and couldn't find  
+Staff: 2  
+Current Funders: PLoS  
+Sources: http://www.plos.org/about/people/staff/#advocacy ; http://www.givewell.org/files/conversations/Cameron%20Neylon%2003-26-13%20(public).pdf  
+
+**Retraction Watch**  
+Description: Blog about retractions  
+Organizational form: Blog  
+Budget: ~None  
+Staff: 2 volunteers  
+Current Funders: None  
+Sources: http://www.givewell.org/files/conversations/Ivan%20Oransky%20Conversation%2002-21-13%20public.pdf  
+
+**SF Declaration on Research Assessment**  
+Description: Campaign against the use of journal impact factors in research evaluation  
+Organizational form: Campaign  
+Budget: Looked and couldn't find  
+Staff: Looked and couldn't find  
+Current Funders: Looked and couldn't find  
+Sources: http://am.ascb.org/dora/  
+
+**Open Knowledge Foundation**  
+Description: Works to open both government and scientific data  
+Organizational form: Nonprofit  
+Budget: Looked and couldn't find  
+Staff: Unclear; ~40 on website but many appear to be volunteers  
+Current Funders: Sloan Foundation, Hewlett Foundation  
+Sources: http://okfn.org/about/partners-and-funders/ ; http://okfn.org/about/team/  
+
+**Sage Bionetworks - John Wilbanks**  
+Description: Policy efforts to make it easier to donate medical data  
+Organizational form: Nonprofit  
+Budget: ~$6m in 2011  
+Staff: ~35 total, with ~1 devoted to policy work  
+Current Funders: Numerous biomedical funders  
+Sources: http://www.givewell.org/files/conversations/John%20Wilbanks%2003-25-13%20(public).pdf ; http://projects.propublica.org/nonprofits/organizations/264489946  
+
+
+## Changing publication models  
+**FORCE 11**  
+Description: Hosts Beyond the PDF conferences, devoted to the next generation of scholarly communication, community website  
+Organizational form: Nonprofit  
+Budget: ~$200k grant  
+Staff: ~1 staff member; ~400 community members  
+Current Funders: Sloan Foundation  
+Sources: Martone notes  
+  
+**myExperiment**  
+Description: http://www.myexperiment.org/  
+Organizational form: Nonprofit  
+Budget: Looked and couldn't find  
+Staff: Looked and couldn't find  
+Current Funders: EU  
+Sources: http://www.myexperiment.org/  
+  
+**Scalar**  
+Description: Platform for digital publications that are not (just) journal articles  
+Organizational form: Nonprofit  
+Budget: Looked and couldn't find  
+Staff: Unclear; 6 people on website  
+Current Funders: Mellon Foundation  
+Sources: http://scalar.usc.edu/people/  
+  
+**Workflow4Ever**  
+Description: http://www.wf4ever-project.org/web/guest/home  
+Organizational form: Nonprofit  
+Budget: ~4m Euro grant  
+Staff: Looked and couldn't find  
+Current Funders: EU  
+Sources: http://www.wf4ever-project.org/partners  
+  
+## Social networks that are working on these issues  
+  
+**Academia.edu**  
+Description: Social network for scientists to share papers, get metrics  
+Organizational form: For-profit  
+Budget: $6.7m in VC funding  
+Staff: Looked and couldn't find  
+Current Funders: Spark and other VCs  
+Sources: http://www.crunchbase.com/company/academia-edu  
+  
+**ResearchGate**  
+Description: Social network for scientists to share papers, get metrics  
+Organizational form: For-profit  
+Budget: >$35m in VC funding  
+Staff: Looked and couldn't find  
+Current Funders: Benchmark, Founders Fund,Bill Gates, other VCs  
+Sources: http://www.crunchbase.com/company/researchgate  
+  
+**Mendeley**  
+Description: Reference manager and social network for scientists  
+Organizational form: For-profit  
+Budget: $2m in VC funding, acquired by Elsevier for ~$100m  
+Staff: Looked and couldn't find  
+Current Funders: Elsevier  
+Sources: http://www.crunchbase.com/company/mendeley  
+  
+  
+## Alternative peer review model  
+**Rubriq**  
+Description: http://www.rubriq.com/  
+Organizational form: For-profit  
+Budget: Info not available  
+Staff: 13  
+Current Funders: Looked and couldn't find  
+Sources: http://www.rubriq.com/who/our-team/  
+  
+**Peerage of Science**  
+Description: A collaborative peer review model in which reviews are eligible for use by multiple jounals; journals pay for the service. Peer   reviews are themselves peer reviewed
+Organizational form: For-profit  
+Budget: Info not available  
+Staff: 2-5  
+Current Funders: May be profitable  
+Sources: http://www.peerageofscience.org/company/our-team/ ; http://www.peerageofscience.org/faq/#faq13  
+  
+    
+## Other  
+    
 **Digital Information Technology**  
 Funder: Alfred P. Sloan Foundation.  
 Description: “the program aims to maximize the efficiency and trustedness of academic research.”  
