@@ -4,7 +4,7 @@ format: markdown
 categories: Cause_areas
 ...
 
-If one thinks that crunch x-risks (such as resource depletion or technological arrest) are more likely than technological x-risks, then improving science as a whole is probably net positive. But x-risk researchers generally put a lot of probability mass on technological x-risks.^[[Global Catastrophic Risks Survey](http://www.global-catastrophic-risks.com/docs/2008-1.pdf)] So improving the speed of scientific research as a whole is probably net negative from a [differential progress perspective](https://concepts.effectivealtruism.org/concepts/differential-progress/) as some scientific development could bring dangerous technologies before our social structure is able to deal with them. 
+If one thinks that crunch x-risks (such as resource depletion or technological arrest) are more likely than technological x-risks, then improving science as a whole is probably net positive. But x-risk researchers generally put a lot of probability mass on technological x-risks.^[[Global Catastrophic Risks Survey](http://www.global-catastrophic-risks.com/docs/2008-1.pdf)] So improving the speed of scientific research as a whole is probably net negative from a [differential progress perspective](https://concepts.effectivealtruism.org/concepts/differential-progress/) as some scientific development could bring dangerous technologies before our social structure is able to deal with them.
 
 However, making certain types of improvement to science or improvements in certain specific sciences can be net positive whether crunches or technological x-risks are more likely. Those interventions are therefore more robust across various worldviews.
 
@@ -23,7 +23,7 @@ A project aiming to speed up the development of social sciences is the [Social S
 
 - [The Preregistration Revolution](https://osf.io/2dxu5/)
 - [Design your research like it's 2019: Preregister your study and analysis plans](https://cos.io/prereg/)
-
+- [A Method for Automatic Trustworthiness in Study Pre-Registration](https://forum.effectivealtruism.org/posts/7qt2sZqEoPpgozukr/a-method-for-automatic-trustworthiness-in-study-pre)
 
 # Peer review
 
@@ -73,3 +73,4 @@ Other interventions that could be investigated include:
 - [Open science]()
 - [Reforming academia]()
 - [Unschooling]()
+- [Information hazard]()
