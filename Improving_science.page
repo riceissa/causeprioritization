@@ -4,9 +4,41 @@ format: markdown
 categories: Cause_areas
 ...
 
-It's unclear whether improving science as a whole would be positive from an [differential progress perspective](https://concepts.effectivealtruism.org/concepts/differential-progress/) as some scientific development could bring dangerous technologies before our social structure is able to deal with them.
+If one thinks that crunch x-risks (such as resource depletion or technological arrest) are more likely than technological x-risks, then improving science as a whole is probably net positive. But x-risk researchers generally put a lot of probability mass on technological x-risks.^[[Global Catastrophic Risks Survey](http://www.global-catastrophic-risks.com/docs/2008-1.pdf)] So improving the speed of scientific research as a whole is probably net negative from a [differential progress perspective](https://concepts.effectivealtruism.org/concepts/differential-progress/) as some scientific development could bring dangerous technologies before our social structure is able to deal with them. 
 
-However, the development of some sciences, like cognitive sciences, might be net positive. A project aiming to speed up the development of social sciences is the [Social Science Prediction Platform](https://socialscienceprediction.org/).
+However, making certain types of improvement to science or improvements in certain specific sciences can be net positive whether crunches or technological x-risks are more likely. Those interventions are therefore more robust across various worldviews.
+
+# Social sciences
+The development of some sciences, like social science and cognitive sciences, might be net positive as they can improve individual and group rationality.
+
+A project aiming to speed up the development of social sciences is the [Social Science Prediction Platform](https://socialscienceprediction.org/).
+
+**See also:**
+
+- [The Value of Wikipedia Contributions in Social Sciences](https://reducing-suffering.org/the-value-of-wikipedia-contributions-in-social-sciences/)
+
+# Pre-registration
+
+**See also:**
+
+- [The Preregistration Revolution](https://osf.io/2dxu5/)
+
+
+# Open science
+
+There are various ways to make science more open, including: altmetrics, open access publishing, sharing data and code, reproducibility, attribution, alternative publication and peer review models, social networks.
+
+Some of those interventions might accelerate areas of science that can be dangerous.
+
+For more information, check the [open science]() page.
+
+
+# Other
+Other interventions that could be investigated include:
+
+- Medical testing reform
+- Intellectual property reform
+
 
 # See also
 - [Open science]()
