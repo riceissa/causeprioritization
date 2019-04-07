@@ -21,16 +21,8 @@ Some support consumerist approaches (for example, supporting promising fake meat
 - Can we/how do we compare animal suffering to human suffering, and what sort of rough dollar costs can we come up with for the cause?
 [Animal Charity Evaluators](http://www.animalcharityevaluators.org/research/organizations/animal-equality-review/) currently estimates that one of its top charities, Animal Equality (AE), spares 10.9 lives for each $1 donation. For comparison, [GiveWell](http://www.givewell.org/giving101/Your-dollar-goes-further-overseas) estimates that it takes $3,400 to save one life through the Against Malaria Foundation (AMF). At face value, these estimates indicate donations can save 37,060 times more lives if given to AE than to AMF, although it's important to consider variables like the difference between quality of life in a developing country from quality of life in industrial agriculture, the ability of different beings to experience suffering, and the lifespan of various populations.
 
-- GiveWell's investigation: <http://www.givewell.org/labs/causes/treatment-animals-industrial-agriculture>
-
-- Talk about how animal suffering is *very* controversial as a cause.
-  Even GiveWell employees have *very* different opinions about how
-  useful ending factory farming is, for instance.
-
-- FIXME: Don't just make this page a collection of quotes from ACE...
 
 # Importance
-
 
 From [Animal Charity Evaluators](http://www.animalcharityevaluators.org/about/transparency/strategic-plan/):
 
@@ -49,18 +41,9 @@ From [Animal Charity Evaluators](http://www.animalcharityevaluators.org/about/tr
 
 # Tractability
 
-
 From [Animal Charity Evaluators](http://www.animalcharityevaluators.org/about/transparency/strategic-plan/):
 
-> Our current [research][ace re] indicates that we can help large
-> numbers of animals for low costs. Additionally, historical evidence
-> from previous social movements suggests it is possible to
-> substantially affect the ideas and moral values of humanity on a large
-> scale. Finally, there is an abundance of research from social
-> psychology, marketing, and other areas that illustrates the ability of
-> purposeful messaging to change individual attitudes and behaviors. The
-> totality of this evidence gives us good reason to believe that we can
-> make serious improvements in the lives of animals.
+> Our current [research][ace re] indicates that we can help large numbers of animals for low costs. Additionally, historical evidence from previous social movements suggests it is possible to substantially affect the ideas and moral values of humanity on a large scale. Finally, there is an abundance of research from social psychology, marketing, and other areas that illustrates the ability of purposeful messaging to change individual attitudes and behaviors. The totality of this evidence gives us good reason to believe that we can make serious improvements in the lives of animals.
 
 [ace re]: http://www.animalcharityevaluators.org/research/
 
@@ -68,16 +51,7 @@ From [Animal Charity Evaluators](http://www.animalcharityevaluators.org/about/tr
 
 From [Animal Charity Evaluators](http://www.animalcharityevaluators.org/about/transparency/strategic-plan/):
 
-> The vast majority of philanthropic funding in the United States goes
-> towards human aid. Even among the funding spent on animals, only [a
-> small portion][a vs d] goes to farmed  animals, despite the fact that
-> farmed animals make up the overwhelming majority of animals killed or
-> used by humans in the United States.  Given the scarcity of
-> philanthropic support for animals, we expect the cause of animal
-> advocacy to be particularly promising for people interested in doing
-> the most good with their resources. There is also little existing
-> guidance about where to give and what to do to benefit animals the
-> most.
+> The vast majority of philanthropic funding in the United States goes towards human aid. Even among the funding spent on animals, only [a small portion][a vs d] goes to farmed  animals, despite the fact that farmed animals make up the overwhelming majority of animals killed or used by humans in the United States.  Given the scarcity of philanthropic support for animals, we expect the cause of animal advocacy to be particularly promising for people interested in doing the most good with their resources. There is also little existing guidance about where to give and what to do to benefit animals the most.
 
 [a vs d]: http://www.animalcharityevaluators.org/research/foundational-research/number-of-animals-vs-amount-of-donations/
 
@@ -95,3 +69,5 @@ The Foundation for Food and Agriculture Research (FFAR) launched the Egg-Tech Pr
 - [Faunalytics](https://faunalytics.org/)
 - [Animal Ethics](http://www.animal-ethics.org/)
 - Paul Christiano: <https://rationalaltruist.com/2013/06/03/my-outlook/#comment-5501>
+- [Treatment of Animals in Industrial Agriculture](https://www.openphilanthropy.org/research/cause-reports/treatment-animals-industrial-agriculture) (by the Open Philanthropy Project)
+- [2017 Report on Consciousness and Moral Patienthood](https://www.openphilanthropy.org/2017-report-consciousness-and-moral-patienthood)
