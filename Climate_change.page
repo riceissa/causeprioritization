@@ -4,24 +4,47 @@ format: markdown
 categories: Cause_areas
 ...
 
+# Problem
 
-# Neglectedness
+## Causal logic
 
-In their [problem profiles](https://80000hours.org/problem-profiles/climate-change/), 80,000 Hours judges that extreme risks of climate change is less neglected than other [existential risk]()s.
+Greenhouse gases (GHGs) emitted by human industrial activity will increase the Earth's surface temperature. This will worsen the productivity of ecosystems, reduce agriculture and fishing output, exacerbate water shortages, exacerbate weather-related risks, worsen human health, and displace people [(IPCC AR5 SPM)](https://www.ipcc.ch/site/assets/uploads/2018/02/AR5_SYR_FINAL_SPM.pdf).
 
-# Interventions
+## Evidence
 
-Founders Pledge made a [cause area report on climate change](https://founderspledge.com/research/Cause%20Report%20-%20Climate%20Change.pdf). They concluded that "carbon capture and storage, nuclear power, low carbon innovation, and forestry are the highest value sectors and technologies to work on. Advocacy for solar and wind and for energy efficiency are likely to be less cost-effective because they are not neglected." For policy work, they prioritize India over the US and China, and the US and China over the EU. Their charity recommendations are the Coalition for Rainforest Nations and the Clean Air Task Force. They state that there are no consensus on those questions, and remain modest towards their findings.
+The evidence base for anthropogenic climate change is robust. Warming of greater than 2°C is commonly expected. There are small chances of warming to 4°C or greater.
 
-Giving What We Can has conducted a [brief search](https://www.givingwhatwecan.org/research/charities-area/climate-change) for relatively effective means of reducing greenhouse emissions, focusing largely on charities. [Cool Earth](http://www.coolearth.org/) was evaluated as most effective among the options considered. Cool earth was estimated to reduce emissions by one tonne of carbon dioxide equivalent for $0.81. However, a more recent report by Sanjay "[Why we have over-rated Cool Earth](https://forum.effectivealtruism.org/posts/RnmZ62kuuC8XzeTBq/why-we-have-over-rated-cool-earth) explains that the initial report didn't take into account that Cool Earth sometimes displaces logging instead of stopping it, and even then they might only be delaying it by a few years until they leave.
+Varying amounts of evidence substantiate specific consequences expected of climate change. The link between climate change and severe weather is disputed.
 
-One possible class of interventions against climate change is [geoengineering]().
+## Scope
 
-# Charities
+Numerous metanalyses attempt to quantify the economic costs of climate change. [Howard and Sterner (2017)](https://policyintegrity.org/files/publications/HowardSternerMetaanalysis.pdf) estimate a 9-10% loss to global GDP from 3°C of warming. [Nordhaus and Moffat (2017)](https://www.nber.org/papers/w23646.pdf) estimate a 1.8% loss from 3°C of warming. [Newell et al (2018)](https://www.rff.org/publications/working-papers/the-gdp-temperature-relationship-implications-for-climate-change-damages/) say that the best performing models estimate a 1-2% cost, though model uncertainty could imply a higher number because damage estimates are right-skewed.
 
-- Coalition for Rainforest Nations
-- Clean Air Task Force
+A disproportionate amount of the damage from climate change is expected to fall upon poorer, developing nations. Therefore the human welfare costs will be greater than those suggested by the global GDP estimates.
 
+Climate change will disrupt the environment, but it's not clear whether this would increase or decrease wildlife suffering [(Tomasik 2018)](https://reducing-suffering.org/climate-change-and-wild-animals/).
+
+[John Halstead](https://docs.google.com/document/d/1qmHh-cshTCMT8LX0Y5wSQm8FMBhaxhQ8OlOeRLkXIF0/edit) found an absence of evidence that climate change is a direct existential risk. [Ozymandias argues](https://forum.effectivealtruism.org/posts/eJPjSZKyT4tcSGfFk/climate-change-is-in-general-not-an-existential-risk) that climate change is generally not an existential risk. Climate change may still indirectly contribute to existential risks by worsening and disrupting civilization, although a similar thing may be said for many other problems such as disease and governance.
+
+# Solutions
+
+## Forest protection
+
+Stopping deforestation preserves vegetation that filters CO2 out of the atmosphere. In 2018, [Founders Pledge estimated](https://founderspledge.com/research/Cause%20Report%20-%20Climate%20Change.pdf) that forestry and land use is a high priority sector to work on climate change.
+
+They also estimate that Coalition for Rainforest Nations is one of the two most efficient climate change charities, by averting CO2e at a rate of approximately $0.12/tonne. 
+
+In 2013, [Giving What We Can estimated](https://www.givingwhatwecan.org/research/charities-area/climate-change) that [Cool Earth](http://www.coolearth.org/) is the most efficient climate change charity out of those considered, reducing CO2e at approximately $0.81/tonne. However, [a more recent report by Sanjay](https://forum.effectivealtruism.org/posts/RnmZ62kuuC8XzeTBq/why-we-have-over-rated-cool-earth) explains that the initial report was overly optimistic.
+
+## Pollution control
+
+Political lobbying can spur regulations and reforms to reduce greenhouse gas emissions. In 2018, [Founders Pledge estimated](https://founderspledge.com/research/Cause%20Report%20-%20Climate%20Change.pdf) that carbon capture and storage, nuclear power and low carbon innovation are the highest priority sectors to work on. Solar and wind power and energy efficiency are lower priorities. They also prioritize work in India over work in the US and China, while still prioritizing work in the US and China over work in the EU.
+
+They also estimated that Clean Air Task Force is one of the two most efficient climate change charities, averting CO2e at a rate of approximately $1/tonne.
+
+## Geoengineering
+
+Geoengineering could shape the Earth's climate and counteract the greenhouse effect. [Halstead argues](https://forum.effectivealtruism.org/posts/bKHjJBkfdHhA3SFJh/the-case-for-delaying-solar-geoengineering-research) that solar geoengineering research should not be pursued right now.
 
 # External links
 
