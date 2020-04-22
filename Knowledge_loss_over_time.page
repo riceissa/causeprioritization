@@ -12,7 +12,7 @@ this quote below (from <https://www.quora.com/What-is-the-greatest-waste-of-huma
 >
 > I believe that people should be given a tax-break in their last 10 years of work if they can prove mentorship and knowledge transfer to newcomers. This would involve a managed program of sorts, but still I believe it is a travesty to see these people with years of experience and knowledge not passing it on.
 
-Jonathan Blow documents some examples of knowledge loss in a [talk](https://www.youtube.com/watch?v=pW-SOdj4Kkk). His examples are space travel (after moon landing until Elon Musk came along), Lycurgus Cup, Antikythera mechanism, and Greek fire (that's the first ~20 minutes of the talk). The rest of the talk then argues that something similar is happening in software today, where everything is becoming more complicated, software is getting buggier over time, proliferation of intermediate layers of abstraction, dependence on this layer of abstraction (which means new people don't know how to work with the lower levels anymore), etc.
+Jonathan Blow documents some examples of knowledge loss in a [talk](https://www.youtube.com/watch?v=pW-SOdj4Kkk "Preventing the Collapse of Civilization"). His examples are space travel (after moon landing until Elon Musk came along), Lycurgus Cup, Antikythera mechanism, and Greek fire (that's the first ~20 minutes of the talk). The rest of the talk then argues that something similar is happening in software today, where everything is becoming more complicated, software is getting buggier over time, proliferation of intermediate layers of abstraction, dependence on this layer of abstraction (which means new people don't know how to work with the lower levels anymore), etc.
 
 ==
 
