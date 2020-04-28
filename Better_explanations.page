@@ -20,6 +20,8 @@ In some cases, there may already exist good explanations, but these just aren't 
 
 "Anything that improves communication abilities or cooperation abilities of people is going to have a huge impact: on the neural side, figuring out how to better learn languages, or how to make social media work. Plus anything that makes human capital easier to acquire and multiply: better education, cognitive enhancement, downloadable skills." ([source](https://80000hours.org/2012/12/how-to-choose-a-research-topic-an-interview-with-anders-sandberg/))
 
+Of course, "better explanations" is a general/neutral capacity, which can also be used possibly to create more persuasive explanations, propaganda, etc.
+
 # Existing work
 
 I think the following people have thought about this, especially for technical explanations and from a human--computer interaction perspective:
@@ -28,8 +30,10 @@ I think the following people have thought about this, especially for technical e
 - Douglas Engelbart
 - Seymour Papert
 - Michael Nielsen
+- Andy Matuschak
 - Christopher Olah
 - Shan Carter
+- Jonathan Blow
 
 Also look more in the user experience community.
 
